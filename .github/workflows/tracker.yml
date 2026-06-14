@@ -1,0 +1,43 @@
+name: tracker
+
+on:
+  schedule:
+    # Cada 15 minutos. Nota: GitHub puede retrasar el cron en horas pico.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}   # permite lanzarlo a mano desde la pesta√±a Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Leer Telegram y resolver apuestas
+        env:
+          TG_API_ID: ${{ secrets.TG_API_ID }}
+          TG_API_HASH: ${{ secrets.TG_API_HASH }}
+          TG_SESSION: ${{ secrets.TG_SESSION }}
+          TG_CHANNEL: ${{ secrets.TG_CHANNEL }}
+        run: python main.py
+
+      - name: Guardar cambios en bets.json
+        run: |
+          git config user.name "tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add bets.json
+          git diff --staged --quiet || git commit -m "actualiza apuestas [skip ci]"
+          git push
