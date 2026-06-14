@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50023
+    "last_message_id": 50025
   },
   "bets": [
     {
@@ -226,6 +226,72 @@
       "stake": 100.0,
       "betway_event_id": "16852108",
       "betway_url": "https://betway.es/es/es/sports/event/16852108",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50024",
+      "msg_id": 50024,
+      "registered_at": "2026-06-14T21:51:44+00:00",
+      "event_time": "2026-06-14T22:00:00",
+      "raw": "✅ EV: 4.8%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: World. World Cup\n🥇 Partido: Netherlands - Japan\n👉🏼 Pick: X\n👉🏼 Cuota: 1.167\n⏰ Fecha: 14/06/2026, 22:00:00\n👌🏼Liq Betfair: 1789$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16558803",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "World. World Cup",
+      "event": "Netherlands - Japan",
+      "home": "Netherlands",
+      "away": "Japan",
+      "pick": "X",
+      "pick_struct": {
+        "raw": "X",
+        "tipo": "1x2",
+        "equipo": "x",
+        "linea": null,
+        "periodo": "full"
+      },
+      "ev": "4.8%",
+      "odds": 1.167,
+      "stake": 100.0,
+      "betway_event_id": "16558803",
+      "betway_url": "https://betway.es/es/es/sports/event/16558803",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50025",
+      "msg_id": 50025,
+      "registered_at": "2026-06-14T21:51:46+00:00",
+      "event_time": "2026-06-14T22:00:00",
+      "raw": "✅ EV: 4.9%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: World. World Cup\n🥇 Partido: Netherlands - Japan\n👉🏼 Pick: X\n👉🏼 Cuota: 1.167\n⏰ Fecha: 14/06/2026, 22:00:00\n👌🏼Liq Betfair: 11118$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16558803",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "World. World Cup",
+      "event": "Netherlands - Japan",
+      "home": "Netherlands",
+      "away": "Japan",
+      "pick": "X",
+      "pick_struct": {
+        "raw": "X",
+        "tipo": "1x2",
+        "equipo": "x",
+        "linea": null,
+        "periodo": "full"
+      },
+      "ev": "4.9%",
+      "odds": 1.167,
+      "stake": 100.0,
+      "betway_event_id": "16558803",
+      "betway_url": "https://betway.es/es/es/sports/event/16558803",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
