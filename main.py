@@ -1,5 +1,5 @@
 """
-Tracker de apuestas Betway — todo en un archivo.
+Tracker de apuestas Betway ‚Äî todo en un archivo.
 Lo ejecuta GitHub Actions cada 15 min:
   1) lee mensajes nuevos del canal de Telegram
   2) registra las apuestas en bets.json
@@ -21,6 +21,9 @@ TG_SESSION = os.environ.get("TG_SESSION", "")
 TG_CHANNEL = os.environ.get("TG_CHANNEL", "")
 RESOLVE_AFTER_HOURS = float(os.environ.get("RESOLVE_AFTER_HOURS", "2"))
 MAX_RESOLVE_WINDOW_HOURS = float(os.environ.get("MAX_RESOLVE_WINDOW_HOURS", "12"))
+# Carga inicial (primera vez, sin historial guardado): solo lee los mensajes de
+# los ultimos X minutos, porque el historial del canal es enorme.
+INITIAL_LOAD_MINUTES = float(os.environ.get("INITIAL_LOAD_MINUTES", "15"))
 STAKE_EUR = 100.0
 BETS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bets.json")
 
@@ -127,7 +130,7 @@ def parse(text, msg_id, date):
 
     odds = _parse_odds(cuota)
     sport = _field(text, "Deporte")
-    competition = _field(text, "Competici[oó]n", "Competicion")
+    competition = _field(text, "Competici[o√≥]n", "Competicion")
     match = _field(text, "Partido")
     fecha = _field(text, "Fecha")
     enlace = _field(text, "Enlace del partido", "Enlace")
@@ -236,7 +239,7 @@ def evaluate(bet, ev):
             return "ganada" if hs == as_ else "perdida"
         return None
 
-    if tipo == "total" and sport in ("fútbol", "futbol", "baloncesto", "basketball", ""):
+    if tipo == "total" and sport in ("f√∫tbol", "futbol", "baloncesto", "basketball", ""):
         line = ps.get("linea")
         if line is None:
             return None
@@ -252,7 +255,7 @@ def evaluate(bet, ev):
         eq = ps.get("equipo")
         if line is None or eq not in ("1", "2"):
             return None
-        if (line * 2) % 2 == 0:  # línea entera -> posible push -> manual
+        if (line * 2) % 2 == 0:  # l√≠nea entera -> posible push -> manual
             return None
         diff = (hs - as_) if eq == "1" else (as_ - hs)
         return "ganada" if diff + line > 0 else "perdida"
@@ -314,7 +317,7 @@ async def fetch_new_messages(last_id):
     await client.connect()
     if not await client.is_user_authorized():
         await client.disconnect()
-        raise RuntimeError("Sesión de Telegram no autorizada (revisa TG_SESSION).")
+        raise RuntimeError("Sesi√≥n de Telegram no autorizada (revisa TG_SESSION).")
     channel = TG_CHANNEL
     try:
         channel = int(channel)
@@ -322,9 +325,19 @@ async def fetch_new_messages(last_id):
         pass
     entity = await client.get_entity(channel)
     messages = []
-    async for msg in client.iter_messages(entity, min_id=last_id, reverse=True):
-        if msg.message:
-            messages.append(msg)
+    if last_id == 0:
+        # Primera vez: solo los ultimos INITIAL_LOAD_MINUTES minutos.
+        cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(minutes=INITIAL_LOAD_MINUTES)
+        async for msg in client.iter_messages(entity):  # del mas nuevo al mas viejo
+            if msg.date < cutoff:
+                break
+            if msg.message:
+                messages.append(msg)
+        messages.reverse()  # orden cronologico
+    else:
+        async for msg in client.iter_messages(entity, min_id=last_id, reverse=True):
+            if msg.message:
+                messages.append(msg)
     await client.disconnect()
     return messages
 
