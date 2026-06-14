@@ -1,5 +1,5 @@
 """
-Tracker de apuestas Betway ‚Äî todo en un archivo.
+Tracker de apuestas Betway — todo en un archivo.
 Lo ejecuta GitHub Actions cada 15 min:
   1) lee mensajes nuevos del canal de Telegram
   2) registra las apuestas en bets.json
@@ -130,7 +130,7 @@ def parse(text, msg_id, date):
 
     odds = _parse_odds(cuota)
     sport = _field(text, "Deporte")
-    competition = _field(text, "Competici[o√≥]n", "Competicion")
+    competition = _field(text, "Competici.n", "Competicion")
     match = _field(text, "Partido")
     fecha = _field(text, "Fecha")
     enlace = _field(text, "Enlace del partido", "Enlace")
@@ -209,27 +209,56 @@ def sofascore_event(event_id):
     return requests.get(f"{SOFA}/event/{event_id}", headers=HEADERS, timeout=15).json().get("event", {})
 
 
+# Deportes donde "current" = goles/puntos (totales y handicaps sobre home+away).
+# Nombres normalizados con _norm (sin acentos ni espacios): futbol -> "ftbol".
+GOAL_SPORTS = {"ftbol", "futbol", "baloncesto", "basketball", "hockey",
+               "balonmano", "handball", "waterpolo", "rugby",
+               "beisbol", "baseball", "futbolamericano", "americanfootball",
+               "voleibol", "volleyball"}
+# Deportes por sets donde "current" = sets ganados; los totales son de JUEGOS.
+SET_SPORTS = {"tenis", "tennis", "padel"}
+
+
 def _period_scores(ev, period):
     hs = ev.get("homeScore") or {}
     as_ = ev.get("awayScore") or {}
-    if period in ("1st", "first half", "1", "1 set"):
+    if period in ("1st", "first half", "1", "1 set", "1set"):
         return hs.get("period1"), as_.get("period1")
     return hs.get("current"), as_.get("current")
+
+
+def _games_total(ev, period):
+    """Tenis: suma de juegos (todos los sets, o solo el set 1)."""
+    only_first = period in ("1st", "1 set", "1set", "first half", "1")
+    total = 0
+    found = False
+    for side in ("homeScore", "awayScore"):
+        s = ev.get(side) or {}
+        keys = ["period1"] if only_first else ["period" + str(i) for i in range(1, 8)]
+        for k in keys:
+            v = s.get(k)
+            if isinstance(v, (int, float)):
+                total += v
+                found = True
+    return total if found else None
 
 
 def evaluate(bet, ev):
     ps = bet.get("pick_struct") or {}
     tipo = ps.get("tipo")
     period = (ps.get("periodo") or "full").lower()
-    sport = (bet.get("sport") or "").lower()
+    nsport = _norm(bet.get("sport"))   # sin acentos: "futbol"->"ftbol", etc.
 
+    # Mercados de un juego/set concreto o 2a parte: no resolubles -> manual.
     if any(x in period for x in ["game", "set,", "2nd", "second"]):
         return None
-    hs, as_ = _period_scores(ev, period)
-    if hs is None or as_ is None:
-        return None
 
+    hs, as_ = _period_scores(ev, period)
+
+    # 1X2 / ganador (cualquier deporte; en tenis "current" = sets ganados)
     if tipo == "1x2":
+        if hs is None or as_ is None:
+            return None
         eq = ps.get("equipo")
         if eq == "1":
             return "ganada" if hs > as_ else "perdida"
@@ -239,23 +268,36 @@ def evaluate(bet, ev):
             return "ganada" if hs == as_ else "perdida"
         return None
 
-    if tipo == "total" and sport in ("f√∫tbol", "futbol", "baloncesto", "basketball", ""):
+    # Totales Over/Under
+    if tipo == "total":
         line = ps.get("linea")
         if line is None:
             return None
-        total = hs + as_
+        if nsport in SET_SPORTS:
+            total = _games_total(ev, period)          # tenis: total de juegos
+        elif nsport in GOAL_SPORTS or nsport == "":
+            total = (hs + as_) if (hs is not None and as_ is not None) else None
+        else:
+            return None
+        if total is None:
+            return None
         if total == line:
             return "anulada"
         if ps.get("equipo") == "over":
             return "ganada" if total > line else "perdida"
         return "ganada" if total < line else "perdida"
 
+    # Handicap asiatico: deportes de goles/puntos, lineas .5, partido completo.
     if tipo == "ah" and period in ("full", "with ot", "regular time"):
+        if nsport not in GOAL_SPORTS and nsport != "":
+            return None
+        if hs is None or as_ is None:
+            return None
         line = ps.get("linea")
         eq = ps.get("equipo")
         if line is None or eq not in ("1", "2"):
             return None
-        if (line * 2) % 2 == 0:  # l√≠nea entera -> posible push -> manual
+        if (line * 2) % 2 == 0:   # linea entera -> posible push -> manual
             return None
         diff = (hs - as_) if eq == "1" else (as_ - hs)
         return "ganada" if diff + line > 0 else "perdida"
@@ -317,7 +359,7 @@ async def fetch_new_messages(last_id):
     await client.connect()
     if not await client.is_user_authorized():
         await client.disconnect()
-        raise RuntimeError("Sesi√≥n de Telegram no autorizada (revisa TG_SESSION).")
+        raise RuntimeError("Sesión de Telegram no autorizada (revisa TG_SESSION).")
     channel = TG_CHANNEL
     try:
         channel = int(channel)
