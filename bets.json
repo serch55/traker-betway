@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50025
+    "last_message_id": 50026
   },
   "bets": [
     {
@@ -33,7 +33,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -66,7 +66,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -292,6 +292,39 @@
       "stake": 100.0,
       "betway_event_id": "16558803",
       "betway_url": "https://betway.es/es/es/sports/event/16558803",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50026",
+      "msg_id": 50026,
+      "registered_at": "2026-06-14T22:18:14+00:00",
+      "event_time": "2026-06-15T00:00:00",
+      "raw": "✅ EV: 4.2%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Voleibol\n📝 Competición: World. Nations League\n🥇 Partido: USA - Italy\n👉🏼 Pick: Team2 Win\n👉🏼 Cuota: 1.6\n⏰ Fecha: 15/06/2026, 00:00:00\n👌🏼Liq Asia: 1500$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16852657",
+      "bookmaker": "Betway",
+      "sport": "voleibol",
+      "competition": "World. Nations League",
+      "event": "USA - Italy",
+      "home": "USA",
+      "away": "Italy",
+      "pick": "Team2 Win",
+      "pick_struct": {
+        "raw": "Team2 Win",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "full"
+      },
+      "ev": "4.2%",
+      "odds": 1.6,
+      "stake": 100.0,
+      "betway_event_id": "16852657",
+      "betway_url": "https://betway.es/es/es/sports/event/16852657",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
