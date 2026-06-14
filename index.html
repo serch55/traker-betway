@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Tracker Apuestas ¬∑ Betway</title>
+<title>Tracker Apuestas · Betway</title>
 <style>
   :root {
     --bg:#0f1216; --card:#171c23; --card2:#1d242d; --line:#2a323c;
@@ -54,11 +54,11 @@
 </head>
 <body>
 <header>
-  <h1>üìä Tracker de Apuestas ¬∑ Betway</h1>
+  <h1>📊 Tracker de Apuestas · Betway</h1>
   <span class="sub" id="updated"></span>
   <div class="spacer"></div>
-  <span class="sub">Stake plano: <b>100‚Ç¨</b></span>
-  <button id="refresh">‚Üª Actualizar</button>
+  <span class="sub">Stake plano: <b>100€</b></span>
+  <button id="refresh">↻ Actualizar</button>
 </header>
 
 <div class="wrap">
@@ -73,20 +73,20 @@
       <button data-f="sin_resolver">Revisar</button>
       <button data-f="descartada">Descartadas</button>
     </div>
-    <input class="search" id="search" placeholder="Buscar evento, deporte, pick, competici√≥n..." />
-    <button id="exportBtn" title="Descargar tus marcas manuales">‚¨á Marcas</button>
-    <button id="importBtn" title="Cargar marcas manuales">‚¨Ü Importar</button>
+    <input class="search" id="search" placeholder="Buscar evento, deporte, pick, competición..." />
+    <button id="exportBtn" title="Descargar tus marcas manuales">⬇ Marcas</button>
+    <button id="importBtn" title="Cargar marcas manuales">⬆ Importar</button>
     <input type="file" id="importFile" accept="application/json" style="display:none" />
   </div>
 
   <table id="tbl">
     <thead><tr>
       <th>Fecha</th><th>Deporte</th><th>Evento</th><th>Pick</th>
-      <th>Cuota</th><th>EV</th><th>Resultado</th><th>Estado</th><th>Beneficio</th><th>Acci√≥n</th>
+      <th>Cuota</th><th>EV</th><th>Resultado</th><th>Estado</th><th>Beneficio</th><th>Acción</th>
     </tr></thead>
     <tbody id="rows"></tbody>
   </table>
-  <div class="empty" id="empty" style="display:none">Sin apuestas todav√≠a. Cuando lleguen al canal aparecer√°n aqu√≠.</div>
+  <div class="empty" id="empty" style="display:none">Sin apuestas todavía. Cuando lleguen al canal aparecerán aquí.</div>
 </div>
 
 <script>
@@ -126,7 +126,7 @@ function render(){
     kpi("Apuestas",n), kpi("Pendientes",pend),
     kpi("Ganadas",win,"var(--win)"), kpi("Perdidas",lose,"var(--lose)"),
     kpi("A revisar",rev,"var(--rev)"), kpi("% Acierto",acierto.toFixed(1)+"%"),
-    kpi("Beneficio",(profit>=0?"+":"")+profit.toFixed(0)+" ‚Ç¨",profit>=0?"var(--win)":"var(--lose)"),
+    kpi("Beneficio",(profit>=0?"+":"")+profit.toFixed(0)+" €",profit>=0?"var(--win)":"var(--lose)"),
     kpi("Yield",(yield_>=0?"+":"")+yield_.toFixed(1)+"%",yield_>=0?"var(--win)":"var(--lose)"),
   ].join("");
 
@@ -152,23 +152,23 @@ function rowHtml(b){
   const s=effStatus(b);
   const date=b.registered_at?new Date(b.registered_at).toLocaleString("es-ES",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"-";
   const p=profitOf(b), pClass=p>0?"profit-pos":(p<0?"profit-neg":"");
-  const manual=overrides[b.id]?"<span class='muted'> ‚úçÔ∏è</span>":"";
+  const manual=overrides[b.id]?"<span class='muted'> ✍️</span>":"";
   const options=STATUSES.map(st=>`<option value="${st}" ${st===s?"selected":""}>${LABELS[st]}</option>`).join("");
-  const betway=b.betway_url?`<a class="link" target="_blank" href="${esc(b.betway_url)}">Betway ‚Üó</a>`:"";
-  const gsearch=b.event?`<a class="link" target="_blank" href="https://www.google.com/search?q=${encodeURIComponent("resultado "+b.event)}">resultado ‚Üó</a>`:"";
+  const betway=b.betway_url?`<a class="link" target="_blank" href="${esc(b.betway_url)}">Betway ↗</a>`:"";
+  const gsearch=b.event?`<a class="link" target="_blank" href="https://www.sofascore.com/search?q=${encodeURIComponent(b.event)}">SofaScore ↗</a>`:"";
   return `<tr>
     <td class="muted" style="font-size:12px">${date}</td>
     <td style="font-size:12px">${esc(b.sport||"-")}</td>
-    <td><div class="ev">${esc(b.event||"‚Äî")}</div>
+    <td><div class="ev">${esc(b.event||"—")}</div>
         <div class="muted" style="font-size:11px">${esc(b.competition||"")}</div>
-        <a class="link" id="tog_${b.id}">mensaje</a> ${betway?"¬∑ "+betway:""} ${gsearch?"¬∑ "+gsearch:""}
+        <a class="link" id="tog_${b.id}">mensaje</a> ${betway?"· "+betway:""} ${gsearch?"· "+gsearch:""}
         <div class="raw" id="raw_${b.id}">${esc(b.raw||"")}</div></td>
-    <td style="font-size:12px">${esc(b.pick||"‚Äî")}</td>
-    <td>${b.odds!=null?b.odds.toFixed(2):"‚Äî"}</td>
-    <td class="muted" style="font-size:12px">${esc(b.ev||"‚Äî")}</td>
-    <td style="font-size:12px">${b.event_result||"<span class='muted'>‚Äî</span>"}${b.result_source?`<br><span class='muted' style='font-size:10px'>${b.result_source}</span>`:""}</td>
+    <td style="font-size:12px">${esc(b.pick||"—")}</td>
+    <td>${b.odds!=null?b.odds.toFixed(2):"—"}</td>
+    <td class="muted" style="font-size:12px">${esc(b.ev||"—")}</td>
+    <td style="font-size:12px">${b.event_result||"<span class='muted'>—</span>"}${b.result_source?`<br><span class='muted' style='font-size:10px'>${b.result_source}</span>`:""}</td>
     <td><span class="badge b-${s}">${LABELS[s]}</span>${manual}</td>
-    <td class="${pClass}">${(s==="ganada"||s==="perdida")?(p>=0?"+":"")+p.toFixed(0)+"‚Ç¨":"‚Äî"}</td>
+    <td class="${pClass}">${(s==="ganada"||s==="perdida")?(p>=0?"+":"")+p.toFixed(0)+"€":"—"}</td>
     <td><select id="sel_${b.id}">${options}</select>
         <br><input class="note" id="note_${b.id}" placeholder="nota" value="${esc(effNote(b))}" style="margin-top:5px;width:95px" /></td>
   </tr>`;
