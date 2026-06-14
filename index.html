@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Tracker Apuestas ¬∑ Betway</title>
+<style>
+  :root {
+    --bg:#0f1216; --card:#171c23; --card2:#1d242d; --line:#2a323c;
+    --txt:#e7edf3; --muted:#93a1b1; --accent:#2ea6ff;
+    --win:#2ecc71; --lose:#ff5c5c; --pend:#f1c40f; --rev:#ff9f43; --void:#8a97a6;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--txt);
+         font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  header { padding:16px 22px; border-bottom:1px solid var(--line);
+           display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
+  header h1 { font-size:18px; margin:0; font-weight:650; }
+  header .sub { color:var(--muted); font-size:12px; }
+  .spacer { flex:1; }
+  button, select, input { font:inherit; color:var(--txt); background:var(--card2);
+           border:1px solid var(--line); border-radius:8px; padding:7px 10px; }
+  button { cursor:pointer; } button:hover { border-color:var(--accent); }
+  .wrap { padding:18px 22px; max-width:1340px; margin:0 auto; }
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(135px,1fr)); gap:12px; margin-bottom:18px; }
+  .kpi { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px; }
+  .kpi .label { color:var(--muted); font-size:12px; }
+  .kpi .val { font-size:23px; font-weight:700; margin-top:4px; }
+  .toolbar { display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-bottom:12px; }
+  .filters button { background:var(--card); }
+  .filters button.active { background:var(--accent); border-color:var(--accent); color:#04121f; font-weight:600; }
+  input.search { flex:1; min-width:170px; }
+  table { width:100%; border-collapse:collapse; background:var(--card); border-radius:12px; overflow:hidden; }
+  th,td { padding:9px 11px; text-align:left; border-bottom:1px solid var(--line); font-size:13px; vertical-align:top; }
+  th { color:var(--muted); font-weight:600; font-size:11px; text-transform:uppercase; letter-spacing:.04em; }
+  tr:hover td { background:var(--card2); }
+  .badge { display:inline-block; padding:3px 9px; border-radius:999px; font-size:11px; font-weight:600; }
+  .b-pendiente { background:rgba(241,196,15,.15); color:var(--pend); }
+  .b-ganada { background:rgba(46,204,113,.15); color:var(--win); }
+  .b-perdida { background:rgba(255,92,92,.15); color:var(--lose); }
+  .b-sin_resolver { background:rgba(255,159,67,.18); color:var(--rev); }
+  .b-anulada,.b-descartada { background:rgba(138,151,166,.18); color:var(--void); }
+  .ev { font-weight:600; }
+  .muted { color:var(--muted); }
+  .raw { white-space:pre-wrap; color:var(--muted); font-size:12px; margin-top:6px; display:none;
+         border-left:2px solid var(--line); padding-left:8px; }
+  .raw.show { display:block; }
+  .link { color:var(--accent); text-decoration:none; font-size:12px; }
+  td.profit-pos { color:var(--win); } td.profit-neg { color:var(--lose); }
+  .empty { text-align:center; color:var(--muted); padding:40px; }
+  .note { font-size:11px; }
+  .pos { color:var(--win); } .neg { color:var(--lose); }
+</style>
+</head>
+<body>
+<header>
+  <h1>üìä Tracker de Apuestas ¬∑ Betway</h1>
+  <span class="sub" id="updated"></span>
+  <div class="spacer"></div>
+  <span class="sub">Stake plano: <b>100‚Ç¨</b></span>
+  <button id="refresh">‚Üª Actualizar</button>
+</header>
+
+<div class="wrap">
+  <div class="cards" id="cards"></div>
+
+  <div class="toolbar">
+    <div class="filters" id="filters">
+      <button data-f="all" class="active">Todas</button>
+      <button data-f="pendiente">Pendientes</button>
+      <button data-f="ganada">Ganadas</button>
+      <button data-f="perdida">Perdidas</button>
+      <button data-f="sin_resolver">Revisar</button>
+      <button data-f="descartada">Descartadas</button>
+    </div>
+    <input class="search" id="search" placeholder="Buscar evento, deporte, pick, competici√≥n..." />
+    <button id="exportBtn" title="Descargar tus marcas manuales">‚¨á Marcas</button>
+    <button id="importBtn" title="Cargar marcas manuales">‚¨Ü Importar</button>
+    <input type="file" id="importFile" accept="application/json" style="display:none" />
+  </div>
+
+  <table id="tbl">
+    <thead><tr>
+      <th>Fecha</th><th>Deporte</th><th>Evento</th><th>Pick</th>
+      <th>Cuota</th><th>EV</th><th>Resultado</th><th>Estado</th><th>Beneficio</th><th>Acci√≥n</th>
+    </tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <div class="empty" id="empty" style="display:none">Sin apuestas todav√≠a. Cuando lleguen al canal aparecer√°n aqu√≠.</div>
+</div>
+
+<script>
+const STAKE = 100;
+const STATUSES = ["pendiente","ganada","perdida","sin_resolver","anulada","descartada"];
+const LABELS = {pendiente:"Pendiente",ganada:"Ganada",perdida:"Perdida",sin_resolver:"Revisar",anulada:"Anulada",descartada:"Descartada"};
+let DATA = {bets:[]}, FILTER="all", SEARCH="";
+
+const overrides = JSON.parse(localStorage.getItem("bet_overrides")||"{}");
+const saveOv = ()=>localStorage.setItem("bet_overrides", JSON.stringify(overrides));
+const effStatus = b => overrides[b.id]?.status || b.status;
+const effNote = b => overrides[b.id]?.note || "";
+
+function profitOf(b){
+  const s=effStatus(b);
+  if(s==="ganada") return b.odds ? (b.odds-1)*STAKE : 0;
+  if(s==="perdida") return -STAKE;
+  return 0;
+}
+
+async function load(){
+  try{ DATA = await (await fetch("bets.json?_="+Date.now())).json(); }
+  catch(e){ DATA={bets:[]}; }
+  render();
+  document.getElementById("updated").textContent = "Actualizado "+new Date().toLocaleString("es-ES");
+}
+
+function render(){
+  const bets=(DATA.bets||[]).slice().sort((a,b)=>(b.registered_at||"").localeCompare(a.registered_at||""));
+  let n=bets.length,win=0,lose=0,pend=0,rev=0,profit=0,staked=0;
+  bets.forEach(b=>{ const s=effStatus(b);
+    if(s==="ganada")win++; else if(s==="perdida")lose++;
+    else if(s==="pendiente")pend++; else if(s==="sin_resolver")rev++;
+    profit+=profitOf(b); if(s==="ganada"||s==="perdida")staked+=STAKE; });
+  const settled=win+lose, acierto=settled?100*win/settled:0, yield_=staked?100*profit/staked:0;
+  document.getElementById("cards").innerHTML=[
+    kpi("Apuestas",n), kpi("Pendientes",pend),
+    kpi("Ganadas",win,"var(--win)"), kpi("Perdidas",lose,"var(--lose)"),
+    kpi("A revisar",rev,"var(--rev)"), kpi("% Acierto",acierto.toFixed(1)+"%"),
+    kpi("Beneficio",(profit>=0?"+":"")+profit.toFixed(0)+" ‚Ç¨",profit>=0?"var(--win)":"var(--lose)"),
+    kpi("Yield",(yield_>=0?"+":"")+yield_.toFixed(1)+"%",yield_>=0?"var(--win)":"var(--lose)"),
+  ].join("");
+
+  const filtered=bets.filter(b=>{
+    if(FILTER!=="all" && effStatus(b)!==FILTER) return false;
+    if(SEARCH){ const hay=((b.event||"")+" "+(b.sport||"")+" "+(b.pick||"")+" "+(b.competition||"")+" "+(b.raw||"")).toLowerCase();
+      if(!hay.includes(SEARCH)) return false; }
+    return true;
+  });
+  document.getElementById("empty").style.display=bets.length?"none":"block";
+  document.getElementById("rows").innerHTML=filtered.map(rowHtml).join("");
+
+  filtered.forEach(b=>{
+    const sel=document.getElementById("sel_"+b.id); if(sel) sel.onchange=()=>setStatus(b.id,sel.value);
+    const tog=document.getElementById("tog_"+b.id); if(tog) tog.onclick=()=>document.getElementById("raw_"+b.id).classList.toggle("show");
+    const note=document.getElementById("note_"+b.id); if(note) note.onchange=()=>{ overrides[b.id]={...(overrides[b.id]||{}),status:effStatus(b),note:note.value}; saveOv(); };
+  });
+}
+
+const kpi=(label,val,color)=>`<div class="kpi"><div class="label">${label}</div><div class="val" style="${color?`color:${color}`:''}">${val}</div></div>`;
+
+function rowHtml(b){
+  const s=effStatus(b);
+  const date=b.registered_at?new Date(b.registered_at).toLocaleString("es-ES",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"-";
+  const p=profitOf(b), pClass=p>0?"profit-pos":(p<0?"profit-neg":"");
+  const manual=overrides[b.id]?"<span class='muted'> ‚úçÔ∏è</span>":"";
+  const options=STATUSES.map(st=>`<option value="${st}" ${st===s?"selected":""}>${LABELS[st]}</option>`).join("");
+  const betway=b.betway_url?`<a class="link" target="_blank" href="${esc(b.betway_url)}">Betway ‚Üó</a>`:"";
+  const gsearch=b.event?`<a class="link" target="_blank" href="https://www.google.com/search?q=${encodeURIComponent("resultado "+b.event)}">resultado ‚Üó</a>`:"";
+  return `<tr>
+    <td class="muted" style="font-size:12px">${date}</td>
+    <td style="font-size:12px">${esc(b.sport||"-")}</td>
+    <td><div class="ev">${esc(b.event||"‚Äî")}</div>
+        <div class="muted" style="font-size:11px">${esc(b.competition||"")}</div>
+        <a class="link" id="tog_${b.id}">mensaje</a> ${betway?"¬∑ "+betway:""} ${gsearch?"¬∑ "+gsearch:""}
+        <div class="raw" id="raw_${b.id}">${esc(b.raw||"")}</div></td>
+    <td style="font-size:12px">${esc(b.pick||"‚Äî")}</td>
+    <td>${b.odds!=null?b.odds.toFixed(2):"‚Äî"}</td>
+    <td class="muted" style="font-size:12px">${esc(b.ev||"‚Äî")}</td>
+    <td style="font-size:12px">${b.event_result||"<span class='muted'>‚Äî</span>"}${b.result_source?`<br><span class='muted' style='font-size:10px'>${b.result_source}</span>`:""}</td>
+    <td><span class="badge b-${s}">${LABELS[s]}</span>${manual}</td>
+    <td class="${pClass}">${(s==="ganada"||s==="perdida")?(p>=0?"+":"")+p.toFixed(0)+"‚Ç¨":"‚Äî"}</td>
+    <td><select id="sel_${b.id}">${options}</select>
+        <br><input class="note" id="note_${b.id}" placeholder="nota" value="${esc(effNote(b))}" style="margin-top:5px;width:95px" /></td>
+  </tr>`;
+}
+
+function setStatus(id,status){
+  const orig=(DATA.bets||[]).find(x=>x.id===id);
+  if(orig && orig.status===status) delete overrides[id];
+  else overrides[id]={...(overrides[id]||{}),status};
+  saveOv(); render();
+}
+const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+document.getElementById("filters").addEventListener("click",e=>{
+  if(e.target.tagName!=="BUTTON")return;
+  document.querySelectorAll("#filters button").forEach(x=>x.classList.remove("active"));
+  e.target.classList.add("active"); FILTER=e.target.dataset.f; render();
+});
+document.getElementById("search").addEventListener("input",e=>{SEARCH=e.target.value.toLowerCase().trim();render();});
+document.getElementById("refresh").addEventListener("click",load);
+document.getElementById("exportBtn").onclick=()=>{
+  const blob=new Blob([JSON.stringify(overrides,null,2)],{type:"application/json"});
+  const a=document.createElement("a"); a.href=URL.createObjectURL(blob); a.download="marcas_manuales.json"; a.click();
+};
+document.getElementById("importBtn").onclick=()=>document.getElementById("importFile").click();
+document.getElementById("importFile").onchange=e=>{
+  const f=e.target.files[0]; if(!f)return;
+  const r=new FileReader(); r.onload=()=>{try{Object.assign(overrides,JSON.parse(r.result));saveOv();render();}catch(_){}}; r.readAsText(f);
+};
+
+load(); setInterval(load,60000);
+</script>
+</body>
+</html>
