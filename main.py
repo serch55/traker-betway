@@ -172,41 +172,106 @@ def parse(text, msg_id, date):
 
 
 # ===========================================================================
-# RESOLVER (SofaScore, conservador)
+# RESOLVER (ESPN, conservador) — la API de ESPN si responde desde la nube.
+# Cubre ligas grandes (WNBA, NBA, NHL, MLB, NFL, futbol top). Lo que no
+# encuentre (ligas menores, Challengers de tenis, AHL...) -> "Revisar" manual.
 # ===========================================================================
-SOFA = "https://api.sofascore.com/api/v1"
+ESPN = "https://site.api.espn.com/apis/site/v2/sports"
 HEADERS = {"User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
            "Accept": "*/*"}
+
+# Deporte normalizado -> ligas ESPN a consultar (deporte/liga).
+ESPN_LEAGUES = {
+    "baloncesto": ["basketball/wnba", "basketball/nba"],
+    "basketball": ["basketball/wnba", "basketball/nba"],
+    "hockey": ["hockey/nhl"],
+    "beisbol": ["baseball/mlb"],
+    "baseball": ["baseball/mlb"],
+    "futbolamericano": ["football/nfl", "football/college-football"],
+    "americanfootball": ["football/nfl", "football/college-football"],
+    "ftbol": ["soccer/eng.1", "soccer/esp.1", "soccer/ita.1", "soccer/ger.1",
+              "soccer/fra.1", "soccer/usa.1", "soccer/bra.1", "soccer/mex.1",
+              "soccer/uefa.champions", "soccer/fifa.world"],
+    "futbol": ["soccer/eng.1", "soccer/esp.1", "soccer/ita.1", "soccer/ger.1",
+               "soccer/fra.1", "soccer/usa.1", "soccer/bra.1", "soccer/mex.1",
+               "soccer/uefa.champions", "soccer/fifa.world"],
+}
 
 
 def _norm(s):
     return re.sub(r"[^a-z0-9]", "", (s or "").lower())
 
 
-def sofascore_find_event(home, away):
-    nh, na = _norm(home), _norm(away)
-    if not (nh and na):
+def _to_int(v):
+    try:
+        return int(float(v))
+    except (TypeError, ValueError):
         return None
-    for q in (f"{home} {away}", home, away):
-        try:
-            results = requests.get(f"{SOFA}/search/all", params={"q": q},
-                                   headers=HEADERS, timeout=15).json().get("results", [])
-        except Exception:
-            continue
-        for res in results:
-            if res.get("type") != "event":
+
+
+def _team_names(c):
+    t = c.get("team") or {}
+    return [t.get("displayName"), t.get("shortDisplayName"), t.get("name"),
+            t.get("location"), t.get("abbreviation")]
+
+
+def _line1(c):
+    ls = c.get("linescores") or []
+    return _to_int(ls[0].get("value")) if ls and isinstance(ls[0], dict) else None
+
+
+def _espn_dates(anchor):
+    return [(anchor + datetime.timedelta(days=d)).strftime("%Y%m%d") for d in (0, -1, 1)]
+
+
+def _espn_scoreboard(path, date, cache):
+    key = (path, date)
+    if key in cache:
+        return cache[key]
+    games = []
+    try:
+        r = requests.get(ESPN + "/" + path + "/scoreboard",
+                         params={"dates": date}, headers=HEADERS, timeout=15)
+        for evn in r.json().get("events", []):
+            comp = (evn.get("competitions") or [{}])[0]
+            cs = comp.get("competitors") or []
+            home = next((c for c in cs if c.get("homeAway") == "home"), None)
+            away = next((c for c in cs if c.get("homeAway") == "away"), None)
+            if not home or not away:
                 continue
-            ev = res.get("entity", {})
-            h = _norm((ev.get("homeTeam") or {}).get("name"))
-            a = _norm((ev.get("awayTeam") or {}).get("name"))
-            if h and a and (nh in h or h in nh) and (na in a or a in na):
-                return ev.get("id")
-    return None
+            st = (comp.get("status") or evn.get("status") or {}).get("type") or {}
+            games.append({
+                "home_names": [_norm(x) for x in _team_names(home) if x],
+                "away_names": [_norm(x) for x in _team_names(away) if x],
+                "finished": (st.get("completed") is True) or (st.get("state") == "post"),
+                "hs": _to_int(home.get("score")), "as": _to_int(away.get("score")),
+                "h1": _line1(home), "a1": _line1(away),
+            })
+    except Exception:
+        pass
+    cache[key] = games
+    return games
 
 
-def sofascore_event(event_id):
-    return requests.get(f"{SOFA}/event/{event_id}", headers=HEADERS, timeout=15).json().get("event", {})
+def _team_in(n, names):
+    return any(n and x and (n in x or x in n) for x in names)
+
+
+def espn_match(bet, anchor, cache):
+    """Busca el partido en ESPN. Devuelve (game, swapped) o (None, False)."""
+    paths = ESPN_LEAGUES.get(_norm(bet.get("sport")), [])
+    nh, na = _norm(bet.get("home")), _norm(bet.get("away"))
+    if not paths or not (nh and na):
+        return None, False
+    for path in paths:
+        for date in _espn_dates(anchor):
+            for g in _espn_scoreboard(path, date, cache):
+                if _team_in(nh, g["home_names"]) and _team_in(na, g["away_names"]):
+                    return g, False
+                if _team_in(nh, g["away_names"]) and _team_in(na, g["home_names"]):
+                    return g, True
+    return None, False
 
 
 # Deportes donde "current" = goles/puntos (totales y handicaps sobre home+away).
@@ -307,6 +372,7 @@ def evaluate(bet, ev):
 
 def resolve_due(data):
     now = datetime.datetime.now(datetime.timezone.utc)
+    cache = {}
     changed = 0
     for bet in data.get("bets", []):
         if bet.get("status") != "pendiente":
@@ -320,16 +386,16 @@ def resolve_due(data):
 
         bet["auto_attempts"] = bet.get("auto_attempts", 0) + 1
         try:
-            eid = sofascore_find_event(bet.get("home"), bet.get("away"))
-            if eid:
-                ev = sofascore_event(eid)
-                status = (ev.get("status") or {}).get("type")
-                ch = (ev.get("homeScore") or {}).get("current")
-                ca = (ev.get("awayScore") or {}).get("current")
-                if ch is not None and ca is not None:
-                    bet["event_result"] = f"{ch}-{ca}"
-                if status == "finished":
-                    bet["result_source"] = "sofascore"
+            g, swapped = espn_match(bet, anchor, cache)
+            if g:
+                hs, as_ = (g["as"], g["hs"]) if swapped else (g["hs"], g["as"])
+                h1, a1 = (g["a1"], g["h1"]) if swapped else (g["h1"], g["a1"])
+                if hs is not None and as_ is not None:
+                    bet["event_result"] = "%s-%s" % (hs, as_)
+                if g["finished"] and hs is not None and as_ is not None:
+                    ev = {"homeScore": {"current": hs, "period1": h1},
+                          "awayScore": {"current": as_, "period1": a1}}
+                    bet["result_source"] = "espn"
                     verdict = evaluate(bet, ev)
                     if verdict:
                         bet["status"] = verdict
