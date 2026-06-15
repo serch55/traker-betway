@@ -28,12 +28,12 @@
       "stake": 100.0,
       "betway_event_id": "16852088",
       "betway_url": "https://betway.es/es/es/sports/event/16852088",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -61,12 +61,12 @@
       "stake": 100.0,
       "betway_event_id": "16857460",
       "betway_url": "https://betway.es/es/es/sports/event/16857460",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -99,7 +99,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -127,12 +127,12 @@
       "stake": 100.0,
       "betway_event_id": "16856180",
       "betway_url": "https://betway.es/es/es/sports/event/16856180",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "perdida",
+      "resolved_at": "2026-06-15T08:43:56.386633+00:00",
+      "result_source": "espn",
+      "event_result": "77-102",
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -160,12 +160,12 @@
       "stake": 100.0,
       "betway_event_id": "16856180",
       "betway_url": "https://betway.es/es/es/sports/event/16856180",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "perdida",
+      "resolved_at": "2026-06-15T08:43:56.386633+00:00",
+      "result_source": "espn",
+      "event_result": "77-102",
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -193,12 +193,12 @@
       "stake": 100.0,
       "betway_event_id": "16856180",
       "betway_url": "https://betway.es/es/es/sports/event/16856180",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "ganada",
+      "resolved_at": "2026-06-15T08:43:56.386633+00:00",
+      "result_source": "espn",
+      "event_result": "77-102",
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -226,12 +226,12 @@
       "stake": 100.0,
       "betway_event_id": "16852108",
       "betway_url": "https://betway.es/es/es/sports/event/16852108",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -259,12 +259,12 @@
       "stake": 100.0,
       "betway_event_id": "16558803",
       "betway_url": "https://betway.es/es/es/sports/event/16558803",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "ganada",
+      "resolved_at": "2026-06-15T08:43:56.386633+00:00",
+      "result_source": "espn",
+      "event_result": "2-2",
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -292,12 +292,12 @@
       "stake": 100.0,
       "betway_event_id": "16558803",
       "betway_url": "https://betway.es/es/es/sports/event/16558803",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "ganada",
+      "resolved_at": "2026-06-15T08:43:56.386633+00:00",
+      "result_source": "espn",
+      "event_result": "2-2",
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -330,7 +330,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -363,7 +363,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -396,7 +396,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -429,7 +429,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -462,7 +462,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -495,7 +495,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -528,7 +528,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -561,7 +561,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -594,7 +594,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -622,12 +622,12 @@
       "stake": 100.0,
       "betway_event_id": "16848950",
       "betway_url": "https://betway.es/es/es/sports/event/16848950",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "ganada",
+      "resolved_at": "2026-06-15T08:43:56.386633+00:00",
+      "result_source": "espn",
+      "event_result": "0-3",
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -655,12 +655,12 @@
       "stake": 100.0,
       "betway_event_id": "16848950",
       "betway_url": "https://betway.es/es/es/sports/event/16848950",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "ganada",
+      "resolved_at": "2026-06-15T08:43:56.386633+00:00",
+      "result_source": "espn",
+      "event_result": "0-3",
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -693,7 +693,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -726,7 +726,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -759,7 +759,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -792,7 +792,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -820,12 +820,12 @@
       "stake": 100.0,
       "betway_event_id": "16848950",
       "betway_url": "https://betway.es/es/es/sports/event/16848950",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "perdida",
+      "resolved_at": "2026-06-15T08:43:56.386633+00:00",
+      "result_source": "espn",
+      "event_result": "0-3",
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -853,12 +853,12 @@
       "stake": 100.0,
       "betway_event_id": "16558805",
       "betway_url": "https://betway.es/es/es/sports/event/16558805",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "perdida",
+      "resolved_at": "2026-06-15T08:43:56.386633+00:00",
+      "result_source": "espn",
+      "event_result": "5-1",
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     }
   ]
