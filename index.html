@@ -155,7 +155,7 @@ function rowHtml(b){
   const manual=overrides[b.id]?"<span class='muted'> ✍️</span>":"";
   const options=STATUSES.map(st=>`<option value="${st}" ${st===s?"selected":""}>${LABELS[st]}</option>`).join("");
   const betway=b.betway_url?`<a class="link" target="_blank" href="${esc(b.betway_url)}">Betway ↗</a>`:"";
-  const gsearch=b.event?`<a class="link" target="_blank" href="https://www.sofascore.com/search?q=${encodeURIComponent(b.event)}">SofaScore ↗</a>`:"";
+  const gsearch=b.event?`<a class="link" target="_blank" href="https://www.google.com/search?q=${encodeURIComponent(b.event+" resultado")}">resultado ↗</a>`:"";
   return `<tr>
     <td class="muted" style="font-size:12px">${date}</td>
     <td style="font-size:12px">${esc(b.sport||"-")}</td>
