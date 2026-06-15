@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50038
+    "last_message_id": 50041
   },
   "bets": [
     {
@@ -33,7 +33,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -66,7 +66,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -99,7 +99,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -132,7 +132,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -165,7 +165,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -198,7 +198,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -231,7 +231,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -264,7 +264,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -297,7 +297,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -363,7 +363,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -396,7 +396,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -429,7 +429,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -462,7 +462,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -495,7 +495,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -528,7 +528,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -561,7 +561,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -721,6 +721,105 @@
       "stake": 100.0,
       "betway_event_id": "16558799",
       "betway_url": "https://betway.es/es/es/sports/event/16558799",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50039",
+      "msg_id": 50039,
+      "registered_at": "2026-06-15T01:34:34+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Puerto Rico. Superior Nacional.\n🥇 Partido: Vaqueros de Bayamon - Atleticos de San German\n👉🏼 Pick: Asian Handicap2(18.5) - with OT\n👉🏼 Cuota: 1.909\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16857631",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Puerto Rico. Superior Nacional.",
+      "event": "Vaqueros de Bayamon - Atleticos de San German",
+      "home": "Vaqueros de Bayamon",
+      "away": "Atleticos de San German",
+      "pick": "Asian Handicap2(18.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap2(18.5) - with OT",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": 18.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16857631",
+      "betway_url": "https://betway.es/es/es/sports/event/16857631",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50040",
+      "msg_id": 50040,
+      "registered_at": "2026-06-15T01:36:06+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Puerto Rico. Superior Nacional.\n🥇 Partido: Vaqueros de Bayamon - Atleticos de San German\n👉🏼 Pick: Asian Handicap2(19.5) - with OT\n👉🏼 Cuota: 1.909\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16857631",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Puerto Rico. Superior Nacional.",
+      "event": "Vaqueros de Bayamon - Atleticos de San German",
+      "home": "Vaqueros de Bayamon",
+      "away": "Atleticos de San German",
+      "pick": "Asian Handicap2(19.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap2(19.5) - with OT",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": 19.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16857631",
+      "betway_url": "https://betway.es/es/es/sports/event/16857631",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50041",
+      "msg_id": 50041,
+      "registered_at": "2026-06-15T01:48:59+00:00",
+      "event_time": "2026-06-15T02:00:00",
+      "raw": "✅ EV: 5.2%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Hockey\n📝 Competición: USA. NHL\n🥇 Partido: Vegas Golden Knights - Carolina Hurricanes\n👉🏼 Pick: Total Over(3.5)\n👉🏼 Cuota: 1.714\n⏰ Fecha: 15/06/2026, 02:00:00\n👌🏼Liq Asia: 4500$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16848950",
+      "bookmaker": "Betway",
+      "sport": "hockey",
+      "competition": "USA. NHL",
+      "event": "Vegas Golden Knights - Carolina Hurricanes",
+      "home": "Vegas Golden Knights",
+      "away": "Carolina Hurricanes",
+      "pick": "Total Over(3.5)",
+      "pick_struct": {
+        "raw": "Total Over(3.5)",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 3.5,
+        "periodo": "full"
+      },
+      "ev": "5.2%",
+      "odds": 1.714,
+      "stake": 100.0,
+      "betway_event_id": "16848950",
+      "betway_url": "https://betway.es/es/es/sports/event/16848950",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
