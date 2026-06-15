@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50130
+    "last_message_id": 50138
   },
   "bets": [
     {
@@ -561,7 +561,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -594,7 +594,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -627,7 +627,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -660,7 +660,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -693,7 +693,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -726,7 +726,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -759,7 +759,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -792,7 +792,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -825,7 +825,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -858,7 +858,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -891,7 +891,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -924,7 +924,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -957,7 +957,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -990,7 +990,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -1023,7 +1023,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -1056,7 +1056,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -1089,7 +1089,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -1122,7 +1122,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -1155,7 +1155,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -1188,7 +1188,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1221,7 +1221,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1254,7 +1254,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1287,7 +1287,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1320,7 +1320,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1353,7 +1353,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1386,7 +1386,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1419,7 +1419,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1452,7 +1452,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1485,7 +1485,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1518,7 +1518,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1551,7 +1551,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1579,12 +1579,12 @@
       "stake": 100.0,
       "betway_event_id": "16558834",
       "betway_url": "https://betway.es/es/es/sports/event/16558834",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "perdida",
+      "resolved_at": "2026-06-15T20:24:53.751472+00:00",
+      "result_source": "espn",
+      "event_result": "0-0",
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -1617,7 +1617,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1650,7 +1650,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1683,7 +1683,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1716,7 +1716,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1749,7 +1749,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1782,7 +1782,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1815,7 +1815,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2140,6 +2140,105 @@
       "stake": 100.0,
       "betway_event_id": "16558810",
       "betway_url": "https://betway.es/es/es/sports/event/16558810",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50132",
+      "msg_id": 50132,
+      "registered_at": "2026-06-15T19:41:44+00:00",
+      "event_time": "2026-06-15T21:00:00",
+      "raw": "✅ EV: 4.2%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Iceland. 3nd Division\n🥇 Partido: FC Arbaer - Ymir\n👉🏼 Pick: Total Under(5.5)\n👉🏼 Cuota: 1.571\n⏰ Fecha: 15/06/2026, 21:00:00\n👌🏼Liq Asia: 1200$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859874",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Iceland. 3nd Division",
+      "event": "FC Arbaer - Ymir",
+      "home": "FC Arbaer",
+      "away": "Ymir",
+      "pick": "Total Under(5.5)",
+      "pick_struct": {
+        "raw": "Total Under(5.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 5.5,
+        "periodo": "full"
+      },
+      "ev": "4.2%",
+      "odds": 1.571,
+      "stake": 100.0,
+      "betway_event_id": "16859874",
+      "betway_url": "https://betway.es/es/es/sports/event/16859874",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50136",
+      "msg_id": 50136,
+      "registered_at": "2026-06-15T20:16:08+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Asuncion - Paraguay.\n🥇 Partido: Juan Estevez - Samuel Alejandro Linde Palacios\n👉🏼 Pick: Asian Handicap1(-6.5) - regular time\n👉🏼 Cuota: 1.85\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859508",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Asuncion - Paraguay.",
+      "event": "Juan Estevez - Samuel Alejandro Linde Palacios",
+      "home": "Juan Estevez",
+      "away": "Samuel Alejandro Linde Palacios",
+      "pick": "Asian Handicap1(-6.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-6.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -6.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.85,
+      "stake": 100.0,
+      "betway_event_id": "16859508",
+      "betway_url": "https://betway.es/es/es/sports/event/16859508",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50137",
+      "msg_id": 50137,
+      "registered_at": "2026-06-15T20:17:16+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Peru. League Cup.\n🥇 Partido: Estudiantil CNI - Union Comercio\n👉🏼 Pick: Total Over(1.5) - 1st\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16860494",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Peru. League Cup.",
+      "event": "Estudiantil CNI - Union Comercio",
+      "home": "Estudiantil CNI",
+      "away": "Union Comercio",
+      "pick": "Total Over(1.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Over(1.5) - 1st",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 1.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16860494",
+      "betway_url": "https://betway.es/es/es/sports/event/16860494",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
