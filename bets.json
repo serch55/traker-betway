@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50042
+    "last_message_id": 50046
   },
   "bets": [
     {
@@ -99,7 +99,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -330,7 +330,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -363,7 +363,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -396,7 +396,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -429,7 +429,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -462,7 +462,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -495,7 +495,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -528,7 +528,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -561,7 +561,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -594,7 +594,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -693,7 +693,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -726,7 +726,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -759,7 +759,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -792,7 +792,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -859,6 +859,138 @@
       "event_result": "5-1",
       "needs_review": false,
       "auto_attempts": 2,
+      "last_error": null
+    },
+    {
+      "id": "b50043",
+      "msg_id": 50043,
+      "registered_at": "2026-06-15T08:49:16+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Elizara Yaneva - Giorgia Pedone\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.3\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859249",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Elizara Yaneva - Giorgia Pedone",
+      "home": "Elizara Yaneva",
+      "away": "Giorgia Pedone",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.3,
+      "stake": 100.0,
+      "betway_event_id": "16859249",
+      "betway_url": "https://betway.es/es/es/sports/event/16859249",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50044",
+      "msg_id": 50044,
+      "registered_at": "2026-06-15T08:54:55+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: No Stake / Manual Review\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Berlin.\n🥇 Partido: Diane Parry - Ella Seidel\n👉🏼 Pick: Team1 Win - 2 set, 10 game\n👉🏼 Cuota: 1.12\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16860740",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Berlin.",
+      "event": "Diane Parry - Ella Seidel",
+      "home": "Diane Parry",
+      "away": "Ella Seidel",
+      "pick": "Team1 Win - 2 set, 10 game",
+      "pick_struct": {
+        "raw": "Team1 Win - 2 set, 10 game",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "2 set, 10 game"
+      },
+      "ev": null,
+      "odds": 1.12,
+      "stake": 100.0,
+      "betway_event_id": "16860740",
+      "betway_url": "https://betway.es/es/es/sports/event/16860740",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50045",
+      "msg_id": 50045,
+      "registered_at": "2026-06-15T09:18:15+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Parma - Italy.\n🥇 Partido: Ryan Seggerman - Miguel Tobon\n👉🏼 Pick: Total Over(27.5) - regular time\n👉🏼 Cuota: 1.55\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859115",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Parma - Italy.",
+      "event": "Ryan Seggerman - Miguel Tobon",
+      "home": "Ryan Seggerman",
+      "away": "Miguel Tobon",
+      "pick": "Total Over(27.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(27.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 27.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.55,
+      "stake": 100.0,
+      "betway_event_id": "16859115",
+      "betway_url": "https://betway.es/es/es/sports/event/16859115",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50046",
+      "msg_id": 50046,
+      "registered_at": "2026-06-15T09:24:54+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Elizara Yaneva - Giorgia Pedone\n👉🏼 Pick: Total Under(18.5) - regular time\n👉🏼 Cuota: 2.25\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859249",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Elizara Yaneva - Giorgia Pedone",
+      "home": "Elizara Yaneva",
+      "away": "Giorgia Pedone",
+      "pick": "Total Under(18.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(18.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 18.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.25,
+      "stake": 100.0,
+      "betway_event_id": "16859249",
+      "betway_url": "https://betway.es/es/es/sports/event/16859249",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
       "last_error": null
     }
   ]
