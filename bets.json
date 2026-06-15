@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50112
+    "last_message_id": 50127
   },
   "bets": [
     {
@@ -891,7 +891,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -924,7 +924,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -957,7 +957,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -990,7 +990,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -1023,7 +1023,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1056,7 +1056,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1089,7 +1089,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1122,7 +1122,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1155,7 +1155,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1188,7 +1188,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1221,7 +1221,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1254,7 +1254,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1287,7 +1287,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1320,7 +1320,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1353,7 +1353,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -1386,7 +1386,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1419,7 +1419,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1452,7 +1452,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1485,7 +1485,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1518,7 +1518,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1551,7 +1551,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1584,7 +1584,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1617,7 +1617,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1650,7 +1650,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1683,7 +1683,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1716,7 +1716,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1749,7 +1749,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1782,7 +1782,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1815,7 +1815,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1848,7 +1848,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1881,7 +1881,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -1914,7 +1914,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -1947,7 +1947,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -1980,7 +1980,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2013,7 +2013,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2046,7 +2046,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2079,7 +2079,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2112,7 +2112,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2145,7 +2145,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2178,7 +2178,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2211,7 +2211,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2244,7 +2244,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2277,7 +2277,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2310,7 +2310,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2343,7 +2343,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2376,7 +2376,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2409,7 +2409,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2442,7 +2442,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2475,7 +2475,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2508,7 +2508,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2541,7 +2541,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2574,7 +2574,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2607,7 +2607,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2673,7 +2673,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2772,7 +2772,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2805,7 +2805,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2838,7 +2838,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2904,7 +2904,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2937,7 +2937,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2970,7 +2970,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3003,7 +3003,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3036,7 +3036,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3069,7 +3069,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3163,6 +3163,501 @@
       "stake": 100.0,
       "betway_event_id": "16856175",
       "betway_url": "https://betway.es/es/es/sports/event/16856175",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50113",
+      "msg_id": 50113,
+      "registered_at": "2026-06-15T17:51:29+00:00",
+      "event_time": "2026-06-15T18:00:00",
+      "raw": "✅ EV: 5.7%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: World. World Cup\n🥇 Partido: Spain - Cape Verde\n👉🏼 Pick: Score (0.0)\n👉🏼 Cuota: 1.4\n⏰ Fecha: 15/06/2026, 18:00:00\n👌🏼Liq Betfair: 3961$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16558834",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "World. World Cup",
+      "event": "Spain - Cape Verde",
+      "home": "Spain",
+      "away": "Cape Verde",
+      "pick": "Score (0.0)",
+      "pick_struct": {
+        "raw": "Score (0.0)",
+        "tipo": "otro",
+        "equipo": null,
+        "linea": null,
+        "periodo": "full"
+      },
+      "ev": "5.7%",
+      "odds": 1.4,
+      "stake": 100.0,
+      "betway_event_id": "16558834",
+      "betway_url": "https://betway.es/es/es/sports/event/16558834",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50114",
+      "msg_id": 50114,
+      "registered_at": "2026-06-15T17:51:45+00:00",
+      "event_time": "2026-06-15T18:00:00",
+      "raw": "✅ EV: 6.1%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: World. World Cup\n🥇 Partido: Spain - Cape Verde\n👉🏼 Pick: X\n👉🏼 Cuota: 1.364\n⏰ Fecha: 15/06/2026, 18:00:00\n👌🏼Liq Betfair: 8715$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16558834",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "World. World Cup",
+      "event": "Spain - Cape Verde",
+      "home": "Spain",
+      "away": "Cape Verde",
+      "pick": "X",
+      "pick_struct": {
+        "raw": "X",
+        "tipo": "1x2",
+        "equipo": "x",
+        "linea": null,
+        "periodo": "full"
+      },
+      "ev": "6.1%",
+      "odds": 1.364,
+      "stake": 100.0,
+      "betway_event_id": "16558834",
+      "betway_url": "https://betway.es/es/es/sports/event/16558834",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50115",
+      "msg_id": 50115,
+      "registered_at": "2026-06-15T18:33:46+00:00",
+      "event_time": "2026-06-15T20:00:00",
+      "raw": "✅ EV: 4.0%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Iceland. Premier League\n🥇 Partido: KA Akureyri - Fram Reykjavik\n👉🏼 Pick: Total Under(6.5)\n👉🏼 Cuota: 1.615\n⏰ Fecha: 15/06/2026, 20:00:00\n👌🏼Liq Asia: 3125$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16847599",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Iceland. Premier League",
+      "event": "KA Akureyri - Fram Reykjavik",
+      "home": "KA Akureyri",
+      "away": "Fram Reykjavik",
+      "pick": "Total Under(6.5)",
+      "pick_struct": {
+        "raw": "Total Under(6.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 6.5,
+        "periodo": "full"
+      },
+      "ev": "4.0%",
+      "odds": 1.615,
+      "stake": 100.0,
+      "betway_event_id": "16847599",
+      "betway_url": "https://betway.es/es/es/sports/event/16847599",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50116",
+      "msg_id": 50116,
+      "registered_at": "2026-06-15T18:34:52+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Tiantsoa Sarah Rakotomanga Rajaonah - Yuliana Lizarazo\n👉🏼 Pick: Total Over(13.5) - regular time\n👉🏼 Cuota: 1.55\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859241",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Tiantsoa Sarah Rakotomanga Rajaonah - Yuliana Lizarazo",
+      "home": "Tiantsoa Sarah Rakotomanga Rajaonah",
+      "away": "Yuliana Lizarazo",
+      "pick": "Total Over(13.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(13.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 13.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.55,
+      "stake": 100.0,
+      "betway_event_id": "16859241",
+      "betway_url": "https://betway.es/es/es/sports/event/16859241",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50117",
+      "msg_id": 50117,
+      "registered_at": "2026-06-15T18:37:21+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Poland. PLK.\n🥇 Partido: Zielona Gora - Legia Warszawa\n👉🏼 Pick: Asian Handicap2(6.5) - 1st half\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16857662",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Poland. PLK.",
+      "event": "Zielona Gora - Legia Warszawa",
+      "home": "Zielona Gora",
+      "away": "Legia Warszawa",
+      "pick": "Asian Handicap2(6.5) - 1st half",
+      "pick_struct": {
+        "raw": "Asian Handicap2(6.5) - 1st half",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": 6.5,
+        "periodo": "full"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16857662",
+      "betway_url": "https://betway.es/es/es/sports/event/16857662",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50118",
+      "msg_id": 50118,
+      "registered_at": "2026-06-15T18:39:18+00:00",
+      "event_time": "2026-06-15T19:05:00",
+      "raw": "✅ EV: 4.6%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Sweden. Superettan\n🥇 Partido: IFK Norrkoping - Varbergs BoIS\n👉🏼 Pick: Total Under(3.5)\n👉🏼 Cuota: 1.154\n⏰ Fecha: 15/06/2026, 19:05:00\n👌🏼Liq Betfair: 1505$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16843307",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Sweden. Superettan",
+      "event": "IFK Norrkoping - Varbergs BoIS",
+      "home": "IFK Norrkoping",
+      "away": "Varbergs BoIS",
+      "pick": "Total Under(3.5)",
+      "pick_struct": {
+        "raw": "Total Under(3.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 3.5,
+        "periodo": "full"
+      },
+      "ev": "4.6%",
+      "odds": 1.154,
+      "stake": 100.0,
+      "betway_event_id": "16843307",
+      "betway_url": "https://betway.es/es/es/sports/event/16843307",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50119",
+      "msg_id": 50119,
+      "registered_at": "2026-06-15T18:39:43+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Argentina. Primera Division Reserves.\n🥇 Partido: Atletico Rafaela Reserves - Deportivo Riestra Reserves\n👉🏼 Pick: X - 1st\n👉🏼 Cuota: 1.25\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16856002",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Argentina. Primera Division Reserves.",
+      "event": "Atletico Rafaela Reserves - Deportivo Riestra Reserves",
+      "home": "Atletico Rafaela Reserves",
+      "away": "Deportivo Riestra Reserves",
+      "pick": "X - 1st",
+      "pick_struct": {
+        "raw": "X - 1st",
+        "tipo": "1x2",
+        "equipo": "x",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.25,
+      "stake": 100.0,
+      "betway_event_id": "16856002",
+      "betway_url": "https://betway.es/es/es/sports/event/16856002",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50120",
+      "msg_id": 50120,
+      "registered_at": "2026-06-15T18:40:03+00:00",
+      "event_time": "2026-06-15T20:00:00",
+      "raw": "✅ EV: 5.0%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Argentina. Liga Profesional Reserves\n🥇 Partido: At Rafaela Reserve - Deportivo Riestra Reserves\n👉🏼 Pick: Score (0.0) - 1st\n👉🏼 Cuota: 1.25\n⏰ Fecha: 15/06/2026, 20:00:00\n👌🏼Liq Betfair: 1257$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16856002",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Argentina. Liga Profesional Reserves",
+      "event": "At Rafaela Reserve - Deportivo Riestra Reserves",
+      "home": "At Rafaela Reserve",
+      "away": "Deportivo Riestra Reserves",
+      "pick": "Score (0.0) - 1st",
+      "pick_struct": {
+        "raw": "Score (0.0) - 1st",
+        "tipo": "otro",
+        "equipo": null,
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": "5.0%",
+      "odds": 1.25,
+      "stake": 100.0,
+      "betway_event_id": "16856002",
+      "betway_url": "https://betway.es/es/es/sports/event/16856002",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50121",
+      "msg_id": 50121,
+      "registered_at": "2026-06-15T18:41:14+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. London.\n🥇 Partido: Giovanni Mpetshi Perricard - Corentin Moutet\n👉🏼 Pick: Team2 Win - 2nd\n👉🏼 Cuota: 2.375\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859631",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. London.",
+      "event": "Giovanni Mpetshi Perricard - Corentin Moutet",
+      "home": "Giovanni Mpetshi Perricard",
+      "away": "Corentin Moutet",
+      "pick": "Team2 Win - 2nd",
+      "pick_struct": {
+        "raw": "Team2 Win - 2nd",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 2.375,
+      "stake": 100.0,
+      "betway_event_id": "16859631",
+      "betway_url": "https://betway.es/es/es/sports/event/16859631",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50122",
+      "msg_id": 50122,
+      "registered_at": "2026-06-15T18:45:53+00:00",
+      "event_time": "2026-06-15T20:15:00",
+      "raw": "✅ EV: 5.7%\nℹ️ Stake: 0.75 (0.75% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Poland. PLK\n🥇 Partido: Stelmet Zastal Zielona Gora - Legia\n👉🏼 Pick: Asian Handicap1(-2.5)\n👉🏼 Cuota: 2.3\n⏰ Fecha: 15/06/2026, 20:15:00\n👌🏼Liq Asia: 1874$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16857662",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Poland. PLK",
+      "event": "Stelmet Zastal Zielona Gora - Legia",
+      "home": "Stelmet Zastal Zielona Gora",
+      "away": "Legia",
+      "pick": "Asian Handicap1(-2.5)",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-2.5)",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -2.5,
+        "periodo": "full"
+      },
+      "ev": "5.7%",
+      "odds": 2.3,
+      "stake": 100.0,
+      "betway_event_id": "16857662",
+      "betway_url": "https://betway.es/es/es/sports/event/16857662",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50123",
+      "msg_id": 50123,
+      "registered_at": "2026-06-15T18:47:23+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Tiantsoa Sarah Rakotomanga Rajaonah - Yuliana Lizarazo\n👉🏼 Pick: Total Over(14.5) - regular time\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859241",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Tiantsoa Sarah Rakotomanga Rajaonah - Yuliana Lizarazo",
+      "home": "Tiantsoa Sarah Rakotomanga Rajaonah",
+      "away": "Yuliana Lizarazo",
+      "pick": "Total Over(14.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(14.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 14.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16859241",
+      "betway_url": "https://betway.es/es/es/sports/event/16859241",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50124",
+      "msg_id": 50124,
+      "registered_at": "2026-06-15T18:47:24+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Tauste.\n🥇 Partido: Diana Marcinkevica - Jimar Gerald Gonzalez\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 2.1\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16860817",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Tauste.",
+      "event": "Diana Marcinkevica - Jimar Gerald Gonzalez",
+      "home": "Diana Marcinkevica",
+      "away": "Jimar Gerald Gonzalez",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16860817",
+      "betway_url": "https://betway.es/es/es/sports/event/16860817",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50125",
+      "msg_id": 50125,
+      "registered_at": "2026-06-15T18:48:28+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Asuncion - Paraguay.\n🥇 Partido: Federico Gaston Gonzalez Benitez - Ignacio Parisca\n👉🏼 Pick: Total Over(16.5) - regular time\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16861702",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Asuncion - Paraguay.",
+      "event": "Federico Gaston Gonzalez Benitez - Ignacio Parisca",
+      "home": "Federico Gaston Gonzalez Benitez",
+      "away": "Ignacio Parisca",
+      "pick": "Total Over(16.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(16.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 16.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16861702",
+      "betway_url": "https://betway.es/es/es/sports/event/16861702",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50126",
+      "msg_id": 50126,
+      "registered_at": "2026-06-15T19:02:13+00:00",
+      "event_time": "2026-06-15T20:15:00",
+      "raw": "✅ EV: 6.1%\nℹ️ Stake: 0.75 (0.75% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Poland. PLK\n🥇 Partido: Stelmet Zastal Zielona Gora - Legia\n👉🏼 Pick: Asian Handicap1(-1.5)\n👉🏼 Cuota: 2.1\n⏰ Fecha: 15/06/2026, 20:15:00\n👌🏼Liq Asia: 1060$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16857662",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Poland. PLK",
+      "event": "Stelmet Zastal Zielona Gora - Legia",
+      "home": "Stelmet Zastal Zielona Gora",
+      "away": "Legia",
+      "pick": "Asian Handicap1(-1.5)",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-1.5)",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -1.5,
+        "periodo": "full"
+      },
+      "ev": "6.1%",
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16857662",
+      "betway_url": "https://betway.es/es/es/sports/event/16857662",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50127",
+      "msg_id": 50127,
+      "registered_at": "2026-06-15T19:02:47+00:00",
+      "event_time": "2026-06-15T20:15:00",
+      "raw": "✅ EV: 5.6%\nℹ️ Stake: 0.75 (0.75% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Poland. PLK\n🥇 Partido: Stelmet Zastal Zielona Gora - Legia\n👉🏼 Pick: Asian Handicap1(-1.5)\n👉🏼 Cuota: 2.1\n⏰ Fecha: 15/06/2026, 20:15:00\n👌🏼Liq Asia: 2114$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16857662",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Poland. PLK",
+      "event": "Stelmet Zastal Zielona Gora - Legia",
+      "home": "Stelmet Zastal Zielona Gora",
+      "away": "Legia",
+      "pick": "Asian Handicap1(-1.5)",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-1.5)",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -1.5,
+        "periodo": "full"
+      },
+      "ev": "5.6%",
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16857662",
+      "betway_url": "https://betway.es/es/es/sports/event/16857662",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
