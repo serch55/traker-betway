@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50033
+    "last_message_id": 50038
   },
   "bets": [
     {
@@ -33,7 +33,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -66,7 +66,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -99,7 +99,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -132,7 +132,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -165,7 +165,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -198,7 +198,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -231,7 +231,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -264,7 +264,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -297,7 +297,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -363,7 +363,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -396,7 +396,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -429,7 +429,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -462,7 +462,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -495,7 +495,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -528,7 +528,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -556,6 +556,171 @@
       "stake": 100.0,
       "betway_event_id": "16836026",
       "betway_url": "https://betway.es/es/es/sports/event/16836026",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50034",
+      "msg_id": 50034,
+      "registered_at": "2026-06-15T00:05:20+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Uruguay. Liga Women.\n🥇 Partido: Aguada Women - Club Atletico Yale Women\n👉🏼 Pick: Asian Handicap1(-3.5) - 1st half\n👉🏼 Cuota: 1.909\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16857634",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Uruguay. Liga Women.",
+      "event": "Aguada Women - Club Atletico Yale Women",
+      "home": "Aguada Women",
+      "away": "Club Atletico Yale Women",
+      "pick": "Asian Handicap1(-3.5) - 1st half",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-3.5) - 1st half",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -3.5,
+        "periodo": "full"
+      },
+      "ev": null,
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16857634",
+      "betway_url": "https://betway.es/es/es/sports/event/16857634",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50035",
+      "msg_id": 50035,
+      "registered_at": "2026-06-15T00:22:35+00:00",
+      "event_time": "2026-06-15T02:00:00",
+      "raw": "✅ EV: 4.6%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Hockey\n📝 Competición: USA. NHL\n🥇 Partido: Vegas Golden Knights - Carolina Hurricanes\n👉🏼 Pick: Total Under(6.5)\n👉🏼 Cuota: 1.625\n⏰ Fecha: 15/06/2026, 02:00:00\n👌🏼Liq Asia: 3000$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16848950",
+      "bookmaker": "Betway",
+      "sport": "hockey",
+      "competition": "USA. NHL",
+      "event": "Vegas Golden Knights - Carolina Hurricanes",
+      "home": "Vegas Golden Knights",
+      "away": "Carolina Hurricanes",
+      "pick": "Total Under(6.5)",
+      "pick_struct": {
+        "raw": "Total Under(6.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 6.5,
+        "periodo": "full"
+      },
+      "ev": "4.6%",
+      "odds": 1.625,
+      "stake": 100.0,
+      "betway_event_id": "16848950",
+      "betway_url": "https://betway.es/es/es/sports/event/16848950",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50036",
+      "msg_id": 50036,
+      "registered_at": "2026-06-15T00:57:29+00:00",
+      "event_time": "2026-06-15T02:00:00",
+      "raw": "✅ EV: 6.7%\nℹ️ Stake: 0.5 (0.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Hockey\n📝 Competición: USA. NHL\n🥇 Partido: Vegas Golden Knights - Carolina Hurricanes\n👉🏼 Pick: Total Under(4.5)\n👉🏼 Cuota: 2.85\n⏰ Fecha: 15/06/2026, 02:00:00\n👌🏼Liq Asia: 5405$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16848950",
+      "bookmaker": "Betway",
+      "sport": "hockey",
+      "competition": "USA. NHL",
+      "event": "Vegas Golden Knights - Carolina Hurricanes",
+      "home": "Vegas Golden Knights",
+      "away": "Carolina Hurricanes",
+      "pick": "Total Under(4.5)",
+      "pick_struct": {
+        "raw": "Total Under(4.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 4.5,
+        "periodo": "full"
+      },
+      "ev": "6.7%",
+      "odds": 2.85,
+      "stake": 100.0,
+      "betway_event_id": "16848950",
+      "betway_url": "https://betway.es/es/es/sports/event/16848950",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50037",
+      "msg_id": 50037,
+      "registered_at": "2026-06-15T00:58:13+00:00",
+      "event_time": "2026-06-15T01:00:00",
+      "raw": "✅ EV: 4.9%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: World. World Cup\n🥇 Partido: Cote d'Ivoire - Ecuador\n👉🏼 Pick: Score (-1000.0)\n👉🏼 Cuota: 1.167\n⏰ Fecha: 15/06/2026, 01:00:00\n👌🏼Liq Betfair: 1683$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16558799",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "World. World Cup",
+      "event": "Cote d'Ivoire - Ecuador",
+      "home": "Cote d'Ivoire",
+      "away": "Ecuador",
+      "pick": "Score (-1000.0)",
+      "pick_struct": {
+        "raw": "Score (-1000.0)",
+        "tipo": "otro",
+        "equipo": null,
+        "linea": null,
+        "periodo": "full"
+      },
+      "ev": "4.9%",
+      "odds": 1.167,
+      "stake": 100.0,
+      "betway_event_id": "16558799",
+      "betway_url": "https://betway.es/es/es/sports/event/16558799",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50038",
+      "msg_id": 50038,
+      "registered_at": "2026-06-15T00:58:35+00:00",
+      "event_time": "2026-06-15T01:00:00",
+      "raw": "✅ EV: 4.9%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: World. World Cup\n🥇 Partido: Cote d'Ivoire - Ecuador\n👉🏼 Pick: Total Under(1.5)\n👉🏼 Cuota: 1.167\n⏰ Fecha: 15/06/2026, 01:00:00\n👌🏼Liq Betfair: 29745$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16558799",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "World. World Cup",
+      "event": "Cote d'Ivoire - Ecuador",
+      "home": "Cote d'Ivoire",
+      "away": "Ecuador",
+      "pick": "Total Under(1.5)",
+      "pick_struct": {
+        "raw": "Total Under(1.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 1.5,
+        "periodo": "full"
+      },
+      "ev": "4.9%",
+      "odds": 1.167,
+      "stake": 100.0,
+      "betway_event_id": "16558799",
+      "betway_url": "https://betway.es/es/es/sports/event/16558799",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
