@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50167
+    "last_message_id": 50170
   },
   "bets": [
     {
@@ -1843,12 +1843,12 @@
       "stake": 100.0,
       "betway_event_id": "16847599",
       "betway_url": "https://betway.es/es/es/sports/event/16847599",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -1876,12 +1876,12 @@
       "stake": 100.0,
       "betway_event_id": "16859241",
       "betway_url": "https://betway.es/es/es/sports/event/16859241",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -1909,12 +1909,12 @@
       "stake": 100.0,
       "betway_event_id": "16857662",
       "betway_url": "https://betway.es/es/es/sports/event/16857662",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -1942,12 +1942,12 @@
       "stake": 100.0,
       "betway_event_id": "16843307",
       "betway_url": "https://betway.es/es/es/sports/event/16843307",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -1975,12 +1975,12 @@
       "stake": 100.0,
       "betway_event_id": "16856002",
       "betway_url": "https://betway.es/es/es/sports/event/16856002",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -2008,12 +2008,12 @@
       "stake": 100.0,
       "betway_event_id": "16859631",
       "betway_url": "https://betway.es/es/es/sports/event/16859631",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -2041,12 +2041,12 @@
       "stake": 100.0,
       "betway_event_id": "16860817",
       "betway_url": "https://betway.es/es/es/sports/event/16860817",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -2074,12 +2074,12 @@
       "stake": 100.0,
       "betway_event_id": "16861702",
       "betway_url": "https://betway.es/es/es/sports/event/16861702",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -2107,12 +2107,12 @@
       "stake": 100.0,
       "betway_event_id": "16859893",
       "betway_url": "https://betway.es/es/es/sports/event/16859893",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -2178,7 +2178,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -2206,12 +2206,12 @@
       "stake": 100.0,
       "betway_event_id": "16859508",
       "betway_url": "https://betway.es/es/es/sports/event/16859508",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -2239,12 +2239,12 @@
       "stake": 100.0,
       "betway_event_id": "16860494",
       "betway_url": "https://betway.es/es/es/sports/event/16860494",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -2277,7 +2277,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -2310,7 +2310,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2343,7 +2343,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -2376,7 +2376,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -2475,7 +2475,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2508,7 +2508,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2607,7 +2607,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2640,7 +2640,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -2668,6 +2668,39 @@
       "stake": 100.0,
       "betway_event_id": "16862541",
       "betway_url": "https://betway.es/es/es/sports/event/16862541",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 1,
+      "last_error": null
+    },
+    {
+      "id": "b50168",
+      "msg_id": 50168,
+      "registered_at": "2026-06-16T07:11:37+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Klosters.\n🥇 Partido: Sophie Luescher - Ashley Lahey\n👉🏼 Pick: Asian Handicap1(7.5) - regular time\n👉🏼 Cuota: 1.85\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16863125",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Klosters.",
+      "event": "Sophie Luescher - Ashley Lahey",
+      "home": "Sophie Luescher",
+      "away": "Ashley Lahey",
+      "pick": "Asian Handicap1(7.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(7.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 7.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.85,
+      "stake": 100.0,
+      "betway_event_id": "16863125",
+      "betway_url": "https://betway.es/es/es/sports/event/16863125",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
