@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50242
+    "last_message_id": 50260
   },
   "bets": [
     {
@@ -2602,12 +2602,12 @@
       "stake": 100.0,
       "betway_event_id": "16862562",
       "betway_url": "https://betway.es/es/es/sports/event/16862562",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 5,
+      "needs_review": true,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -2635,12 +2635,12 @@
       "stake": 100.0,
       "betway_event_id": "16862550",
       "betway_url": "https://betway.es/es/es/sports/event/16862550",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 5,
+      "needs_review": true,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -2668,12 +2668,12 @@
       "stake": 100.0,
       "betway_event_id": "16862541",
       "betway_url": "https://betway.es/es/es/sports/event/16862541",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 5,
+      "needs_review": true,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -2706,7 +2706,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -2739,7 +2739,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2772,7 +2772,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2805,7 +2805,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2838,7 +2838,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2871,7 +2871,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2904,7 +2904,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2937,7 +2937,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2970,7 +2970,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -3003,7 +3003,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -3036,7 +3036,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -3069,7 +3069,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -3102,7 +3102,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -3135,7 +3135,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -3168,7 +3168,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3201,7 +3201,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3234,7 +3234,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3267,7 +3267,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3300,7 +3300,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3333,7 +3333,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3366,7 +3366,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3399,7 +3399,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3432,7 +3432,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3465,7 +3465,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3498,7 +3498,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3531,7 +3531,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3564,7 +3564,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -3597,7 +3597,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3630,7 +3630,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3663,7 +3663,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3696,7 +3696,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3729,7 +3729,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3762,7 +3762,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3795,7 +3795,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3828,7 +3828,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3861,7 +3861,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3894,7 +3894,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3927,7 +3927,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3960,7 +3960,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3993,7 +3993,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -4026,7 +4026,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -4059,7 +4059,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -4092,7 +4092,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -4125,7 +4125,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -4158,7 +4158,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -4186,6 +4186,402 @@
       "stake": 100.0,
       "betway_event_id": "16855887",
       "betway_url": "https://betway.es/es/es/sports/event/16855887",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50244",
+      "msg_id": 50244,
+      "registered_at": "2026-06-16T16:10:16+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Asuncion - Paraguay.\n🥇 Partido: Santiago De La Fuente - Paulo Andre Saraiva Dos Santos\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859521",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Asuncion - Paraguay.",
+      "event": "Santiago De La Fuente - Paulo Andre Saraiva Dos Santos",
+      "home": "Santiago De La Fuente",
+      "away": "Paulo Andre Saraiva Dos Santos",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16859521",
+      "betway_url": "https://betway.es/es/es/sports/event/16859521",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50246",
+      "msg_id": 50246,
+      "registered_at": "2026-06-16T16:18:10+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Berlin.\n🥇 Partido: Suzan Lamens - Paula Badosa\n👉🏼 Pick: Total Over(22.5) - regular time\n👉🏼 Cuota: 2.05\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16863416",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Berlin.",
+      "event": "Suzan Lamens - Paula Badosa",
+      "home": "Suzan Lamens",
+      "away": "Paula Badosa",
+      "pick": "Total Over(22.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(22.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 22.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16863416",
+      "betway_url": "https://betway.es/es/es/sports/event/16863416",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50247",
+      "msg_id": 50247,
+      "registered_at": "2026-06-16T16:19:03+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Figueira da Foz.\n🥇 Partido: Kristina Mladenovic - Valentina Ryser\n👉🏼 Pick: Asian Handicap1(7.5) - regular time\n👉🏼 Cuota: 1.75\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16862696",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Figueira da Foz.",
+      "event": "Kristina Mladenovic - Valentina Ryser",
+      "home": "Kristina Mladenovic",
+      "away": "Valentina Ryser",
+      "pick": "Asian Handicap1(7.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(7.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 7.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.75,
+      "stake": 100.0,
+      "betway_event_id": "16862696",
+      "betway_url": "https://betway.es/es/es/sports/event/16862696",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50248",
+      "msg_id": 50248,
+      "registered_at": "2026-06-16T16:29:16+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Halle.\n🥇 Partido: Tomas Martin Etcheverry - Daniil Medvedev\n👉🏼 Pick: Asian Handicap1(5.5) - regular time\n👉🏼 Cuota: 1.5\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16855592",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Halle.",
+      "event": "Tomas Martin Etcheverry - Daniil Medvedev",
+      "home": "Tomas Martin Etcheverry",
+      "away": "Daniil Medvedev",
+      "pick": "Asian Handicap1(5.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(5.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 5.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.5,
+      "stake": 100.0,
+      "betway_event_id": "16855592",
+      "betway_url": "https://betway.es/es/es/sports/event/16855592",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50249",
+      "msg_id": 50249,
+      "registered_at": "2026-06-16T16:31:27+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Ane Mintegi Del Olmo - Xiaodi You\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859252",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Ane Mintegi Del Olmo - Xiaodi You",
+      "home": "Ane Mintegi Del Olmo",
+      "away": "Xiaodi You",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16859252",
+      "betway_url": "https://betway.es/es/es/sports/event/16859252",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50250",
+      "msg_id": 50250,
+      "registered_at": "2026-06-16T16:48:20+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Finland. Kolmonen.\n🥇 Partido: Haka Juniorit - NoPS Nokia\n👉🏼 Pick: Total Under(2.5) - regular time\n👉🏼 Cuota: 2.3\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16862713",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Finland. Kolmonen.",
+      "event": "Haka Juniorit - NoPS Nokia",
+      "home": "Haka Juniorit",
+      "away": "NoPS Nokia",
+      "pick": "Total Under(2.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(2.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 2.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.3,
+      "stake": 100.0,
+      "betway_event_id": "16862713",
+      "betway_url": "https://betway.es/es/es/sports/event/16862713",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50252",
+      "msg_id": 50252,
+      "registered_at": "2026-06-16T16:52:38+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Fiona Ferro - Kajsa Rinaldo Persson\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859251",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Fiona Ferro - Kajsa Rinaldo Persson",
+      "home": "Fiona Ferro",
+      "away": "Kajsa Rinaldo Persson",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.6,
+      "stake": 100.0,
+      "betway_event_id": "16859251",
+      "betway_url": "https://betway.es/es/es/sports/event/16859251",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50253",
+      "msg_id": 50253,
+      "registered_at": "2026-06-16T16:57:09+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Carole Monnet - Martina Trevisan\n👉🏼 Pick: Total Over(20.5) - regular time\n👉🏼 Cuota: 1.9\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859243",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Carole Monnet - Martina Trevisan",
+      "home": "Carole Monnet",
+      "away": "Martina Trevisan",
+      "pick": "Total Over(20.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(20.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 20.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.9,
+      "stake": 100.0,
+      "betway_event_id": "16859243",
+      "betway_url": "https://betway.es/es/es/sports/event/16859243",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50254",
+      "msg_id": 50254,
+      "registered_at": "2026-06-16T17:19:36+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Tulsa.\n🥇 Partido: Zsombor Velcz - Maximus Dussault\n👉🏼 Pick: Team2 Win - 1 set, 06 game\n👉🏼 Cuota: 1.85\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16864610",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Tulsa.",
+      "event": "Zsombor Velcz - Maximus Dussault",
+      "home": "Zsombor Velcz",
+      "away": "Maximus Dussault",
+      "pick": "Team2 Win - 1 set, 06 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 06 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 06 game"
+      },
+      "ev": null,
+      "odds": 1.85,
+      "stake": 100.0,
+      "betway_event_id": "16864610",
+      "betway_url": "https://betway.es/es/es/sports/event/16864610",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50255",
+      "msg_id": 50255,
+      "registered_at": "2026-06-16T17:22:15+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. London.\n🥇 Partido: Cameron Norrie - Alejandro Davidovich Fokina\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.5\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16855896",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. London.",
+      "event": "Cameron Norrie - Alejandro Davidovich Fokina",
+      "home": "Cameron Norrie",
+      "away": "Alejandro Davidovich Fokina",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.5,
+      "stake": 100.0,
+      "betway_event_id": "16855896",
+      "betway_url": "https://betway.es/es/es/sports/event/16855896",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50257",
+      "msg_id": 50257,
+      "registered_at": "2026-06-16T17:25:46+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Asuncion - Paraguay.\n🥇 Partido: Ignacio Monzon - Juan Manuel La Serna\n👉🏼 Pick: Team2 Win - 1 set, 04 game\n👉🏼 Cuota: 2.1\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16864410",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Asuncion - Paraguay.",
+      "event": "Ignacio Monzon - Juan Manuel La Serna",
+      "home": "Ignacio Monzon",
+      "away": "Juan Manuel La Serna",
+      "pick": "Team2 Win - 1 set, 04 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 04 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 04 game"
+      },
+      "ev": null,
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16864410",
+      "betway_url": "https://betway.es/es/es/sports/event/16864410",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50258",
+      "msg_id": 50258,
+      "registered_at": "2026-06-16T17:30:16+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Figueira da Foz.\n🥇 Partido: Alina Korneeva - Fangran Tian\n👉🏼 Pick: Team1 Win - 2 set, 06 game\n👉🏼 Cuota: 1.154\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16861016",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Figueira da Foz.",
+      "event": "Alina Korneeva - Fangran Tian",
+      "home": "Alina Korneeva",
+      "away": "Fangran Tian",
+      "pick": "Team1 Win - 2 set, 06 game",
+      "pick_struct": {
+        "raw": "Team1 Win - 2 set, 06 game",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "2 set, 06 game"
+      },
+      "ev": null,
+      "odds": 1.154,
+      "stake": 100.0,
+      "betway_event_id": "16861016",
+      "betway_url": "https://betway.es/es/es/sports/event/16861016",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
