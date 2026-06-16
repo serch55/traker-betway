@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50212
+    "last_message_id": 50225
   },
   "bets": [
     {
@@ -2470,12 +2470,12 @@
       "stake": 100.0,
       "betway_event_id": "16862543",
       "betway_url": "https://betway.es/es/es/sports/event/16862543",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 4,
+      "needs_review": true,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -2503,12 +2503,12 @@
       "stake": 100.0,
       "betway_event_id": "16862557",
       "betway_url": "https://betway.es/es/es/sports/event/16862557",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 4,
+      "needs_review": true,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -2607,7 +2607,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2640,7 +2640,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2673,7 +2673,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -2706,7 +2706,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -2739,7 +2739,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2772,7 +2772,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2805,7 +2805,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2838,7 +2838,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2871,7 +2871,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2904,7 +2904,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2937,7 +2937,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -2970,7 +2970,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3003,7 +3003,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3036,7 +3036,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3069,7 +3069,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3102,7 +3102,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3135,7 +3135,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -3168,7 +3168,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3201,7 +3201,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3234,7 +3234,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3267,7 +3267,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3300,7 +3300,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3333,7 +3333,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3366,7 +3366,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3399,7 +3399,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3432,7 +3432,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3465,7 +3465,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3498,7 +3498,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3531,7 +3531,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -3559,6 +3559,303 @@
       "stake": 100.0,
       "betway_event_id": "16864754",
       "betway_url": "https://betway.es/es/es/sports/event/16864754",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 1,
+      "last_error": null
+    },
+    {
+      "id": "b50213",
+      "msg_id": 50213,
+      "registered_at": "2026-06-16T12:21:16+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Samobor.\n🥇 Partido: Dimitris Sakellaridis - Jan Kupcic\n👉🏼 Pick: Asian Handicap2(-6.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16864575",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Samobor.",
+      "event": "Dimitris Sakellaridis - Jan Kupcic",
+      "home": "Dimitris Sakellaridis",
+      "away": "Jan Kupcic",
+      "pick": "Asian Handicap2(-6.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap2(-6.5) - regular time",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": -6.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16864575",
+      "betway_url": "https://betway.es/es/es/sports/event/16864575",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50214",
+      "msg_id": 50214,
+      "registered_at": "2026-06-16T12:25:20+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Berlin.\n🥇 Partido: Katerina Siniakova - Rebeka Masarova\n👉🏼 Pick: Total Over(22.5) - regular time\n👉🏼 Cuota: 2.05\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16863418",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Berlin.",
+      "event": "Katerina Siniakova - Rebeka Masarova",
+      "home": "Katerina Siniakova",
+      "away": "Rebeka Masarova",
+      "pick": "Total Over(22.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(22.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 22.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16863418",
+      "betway_url": "https://betway.es/es/es/sports/event/16863418",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50216",
+      "msg_id": 50216,
+      "registered_at": "2026-06-16T12:31:33+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Samobor.\n🥇 Partido: Aljaz Jeran - Lilian Marmousez\n👉🏼 Pick: Team1 Win - 1st\n👉🏼 Cuota: 1.75\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16864576",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Samobor.",
+      "event": "Aljaz Jeran - Lilian Marmousez",
+      "home": "Aljaz Jeran",
+      "away": "Lilian Marmousez",
+      "pick": "Team1 Win - 1st",
+      "pick_struct": {
+        "raw": "Team1 Win - 1st",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.75,
+      "stake": 100.0,
+      "betway_event_id": "16864576",
+      "betway_url": "https://betway.es/es/es/sports/event/16864576",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50217",
+      "msg_id": 50217,
+      "registered_at": "2026-06-16T12:36:54+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Halle.\n🥇 Partido: Andrey Rublev - Hubert Hurkacz\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 1.25\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16855597",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Halle.",
+      "event": "Andrey Rublev - Hubert Hurkacz",
+      "home": "Andrey Rublev",
+      "away": "Hubert Hurkacz",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.25,
+      "stake": 100.0,
+      "betway_event_id": "16855597",
+      "betway_url": "https://betway.es/es/es/sports/event/16855597",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50218",
+      "msg_id": 50218,
+      "registered_at": "2026-06-16T12:39:53+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Figueira da Foz.\n🥇 Partido: Elena Micic - Francisca Jorge\n👉🏼 Pick: Team1 Win - 1st\n👉🏼 Cuota: 2.05\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16861034",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Figueira da Foz.",
+      "event": "Elena Micic - Francisca Jorge",
+      "home": "Elena Micic",
+      "away": "Francisca Jorge",
+      "pick": "Team1 Win - 1st",
+      "pick_struct": {
+        "raw": "Team1 Win - 1st",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16861034",
+      "betway_url": "https://betway.es/es/es/sports/event/16861034",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50219",
+      "msg_id": 50219,
+      "registered_at": "2026-06-16T12:41:51+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Samobor.\n🥇 Partido: Matthias Ujvary - Nicolas John Jadoun\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16864574",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Samobor.",
+      "event": "Matthias Ujvary - Nicolas John Jadoun",
+      "home": "Matthias Ujvary",
+      "away": "Nicolas John Jadoun",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16864574",
+      "betway_url": "https://betway.es/es/es/sports/event/16864574",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50220",
+      "msg_id": 50220,
+      "registered_at": "2026-06-16T12:56:24+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Milano.\n🥇 Partido: Leonardo Borrelli - Gianmarco Ferrari\n👉🏼 Pick: Team1 Win - 1 set, 03 game\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16863183",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Milano.",
+      "event": "Leonardo Borrelli - Gianmarco Ferrari",
+      "home": "Leonardo Borrelli",
+      "away": "Gianmarco Ferrari",
+      "pick": "Team1 Win - 1 set, 03 game",
+      "pick_struct": {
+        "raw": "Team1 Win - 1 set, 03 game",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "1 set, 03 game"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16863183",
+      "betway_url": "https://betway.es/es/es/sports/event/16863183",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50224",
+      "msg_id": 50224,
+      "registered_at": "2026-06-16T13:41:47+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Danka Kovinic - Miriam Bianca Bulgaru\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 1.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859264",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Danka Kovinic - Miriam Bianca Bulgaru",
+      "home": "Danka Kovinic",
+      "away": "Miriam Bianca Bulgaru",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.2,
+      "stake": 100.0,
+      "betway_event_id": "16859264",
+      "betway_url": "https://betway.es/es/es/sports/event/16859264",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50225",
+      "msg_id": 50225,
+      "registered_at": "2026-06-16T14:06:59+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Nottingham.\n🥇 Partido: Zeynep Sonmez - Leylah Annie Fernandez\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.25\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16859720",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Nottingham.",
+      "event": "Zeynep Sonmez - Leylah Annie Fernandez",
+      "home": "Zeynep Sonmez",
+      "away": "Leylah Annie Fernandez",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.25,
+      "stake": 100.0,
+      "betway_event_id": "16859720",
+      "betway_url": "https://betway.es/es/es/sports/event/16859720",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
