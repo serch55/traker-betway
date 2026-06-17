@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50348
+    "last_message_id": 50363
   },
   "bets": [
     {
@@ -5077,12 +5077,12 @@
       "stake": 100.0,
       "betway_event_id": "16864622",
       "betway_url": "https://betway.es/es/es/sports/event/16864622",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 6,
+      "needs_review": true,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -5148,7 +5148,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -5214,7 +5214,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -5247,7 +5247,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -5280,7 +5280,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -5313,7 +5313,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -5346,7 +5346,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -5379,7 +5379,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -5412,7 +5412,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -5445,7 +5445,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -5478,7 +5478,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -5544,7 +5544,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -5577,7 +5577,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -5610,7 +5610,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -5643,7 +5643,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -5676,7 +5676,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -5709,7 +5709,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -5742,7 +5742,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -5775,7 +5775,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -5808,7 +5808,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -5841,7 +5841,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -5874,7 +5874,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -5907,7 +5907,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -5940,7 +5940,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -5973,7 +5973,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -6006,7 +6006,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -6072,7 +6072,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -6105,7 +6105,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -6138,7 +6138,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -6171,7 +6171,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -6204,7 +6204,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -6298,6 +6298,237 @@
       "stake": 100.0,
       "betway_event_id": "16865933",
       "betway_url": "https://betway.es/es/es/sports/event/16865933",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50350",
+      "msg_id": 50350,
+      "registered_at": "2026-06-17T10:32:29+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Julia Grabher - Anastasiya Soboleva\n👉🏼 Pick: Team1 Win - 1 set, 05 game\n👉🏼 Cuota: 1.7\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16865865",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Julia Grabher - Anastasiya Soboleva",
+      "home": "Julia Grabher",
+      "away": "Anastasiya Soboleva",
+      "pick": "Team1 Win - 1 set, 05 game",
+      "pick_struct": {
+        "raw": "Team1 Win - 1 set, 05 game",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "1 set, 05 game"
+      },
+      "ev": null,
+      "odds": 1.7,
+      "stake": 100.0,
+      "betway_event_id": "16865865",
+      "betway_url": "https://betway.es/es/es/sports/event/16865865",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50352",
+      "msg_id": 50352,
+      "registered_at": "2026-06-17T10:37:06+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Bolszewo.\n🥇 Partido: Amelia Paszun - Anna Ozerova\n👉🏼 Pick: Total Over(17.5) - regular time\n👉🏼 Cuota: 1.909\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16868936",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Bolszewo.",
+      "event": "Amelia Paszun - Anna Ozerova",
+      "home": "Amelia Paszun",
+      "away": "Anna Ozerova",
+      "pick": "Total Over(17.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(17.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 17.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16868936",
+      "betway_url": "https://betway.es/es/es/sports/event/16868936",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50357",
+      "msg_id": 50357,
+      "registered_at": "2026-06-17T10:54:31+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Blois.\n🥇 Partido: Julia Riera - Pauline Dore\n👉🏼 Pick: Team2 Win - 1 set, 05 game\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16868989",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Blois.",
+      "event": "Julia Riera - Pauline Dore",
+      "home": "Julia Riera",
+      "away": "Pauline Dore",
+      "pick": "Team2 Win - 1 set, 05 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 05 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 05 game"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16868989",
+      "betway_url": "https://betway.es/es/es/sports/event/16868989",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50358",
+      "msg_id": 50358,
+      "registered_at": "2026-06-17T11:13:17+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Halle.\n🥇 Partido: Zizou Bergs - Taylor Fritz\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 2.5\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16855590",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Halle.",
+      "event": "Zizou Bergs - Taylor Fritz",
+      "home": "Zizou Bergs",
+      "away": "Taylor Fritz",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.5,
+      "stake": 100.0,
+      "betway_event_id": "16855590",
+      "betway_url": "https://betway.es/es/es/sports/event/16855590",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50359",
+      "msg_id": 50359,
+      "registered_at": "2026-06-17T11:29:28+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Lourinha.\n🥇 Partido: Tiago Torres - Zach Stephens\n👉🏼 Pick: Asian Handicap1(-7.5) - regular time\n👉🏼 Cuota: 2.3\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16868761",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Lourinha.",
+      "event": "Tiago Torres - Zach Stephens",
+      "home": "Tiago Torres",
+      "away": "Zach Stephens",
+      "pick": "Asian Handicap1(-7.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-7.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -7.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.3,
+      "stake": 100.0,
+      "betway_event_id": "16868761",
+      "betway_url": "https://betway.es/es/es/sports/event/16868761",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50360",
+      "msg_id": 50360,
+      "registered_at": "2026-06-17T11:49:00+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Bolszewo.\n🥇 Partido: Maja Pawelska - Izabela Heinzova\n👉🏼 Pick: Asian Handicap1(-4.5) - regular time\n👉🏼 Cuota: 2.05\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16868939",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Bolszewo.",
+      "event": "Maja Pawelska - Izabela Heinzova",
+      "home": "Maja Pawelska",
+      "away": "Izabela Heinzova",
+      "pick": "Asian Handicap1(-4.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-4.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -4.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16868939",
+      "betway_url": "https://betway.es/es/es/sports/event/16868939",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50362",
+      "msg_id": 50362,
+      "registered_at": "2026-06-17T11:53:36+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Samobor.\n🥇 Partido: Mili Poljicak - Bozo Barun\n👉🏼 Pick: Team2 Win - 1 set, 05 game\n👉🏼 Cuota: 2.1\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16868803",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Samobor.",
+      "event": "Mili Poljicak - Bozo Barun",
+      "home": "Mili Poljicak",
+      "away": "Bozo Barun",
+      "pick": "Team2 Win - 1 set, 05 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 05 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 05 game"
+      },
+      "ev": null,
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16868803",
+      "betway_url": "https://betway.es/es/es/sports/event/16868803",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
