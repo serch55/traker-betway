@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50541
+    "last_message_id": 50549
   },
   "bets": [
     {
@@ -8245,12 +8245,12 @@
       "stake": 100.0,
       "betway_event_id": "16868547",
       "betway_url": "https://betway.es/es/es/sports/event/16868547",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 6,
+      "needs_review": true,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -8278,12 +8278,12 @@
       "stake": 100.0,
       "betway_event_id": "16870909",
       "betway_url": "https://betway.es/es/es/sports/event/16870909",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 6,
+      "needs_review": true,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -8415,7 +8415,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -8481,7 +8481,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -8547,7 +8547,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -8580,7 +8580,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -8613,7 +8613,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -8646,7 +8646,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -8679,7 +8679,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -8712,7 +8712,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8745,7 +8745,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8778,7 +8778,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8811,7 +8811,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8844,7 +8844,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8877,7 +8877,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8910,7 +8910,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8943,7 +8943,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8976,7 +8976,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9009,7 +9009,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9042,7 +9042,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9075,7 +9075,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9108,7 +9108,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9141,7 +9141,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9174,7 +9174,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9207,7 +9207,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9240,7 +9240,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9334,6 +9334,171 @@
       "stake": 100.0,
       "betway_event_id": "16871067",
       "betway_url": "https://betway.es/es/es/sports/event/16871067",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50542",
+      "msg_id": 50542,
+      "registered_at": "2026-06-18T13:29:46+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Figueira da Foz.\n🥇 Partido: Darja Vidmanova - Elena Micic\n👉🏼 Pick: Total Under(17.5) - regular time\n👉🏼 Cuota: 1.65\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16867168",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Figueira da Foz.",
+      "event": "Darja Vidmanova - Elena Micic",
+      "home": "Darja Vidmanova",
+      "away": "Elena Micic",
+      "pick": "Total Under(17.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(17.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 17.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.65,
+      "stake": 100.0,
+      "betway_event_id": "16867168",
+      "betway_url": "https://betway.es/es/es/sports/event/16867168",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50543",
+      "msg_id": 50543,
+      "registered_at": "2026-06-18T13:44:46+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Parma - Italy.\n🥇 Partido: Laslo Djere - Chun Hsin Tseng\n👉🏼 Pick: Total Over(21.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871091",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Parma - Italy.",
+      "event": "Laslo Djere - Chun Hsin Tseng",
+      "home": "Laslo Djere",
+      "away": "Chun Hsin Tseng",
+      "pick": "Total Over(21.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(21.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 21.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16871091",
+      "betway_url": "https://betway.es/es/es/sports/event/16871091",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50546",
+      "msg_id": 50546,
+      "registered_at": "2026-06-18T14:07:10+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Poznan - Poland.\n🥇 Partido: Gonzalo Bueno - Dalibor Svrcina\n👉🏼 Pick: Total Over(18.5) - regular time\n👉🏼 Cuota: 2.25\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16870781",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Poznan - Poland.",
+      "event": "Gonzalo Bueno - Dalibor Svrcina",
+      "home": "Gonzalo Bueno",
+      "away": "Dalibor Svrcina",
+      "pick": "Total Over(18.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(18.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 18.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.25,
+      "stake": 100.0,
+      "betway_event_id": "16870781",
+      "betway_url": "https://betway.es/es/es/sports/event/16870781",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50547",
+      "msg_id": 50547,
+      "registered_at": "2026-06-18T14:22:25+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Lourinha.\n🥇 Partido: Joao Dinis Silva - John Echeverria\n👉🏼 Pick: Total Over(17.5) - regular time\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16868783",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Lourinha.",
+      "event": "Joao Dinis Silva - John Echeverria",
+      "home": "Joao Dinis Silva",
+      "away": "John Echeverria",
+      "pick": "Total Over(17.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(17.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 17.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16868783",
+      "betway_url": "https://betway.es/es/es/sports/event/16868783",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50548",
+      "msg_id": 50548,
+      "registered_at": "2026-06-18T14:27:30+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Jennifer Ruggeri - Mayar Sherif\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 2.375\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16866749",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Jennifer Ruggeri - Mayar Sherif",
+      "home": "Jennifer Ruggeri",
+      "away": "Mayar Sherif",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.375,
+      "stake": 100.0,
+      "betway_event_id": "16866749",
+      "betway_url": "https://betway.es/es/es/sports/event/16866749",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
