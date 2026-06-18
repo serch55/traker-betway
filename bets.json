@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50553
+    "last_message_id": 50563
   },
   "bets": [
     {
@@ -8575,12 +8575,12 @@
       "stake": 100.0,
       "betway_event_id": "16870920",
       "betway_url": "https://betway.es/es/es/sports/event/16870920",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -8608,12 +8608,12 @@
       "stake": 100.0,
       "betway_event_id": "16870913",
       "betway_url": "https://betway.es/es/es/sports/event/16870913",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -8646,7 +8646,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -8679,7 +8679,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -8712,7 +8712,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8745,7 +8745,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8778,7 +8778,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8811,7 +8811,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8844,7 +8844,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8877,7 +8877,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8910,7 +8910,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -8943,7 +8943,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -8976,7 +8976,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -9009,7 +9009,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -9042,7 +9042,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -9075,7 +9075,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -9108,7 +9108,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -9141,7 +9141,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -9174,7 +9174,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -9207,7 +9207,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -9240,7 +9240,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -9273,7 +9273,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9306,7 +9306,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9339,7 +9339,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9372,7 +9372,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9405,7 +9405,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9438,7 +9438,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9471,7 +9471,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9504,7 +9504,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9537,7 +9537,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9598,6 +9598,204 @@
       "stake": 100.0,
       "betway_event_id": "16869018",
       "betway_url": "https://betway.es/es/es/sports/event/16869018",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50555",
+      "msg_id": 50555,
+      "registered_at": "2026-06-18T16:06:20+00:00",
+      "event_time": "2026-06-18T18:00:00",
+      "raw": "✅ EV: 6.4%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: World. World Cup\n🥇 Partido: Czech Republic - South Africa\n👉🏼 Pick: Total Under(3.5)\n👉🏼 Cuota: 1.571\n⏰ Fecha: 18/06/2026, 18:00:00\n👌🏼Liq Betfair: 7827$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16847075",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "World. World Cup",
+      "event": "Czech Republic - South Africa",
+      "home": "Czech Republic",
+      "away": "South Africa",
+      "pick": "Total Under(3.5)",
+      "pick_struct": {
+        "raw": "Total Under(3.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 3.5,
+        "periodo": "full"
+      },
+      "ev": "6.4%",
+      "odds": 1.571,
+      "stake": 100.0,
+      "betway_event_id": "16847075",
+      "betway_url": "https://betway.es/es/es/sports/event/16847075",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50556",
+      "msg_id": 50556,
+      "registered_at": "2026-06-18T16:52:22+00:00",
+      "event_time": "2026-06-18T17:00:00",
+      "raw": "✅ EV: 4.9%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Argentina. Primera Nacional. Reserve League\n🥇 Partido: CA Atlanta Reserves - Chacarita Juniors Reserves\n👉🏼 Pick: Total Under(4.5)\n👉🏼 Cuota: 1.167\n⏰ Fecha: 18/06/2026, 17:00:00\n👌🏼Liq Betfair: 3431$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871844",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Argentina. Primera Nacional. Reserve League",
+      "event": "CA Atlanta Reserves - Chacarita Juniors Reserves",
+      "home": "CA Atlanta Reserves",
+      "away": "Chacarita Juniors Reserves",
+      "pick": "Total Under(4.5)",
+      "pick_struct": {
+        "raw": "Total Under(4.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 4.5,
+        "periodo": "full"
+      },
+      "ev": "4.9%",
+      "odds": 1.167,
+      "stake": 100.0,
+      "betway_event_id": "16871844",
+      "betway_url": "https://betway.es/es/es/sports/event/16871844",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50557",
+      "msg_id": 50557,
+      "registered_at": "2026-06-18T16:52:24+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Tulsa.\n🥇 Partido: Maximus Dussault - Ozan Baris\n👉🏼 Pick: Asian Handicap1(7.5) - regular time\n👉🏼 Cuota: 1.75\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16872880",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Tulsa.",
+      "event": "Maximus Dussault - Ozan Baris",
+      "home": "Maximus Dussault",
+      "away": "Ozan Baris",
+      "pick": "Asian Handicap1(7.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(7.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 7.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.75,
+      "stake": 100.0,
+      "betway_event_id": "16872880",
+      "betway_url": "https://betway.es/es/es/sports/event/16872880",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50558",
+      "msg_id": 50558,
+      "registered_at": "2026-06-18T16:59:06+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Xiyu Wang - Carole Monnet\n👉🏼 Pick: Total Over(19.5) - regular time\n👉🏼 Cuota: 2.25\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16869011",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Xiyu Wang - Carole Monnet",
+      "home": "Xiyu Wang",
+      "away": "Carole Monnet",
+      "pick": "Total Over(19.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(19.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 19.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.25,
+      "stake": 100.0,
+      "betway_event_id": "16869011",
+      "betway_url": "https://betway.es/es/es/sports/event/16869011",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50559",
+      "msg_id": 50559,
+      "registered_at": "2026-06-18T17:06:25+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Argentina. Primera Nacional Reserves.\n🥇 Partido: Club Almagro Reserves - CA Colegiales Reserves\n👉🏼 Pick: 1 - regular time\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871852",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Argentina. Primera Nacional Reserves.",
+      "event": "Club Almagro Reserves - CA Colegiales Reserves",
+      "home": "Club Almagro Reserves",
+      "away": "CA Colegiales Reserves",
+      "pick": "1 - regular time",
+      "pick_struct": {
+        "raw": "1 - regular time",
+        "tipo": "1x2",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16871852",
+      "betway_url": "https://betway.es/es/es/sports/event/16871852",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50561",
+      "msg_id": 50561,
+      "registered_at": "2026-06-18T17:11:10+00:00",
+      "event_time": "2026-06-18T19:00:00",
+      "raw": "✅ EV: 6.2%\nℹ️ Stake: 0.5 (0.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Sweden. Division 2\n🥇 Partido: Solvesborgs Goif - Rappe GOIF\n👉🏼 Pick: Total Over(3.5)\n👉🏼 Cuota: 2.5\n⏰ Fecha: 18/06/2026, 19:00:00\n👌🏼Liq Asia: 1169$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16867022",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Sweden. Division 2",
+      "event": "Solvesborgs Goif - Rappe GOIF",
+      "home": "Solvesborgs Goif",
+      "away": "Rappe GOIF",
+      "pick": "Total Over(3.5)",
+      "pick_struct": {
+        "raw": "Total Over(3.5)",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 3.5,
+        "periodo": "full"
+      },
+      "ev": "6.2%",
+      "odds": 2.5,
+      "stake": 100.0,
+      "betway_event_id": "16867022",
+      "betway_url": "https://betway.es/es/es/sports/event/16867022",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
