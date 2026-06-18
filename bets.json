@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50502
+    "last_message_id": 50510
   },
   "bets": [
     {
@@ -8014,12 +8014,12 @@
       "stake": 100.0,
       "betway_event_id": "16851868",
       "betway_url": "https://betway.es/es/es/sports/event/16851868",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -8047,12 +8047,12 @@
       "stake": 100.0,
       "betway_event_id": "16861176",
       "betway_url": "https://betway.es/es/es/sports/event/16861176",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -8118,7 +8118,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8184,7 +8184,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8250,7 +8250,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8283,7 +8283,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8415,7 +8415,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8481,7 +8481,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8547,7 +8547,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8580,7 +8580,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8613,7 +8613,106 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
+      "last_error": null
+    },
+    {
+      "id": "b50503",
+      "msg_id": 50503,
+      "registered_at": "2026-06-18T08:16:58+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: New Zealand. NBL.\n🥇 Partido: Southland Sharks - Taranaki Mountainairs\n👉🏼 Pick: Asian Handicap1(-13.5) - with OT\n👉🏼 Cuota: 2.4\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871430",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "New Zealand. NBL.",
+      "event": "Southland Sharks - Taranaki Mountainairs",
+      "home": "Southland Sharks",
+      "away": "Taranaki Mountainairs",
+      "pick": "Asian Handicap1(-13.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-13.5) - with OT",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -13.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 2.4,
+      "stake": 100.0,
+      "betway_event_id": "16871430",
+      "betway_url": "https://betway.es/es/es/sports/event/16871430",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50509",
+      "msg_id": 50509,
+      "registered_at": "2026-06-18T08:27:33+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Klosters.\n🥇 Partido: Dune Vaissaud - Berta Passola\n👉🏼 Pick: Team2 Win - 1 set, 02 game\n👉🏼 Cuota: 1.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16870990",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Klosters.",
+      "event": "Dune Vaissaud - Berta Passola",
+      "home": "Dune Vaissaud",
+      "away": "Berta Passola",
+      "pick": "Team2 Win - 1 set, 02 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 02 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 02 game"
+      },
+      "ev": null,
+      "odds": 1.6,
+      "stake": 100.0,
+      "betway_event_id": "16870990",
+      "betway_url": "https://betway.es/es/es/sports/event/16870990",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50510",
+      "msg_id": 50510,
+      "registered_at": "2026-06-18T09:01:07+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Samobor.\n🥇 Partido: Benjamin Thomas George - Sebastian Sorger\n👉🏼 Pick: Total Under(19.5) - regular time\n👉🏼 Cuota: 1.75\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871244",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Samobor.",
+      "event": "Benjamin Thomas George - Sebastian Sorger",
+      "home": "Benjamin Thomas George",
+      "away": "Sebastian Sorger",
+      "pick": "Total Under(19.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(19.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 19.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.75,
+      "stake": 100.0,
+      "betway_event_id": "16871244",
+      "betway_url": "https://betway.es/es/es/sports/event/16871244",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
       "last_error": null
     }
   ]
