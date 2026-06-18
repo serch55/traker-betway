@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50572
+    "last_message_id": 50580
   },
   "bets": [
     {
@@ -8641,12 +8641,12 @@
       "stake": 100.0,
       "betway_event_id": "16871430",
       "betway_url": "https://betway.es/es/es/sports/event/16871430",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -8674,12 +8674,12 @@
       "stake": 100.0,
       "betway_event_id": "16870990",
       "betway_url": "https://betway.es/es/es/sports/event/16870990",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -8712,7 +8712,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -8745,7 +8745,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -8778,7 +8778,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -8811,7 +8811,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -8844,7 +8844,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -8877,7 +8877,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -8910,7 +8910,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -8943,7 +8943,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -8976,7 +8976,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -9009,7 +9009,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -9042,7 +9042,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -9075,7 +9075,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -9108,7 +9108,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -9141,7 +9141,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -9174,7 +9174,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -9207,7 +9207,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -9240,7 +9240,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -9273,7 +9273,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -9306,7 +9306,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -9339,7 +9339,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -9372,7 +9372,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -9405,7 +9405,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -9438,7 +9438,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -9471,7 +9471,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -9504,7 +9504,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -9537,7 +9537,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -9570,7 +9570,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -9603,7 +9603,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -9631,12 +9631,12 @@
       "stake": 100.0,
       "betway_event_id": "16847075",
       "betway_url": "https://betway.es/es/es/sports/event/16847075",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "ganada",
+      "resolved_at": "2026-06-18T20:59:54.523274+00:00",
+      "result_source": "espn",
+      "event_result": "1-1",
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9669,7 +9669,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -9702,7 +9702,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -9735,7 +9735,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -9768,7 +9768,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -9834,7 +9834,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -9928,6 +9928,72 @@
       "stake": 100.0,
       "betway_event_id": "16868409",
       "betway_url": "https://betway.es/es/es/sports/event/16868409",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50573",
+      "msg_id": 50573,
+      "registered_at": "2026-06-18T20:07:28+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Iceland. 4th Division.\n🥇 Partido: IH Hafnarfjordur - UMF Álftanes\n👉🏼 Pick: 2 - 1st\n👉🏼 Cuota: 1.7\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16868407",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Iceland. 4th Division.",
+      "event": "IH Hafnarfjordur - UMF Álftanes",
+      "home": "IH Hafnarfjordur",
+      "away": "UMF Álftanes",
+      "pick": "2 - 1st",
+      "pick_struct": {
+        "raw": "2 - 1st",
+        "tipo": "1x2",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.7,
+      "stake": 100.0,
+      "betway_event_id": "16868407",
+      "betway_url": "https://betway.es/es/es/sports/event/16868407",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50574",
+      "msg_id": 50574,
+      "registered_at": "2026-06-18T20:11:54+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Iceland. 5th Division.\n🥇 Partido: Boltafelag 108 RVK - Lettir\n👉🏼 Pick: Total Over(3.5) - 1st\n👉🏼 Cuota: 1.727\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16868718",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Iceland. 5th Division.",
+      "event": "Boltafelag 108 RVK - Lettir",
+      "home": "Boltafelag 108 RVK",
+      "away": "Lettir",
+      "pick": "Total Over(3.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Over(3.5) - 1st",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 3.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.727,
+      "stake": 100.0,
+      "betway_event_id": "16868718",
+      "betway_url": "https://betway.es/es/es/sports/event/16868718",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
