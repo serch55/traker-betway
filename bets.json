@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50469
+    "last_message_id": 50495
   },
   "bets": [
     {
@@ -7156,12 +7156,12 @@
       "stake": 100.0,
       "betway_event_id": "16866680",
       "betway_url": "https://betway.es/es/es/sports/event/16866680",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 11,
+      "needs_review": true,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -7189,12 +7189,12 @@
       "stake": 100.0,
       "betway_event_id": "16868962",
       "betway_url": "https://betway.es/es/es/sports/event/16868962",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 11,
+      "needs_review": true,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -7227,7 +7227,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -7260,7 +7260,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -7293,7 +7293,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -7326,7 +7326,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -7359,7 +7359,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -7392,7 +7392,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -7425,7 +7425,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -7458,7 +7458,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -7491,7 +7491,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -7524,7 +7524,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -7557,7 +7557,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -7590,7 +7590,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -7623,7 +7623,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -7656,7 +7656,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -7689,7 +7689,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -7722,7 +7722,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -7755,7 +7755,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -7788,7 +7788,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -7821,7 +7821,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -7854,7 +7854,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -7887,7 +7887,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -7920,7 +7920,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -7953,7 +7953,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -7986,7 +7986,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -8019,7 +8019,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -8052,7 +8052,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -8118,7 +8118,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8184,7 +8184,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8311,6 +8311,171 @@
       "stake": 100.0,
       "betway_event_id": "16864250",
       "betway_url": "https://betway.es/es/es/sports/event/16864250",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50470",
+      "msg_id": 50470,
+      "registered_at": "2026-06-18T02:28:57+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: USA. WNBA.\n🥇 Partido: Phoenix Mercury (w) - Las Vegas Aces (w)\n👉🏼 Pick: Asian Handicap2(-7.5) - with OT\n👉🏼 Cuota: 2.65\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16864253",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "USA. WNBA.",
+      "event": "Phoenix Mercury (w) - Las Vegas Aces (w)",
+      "home": "Phoenix Mercury (w)",
+      "away": "Las Vegas Aces (w)",
+      "pick": "Asian Handicap2(-7.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap2(-7.5) - with OT",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": -7.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 2.65,
+      "stake": 100.0,
+      "betway_event_id": "16864253",
+      "betway_url": "https://betway.es/es/es/sports/event/16864253",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50477",
+      "msg_id": 50477,
+      "registered_at": "2026-06-18T02:41:06+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: USA. WNBA.\n🥇 Partido: Los Angeles Sparks (w) - Minnesota Lynx (w)\n👉🏼 Pick: Asian Handicap2(-18.5) - with OT\n👉🏼 Cuota: 2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16864249",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "USA. WNBA.",
+      "event": "Los Angeles Sparks (w) - Minnesota Lynx (w)",
+      "home": "Los Angeles Sparks (w)",
+      "away": "Minnesota Lynx (w)",
+      "pick": "Asian Handicap2(-18.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap2(-18.5) - with OT",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": -18.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 2.0,
+      "stake": 100.0,
+      "betway_event_id": "16864249",
+      "betway_url": "https://betway.es/es/es/sports/event/16864249",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50481",
+      "msg_id": 50481,
+      "registered_at": "2026-06-18T02:45:37+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Zhengzhou.\n🥇 Partido: Rinko Matsuda - Hanna Chang\n👉🏼 Pick: Team2 Win - 2nd\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16870910",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Zhengzhou.",
+      "event": "Rinko Matsuda - Hanna Chang",
+      "home": "Rinko Matsuda",
+      "away": "Hanna Chang",
+      "pick": "Team2 Win - 2nd",
+      "pick_struct": {
+        "raw": "Team2 Win - 2nd",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16870910",
+      "betway_url": "https://betway.es/es/es/sports/event/16870910",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50483",
+      "msg_id": 50483,
+      "registered_at": "2026-06-18T02:50:01+00:00",
+      "event_time": "2026-06-18T04:00:00",
+      "raw": "✅ EV: 6.1%\nℹ️ Stake: 0.75 (0.75% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: USA. WNBA Women\n🥇 Partido: Portland Fire Women - Seattle Storm Women\n👉🏼 Pick: Asian Handicap1(-2.5)\n👉🏼 Cuota: 2.1\n⏰ Fecha: 18/06/2026, 04:00:00\n👌🏼Liq Asia: 3181$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16864246",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "USA. WNBA Women",
+      "event": "Portland Fire Women - Seattle Storm Women",
+      "home": "Portland Fire Women",
+      "away": "Seattle Storm Women",
+      "pick": "Asian Handicap1(-2.5)",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-2.5)",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -2.5,
+        "periodo": "full"
+      },
+      "ev": "6.1%",
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16864246",
+      "betway_url": "https://betway.es/es/es/sports/event/16864246",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50493",
+      "msg_id": 50493,
+      "registered_at": "2026-06-18T03:40:34+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Zhengzhou.\n🥇 Partido: Jiayi Wang - Han Shi\n👉🏼 Pick: Asian Handicap1(4.5) - regular time\n👉🏼 Cuota: 1.85\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16870912",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Zhengzhou.",
+      "event": "Jiayi Wang - Han Shi",
+      "home": "Jiayi Wang",
+      "away": "Han Shi",
+      "pick": "Asian Handicap1(4.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(4.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 4.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.85,
+      "stake": 100.0,
+      "betway_event_id": "16870912",
+      "betway_url": "https://betway.es/es/es/sports/event/16870912",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
