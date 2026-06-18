@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50535
+    "last_message_id": 50541
   },
   "bets": [
     {
@@ -8179,12 +8179,12 @@
       "stake": 100.0,
       "betway_event_id": "16865016",
       "betway_url": "https://betway.es/es/es/sports/event/16865016",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -8250,7 +8250,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -8283,7 +8283,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -8415,7 +8415,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -8481,7 +8481,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8547,7 +8547,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8580,7 +8580,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8613,7 +8613,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8646,7 +8646,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8679,7 +8679,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -8712,7 +8712,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8745,7 +8745,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8778,7 +8778,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8811,7 +8811,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8844,7 +8844,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8877,7 +8877,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8910,7 +8910,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -8943,7 +8943,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -8976,7 +8976,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9009,7 +9009,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9042,7 +9042,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9075,7 +9075,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9108,7 +9108,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9141,7 +9141,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -9169,6 +9169,171 @@
       "stake": 100.0,
       "betway_event_id": "16870782",
       "betway_url": "https://betway.es/es/es/sports/event/16870782",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50536",
+      "msg_id": 50536,
+      "registered_at": "2026-06-18T12:14:34+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Nottingham.\n🥇 Partido: Karolina Pliskova - Catherine Mcnally\n👉🏼 Pick: Total Over(23.5) - regular time\n👉🏼 Cuota: 2.5\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16869025",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Nottingham.",
+      "event": "Karolina Pliskova - Catherine Mcnally",
+      "home": "Karolina Pliskova",
+      "away": "Catherine Mcnally",
+      "pick": "Total Over(23.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(23.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 23.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.5,
+      "stake": 100.0,
+      "betway_event_id": "16869025",
+      "betway_url": "https://betway.es/es/es/sports/event/16869025",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50537",
+      "msg_id": 50537,
+      "registered_at": "2026-06-18T12:19:42+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Lourinha.\n🥇 Partido: Matisse Bobichon - Oscar Andres Martinez De Freitas\n👉🏼 Pick: Team2 Win - 2nd\n👉🏼 Cuota: 1.444\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16872854",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Lourinha.",
+      "event": "Matisse Bobichon - Oscar Andres Martinez De Freitas",
+      "home": "Matisse Bobichon",
+      "away": "Oscar Andres Martinez De Freitas",
+      "pick": "Team2 Win - 2nd",
+      "pick_struct": {
+        "raw": "Team2 Win - 2nd",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 1.444,
+      "stake": 100.0,
+      "betway_event_id": "16872854",
+      "betway_url": "https://betway.es/es/es/sports/event/16872854",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50539",
+      "msg_id": 50539,
+      "registered_at": "2026-06-18T12:46:38+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. London.\n🥇 Partido: Tommy Paul - Botic Van De Zandschulp\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16865863",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. London.",
+      "event": "Tommy Paul - Botic Van De Zandschulp",
+      "home": "Tommy Paul",
+      "away": "Botic Van De Zandschulp",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16865863",
+      "betway_url": "https://betway.es/es/es/sports/event/16865863",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50540",
+      "msg_id": 50540,
+      "registered_at": "2026-06-18T12:51:51+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Mohammedia.\n🥇 Partido: Ruth Roura Llaverias - Elina Nepliy\n👉🏼 Pick: Asian Handicap2(-4.5) - regular time\n👉🏼 Cuota: 1.7\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871252",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Mohammedia.",
+      "event": "Ruth Roura Llaverias - Elina Nepliy",
+      "home": "Ruth Roura Llaverias",
+      "away": "Elina Nepliy",
+      "pick": "Asian Handicap2(-4.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap2(-4.5) - regular time",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": -4.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.7,
+      "stake": 100.0,
+      "betway_event_id": "16871252",
+      "betway_url": "https://betway.es/es/es/sports/event/16871252",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50541",
+      "msg_id": 50541,
+      "registered_at": "2026-06-18T13:02:22+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Halle.\n🥇 Partido: Ben Shelton - Ethan Quinn\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.444\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871067",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Halle.",
+      "event": "Ben Shelton - Ethan Quinn",
+      "home": "Ben Shelton",
+      "away": "Ethan Quinn",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.444,
+      "stake": 100.0,
+      "betway_event_id": "16871067",
+      "betway_url": "https://betway.es/es/es/sports/event/16871067",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
