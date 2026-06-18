@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50524
+    "last_message_id": 50535
   },
   "bets": [
     {
@@ -8113,12 +8113,12 @@
       "stake": 100.0,
       "betway_event_id": "16866902",
       "betway_url": "https://betway.es/es/es/sports/event/16866902",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 6,
+      "needs_review": true,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -8184,7 +8184,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -8250,7 +8250,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8283,7 +8283,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8415,7 +8415,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -8481,7 +8481,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -8547,7 +8547,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -8580,7 +8580,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -8613,7 +8613,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -8646,7 +8646,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8679,7 +8679,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -8712,7 +8712,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -8745,7 +8745,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -8778,7 +8778,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -8811,7 +8811,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -8844,7 +8844,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -8877,7 +8877,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -8971,6 +8971,204 @@
       "stake": 100.0,
       "betway_event_id": "16869004",
       "betway_url": "https://betway.es/es/es/sports/event/16869004",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50525",
+      "msg_id": 50525,
+      "registered_at": "2026-06-18T10:52:53+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Parma - Italy.\n🥇 Partido: Sebastian Ofner - Roberto Carballes Baena\n👉🏼 Pick: Team2 Win - 1st\n👉🏼 Cuota: 1.727\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871090",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Parma - Italy.",
+      "event": "Sebastian Ofner - Roberto Carballes Baena",
+      "home": "Sebastian Ofner",
+      "away": "Roberto Carballes Baena",
+      "pick": "Team2 Win - 1st",
+      "pick_struct": {
+        "raw": "Team2 Win - 1st",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.727,
+      "stake": 100.0,
+      "betway_event_id": "16871090",
+      "betway_url": "https://betway.es/es/es/sports/event/16871090",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50527",
+      "msg_id": 50527,
+      "registered_at": "2026-06-18T11:01:33+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Dublin - Ireland.\n🥇 Partido: Henry Searle - Alexis Galarneau\n👉🏼 Pick: Total Under(23.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871092",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Dublin - Ireland.",
+      "event": "Henry Searle - Alexis Galarneau",
+      "home": "Henry Searle",
+      "away": "Alexis Galarneau",
+      "pick": "Total Under(23.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(23.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 23.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16871092",
+      "betway_url": "https://betway.es/es/es/sports/event/16871092",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50528",
+      "msg_id": 50528,
+      "registered_at": "2026-06-18T11:07:36+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Haskovo.\n🥇 Partido: Hibah Shaikh - Lidia Encheva\n👉🏼 Pick: Team2 Win - 1 set, 02 game\n👉🏼 Cuota: 2.05\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871300",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Haskovo.",
+      "event": "Hibah Shaikh - Lidia Encheva",
+      "home": "Hibah Shaikh",
+      "away": "Lidia Encheva",
+      "pick": "Team2 Win - 1 set, 02 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 02 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 02 game"
+      },
+      "ev": null,
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16871300",
+      "betway_url": "https://betway.es/es/es/sports/event/16871300",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50529",
+      "msg_id": 50529,
+      "registered_at": "2026-06-18T11:15:12+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Nottingham.\n🥇 Partido: Viktorija Golubic - Zeynep Sonmez\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.35\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16869024",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Nottingham.",
+      "event": "Viktorija Golubic - Zeynep Sonmez",
+      "home": "Viktorija Golubic",
+      "away": "Zeynep Sonmez",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.35,
+      "stake": 100.0,
+      "betway_event_id": "16869024",
+      "betway_url": "https://betway.es/es/es/sports/event/16869024",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50530",
+      "msg_id": 50530,
+      "registered_at": "2026-06-18T11:16:40+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Poznan - Poland.\n🥇 Partido: Michele Ribecai - Joao Lucas Reis Da Silva\n👉🏼 Pick: Asian Handicap1(-5.5) - regular time\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16870780",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Poznan - Poland.",
+      "event": "Michele Ribecai - Joao Lucas Reis Da Silva",
+      "home": "Michele Ribecai",
+      "away": "Joao Lucas Reis Da Silva",
+      "pick": "Asian Handicap1(-5.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-5.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -5.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16870780",
+      "betway_url": "https://betway.es/es/es/sports/event/16870780",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50532",
+      "msg_id": 50532,
+      "registered_at": "2026-06-18T11:32:22+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Poznan - Poland.\n🥇 Partido: Facundo Diaz Acosta - Florian Broska\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.444\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16870782",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Poznan - Poland.",
+      "event": "Facundo Diaz Acosta - Florian Broska",
+      "home": "Facundo Diaz Acosta",
+      "away": "Florian Broska",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.444,
+      "stake": 100.0,
+      "betway_event_id": "16870782",
+      "betway_url": "https://betway.es/es/es/sports/event/16870782",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
