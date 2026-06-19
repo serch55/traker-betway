@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50701
+    "last_message_id": 50706
   },
   "bets": [
     {
@@ -10984,12 +10984,12 @@
       "stake": 100.0,
       "betway_event_id": "16876514",
       "betway_url": "https://betway.es/es/es/sports/event/16876514",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -11017,12 +11017,12 @@
       "stake": 100.0,
       "betway_event_id": "16869238",
       "betway_url": "https://betway.es/es/es/sports/event/16869238",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -11050,12 +11050,12 @@
       "stake": 100.0,
       "betway_event_id": "16876421",
       "betway_url": "https://betway.es/es/es/sports/event/16876421",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -11088,7 +11088,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -11121,7 +11121,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -11154,7 +11154,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -11187,7 +11187,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -11218,9 +11218,9 @@
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
-      "event_result": "0-0",
+      "event_result": "18-21",
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -11253,7 +11253,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -11286,7 +11286,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -11319,7 +11319,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -11352,7 +11352,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -11385,7 +11385,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -11418,7 +11418,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -11451,7 +11451,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -11484,7 +11484,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -11517,7 +11517,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -11550,7 +11550,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -11583,7 +11583,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -11616,7 +11616,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -11649,7 +11649,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -11682,7 +11682,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -11715,7 +11715,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -11748,7 +11748,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -11781,7 +11781,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -11814,7 +11814,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -11847,7 +11847,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -11880,7 +11880,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -11913,7 +11913,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -11946,7 +11946,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -11979,7 +11979,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -12012,7 +12012,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -12045,7 +12045,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -12078,7 +12078,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -12111,7 +12111,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -12144,7 +12144,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -12177,7 +12177,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -12210,7 +12210,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -12304,6 +12304,105 @@
       "stake": 100.0,
       "betway_event_id": "16876164",
       "betway_url": "https://betway.es/es/es/sports/event/16876164",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50702",
+      "msg_id": 50702,
+      "registered_at": "2026-06-19T23:31:47+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Dominica. Premier League.\n🥇 Partido: South East FC - Point Michel FC\n👉🏼 Pick: Total Over(3.5) - 1st\n👉🏼 Cuota: 1.909\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871596",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Dominica. Premier League.",
+      "event": "South East FC - Point Michel FC",
+      "home": "South East FC",
+      "away": "Point Michel FC",
+      "pick": "Total Over(3.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Over(3.5) - 1st",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 3.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16871596",
+      "betway_url": "https://betway.es/es/es/sports/event/16871596",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50704",
+      "msg_id": 50704,
+      "registered_at": "2026-06-19T23:47:40+00:00",
+      "event_time": "2026-06-20T01:30:00",
+      "raw": "✅ EV: 4.6%\nℹ️ Stake: 0.75 (0.75% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: USA. WNBA Women\n🥇 Partido: Connecticut Sun Women - Toronto Tempo Women\n👉🏼 Pick: Asian Handicap1(3.5) - 1st half\n👉🏼 Cuota: 2.05\n⏰ Fecha: 20/06/2026, 01:30:00\n👌🏼Liq Asia: 1560$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875780",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "USA. WNBA Women",
+      "event": "Connecticut Sun Women - Toronto Tempo Women",
+      "home": "Connecticut Sun Women",
+      "away": "Toronto Tempo Women",
+      "pick": "Asian Handicap1(3.5) - 1st half",
+      "pick_struct": {
+        "raw": "Asian Handicap1(3.5) - 1st half",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 3.5,
+        "periodo": "full"
+      },
+      "ev": "4.6%",
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16875780",
+      "betway_url": "https://betway.es/es/es/sports/event/16875780",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50705",
+      "msg_id": 50705,
+      "registered_at": "2026-06-19T23:50:33+00:00",
+      "event_time": "2026-06-20T01:30:00",
+      "raw": "✅ EV: 6.1%\nℹ️ Stake: 0.75 (0.75% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: USA. WNBA Women\n🥇 Partido: New York Liberty Women - Washington Mystics Women\n👉🏼 Pick: Asian Handicap1(-11.5)\n👉🏼 Cuota: 2.1\n⏰ Fecha: 20/06/2026, 01:30:00\n👌🏼Liq Asia: 3181$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875781",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "USA. WNBA Women",
+      "event": "New York Liberty Women - Washington Mystics Women",
+      "home": "New York Liberty Women",
+      "away": "Washington Mystics Women",
+      "pick": "Asian Handicap1(-11.5)",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-11.5)",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -11.5,
+        "periodo": "full"
+      },
+      "ev": "6.1%",
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16875781",
+      "betway_url": "https://betway.es/es/es/sports/event/16875781",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
