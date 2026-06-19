@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50659
+    "last_message_id": 50664
   },
   "bets": [
     {
@@ -10192,12 +10192,12 @@
       "stake": 100.0,
       "betway_event_id": "16871579",
       "betway_url": "https://betway.es/es/es/sports/event/16871579",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 6,
+      "needs_review": true,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -10225,12 +10225,12 @@
       "stake": 100.0,
       "betway_event_id": "16875192",
       "betway_url": "https://betway.es/es/es/sports/event/16875192",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 6,
+      "needs_review": true,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -10263,7 +10263,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -10296,7 +10296,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -10329,7 +10329,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10362,7 +10362,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10395,7 +10395,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10428,7 +10428,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10461,7 +10461,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10494,7 +10494,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10527,7 +10527,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10560,7 +10560,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10593,7 +10593,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10626,7 +10626,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10659,7 +10659,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10692,7 +10692,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10725,7 +10725,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10758,7 +10758,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10791,7 +10791,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10824,7 +10824,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10857,7 +10857,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10890,7 +10890,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10923,7 +10923,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10956,7 +10956,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10989,7 +10989,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -11022,7 +11022,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -11055,7 +11055,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -11121,7 +11121,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11154,7 +11154,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11187,7 +11187,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11253,7 +11253,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11286,7 +11286,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11319,7 +11319,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11352,7 +11352,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11385,7 +11385,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11479,6 +11479,105 @@
       "stake": 100.0,
       "betway_event_id": "16873327",
       "betway_url": "https://betway.es/es/es/sports/event/16873327",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50660",
+      "msg_id": 50660,
+      "registered_at": "2026-06-19T14:11:51+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Halle.\n🥇 Partido: Alexander Zverev - Raphael Collignon\n👉🏼 Pick: Team2 Win - 2 set, 09 game\n👉🏼 Cuota: 1.222\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875144",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Halle.",
+      "event": "Alexander Zverev - Raphael Collignon",
+      "home": "Alexander Zverev",
+      "away": "Raphael Collignon",
+      "pick": "Team2 Win - 2 set, 09 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 2 set, 09 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "2 set, 09 game"
+      },
+      "ev": null,
+      "odds": 1.222,
+      "stake": 100.0,
+      "betway_event_id": "16875144",
+      "betway_url": "https://betway.es/es/es/sports/event/16875144",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50661",
+      "msg_id": 50661,
+      "registered_at": "2026-06-19T14:22:52+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Xiyu Wang - Luisina Giovannini\n👉🏼 Pick: Total Over(19.5) - regular time\n👉🏼 Cuota: 2.05\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875306",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Xiyu Wang - Luisina Giovannini",
+      "home": "Xiyu Wang",
+      "away": "Luisina Giovannini",
+      "pick": "Total Over(19.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(19.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 19.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16875306",
+      "betway_url": "https://betway.es/es/es/sports/event/16875306",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50662",
+      "msg_id": 50662,
+      "registered_at": "2026-06-19T14:27:56+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Nottingham.\n🥇 Partido: Jessica Bouzas Maneiro - Emma Navarro\n👉🏼 Pick: Total Over(23.5) - regular time\n👉🏼 Cuota: 2.05\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16873334",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Nottingham.",
+      "event": "Jessica Bouzas Maneiro - Emma Navarro",
+      "home": "Jessica Bouzas Maneiro",
+      "away": "Emma Navarro",
+      "pick": "Total Over(23.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(23.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 23.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16873334",
+      "betway_url": "https://betway.es/es/es/sports/event/16873334",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
