@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50666
+    "last_message_id": 50674
   },
   "bets": [
     {
@@ -10329,7 +10329,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -10362,7 +10362,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -10395,7 +10395,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -10428,7 +10428,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -10461,7 +10461,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -10494,7 +10494,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10527,7 +10527,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10560,7 +10560,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10593,7 +10593,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10626,7 +10626,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10659,7 +10659,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10692,7 +10692,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10725,7 +10725,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10758,7 +10758,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10791,7 +10791,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10824,7 +10824,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10857,7 +10857,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10890,7 +10890,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10923,7 +10923,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10956,7 +10956,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10989,7 +10989,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -11022,7 +11022,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -11055,7 +11055,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -11088,7 +11088,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -11121,7 +11121,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -11154,7 +11154,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -11187,7 +11187,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -11218,9 +11218,9 @@
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
-      "event_result": null,
+      "event_result": "0-0",
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11253,7 +11253,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -11286,7 +11286,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -11319,7 +11319,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -11352,7 +11352,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -11385,7 +11385,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -11418,7 +11418,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -11451,7 +11451,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -11484,7 +11484,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -11517,7 +11517,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -11550,7 +11550,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11583,7 +11583,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11644,6 +11644,171 @@
       "stake": 100.0,
       "betway_event_id": "16875163",
       "betway_url": "https://betway.es/es/es/sports/event/16875163",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50667",
+      "msg_id": 50667,
+      "registered_at": "2026-06-19T16:41:44+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: No Stake / Manual Review\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Norway. Third Division.\n🥇 Partido: Hinna - Brodd\n👉🏼 Pick: 2 - regular time\n👉🏼 Cuota: 5.25\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16874756",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Norway. Third Division.",
+      "event": "Hinna - Brodd",
+      "home": "Hinna",
+      "away": "Brodd",
+      "pick": "2 - regular time",
+      "pick_struct": {
+        "raw": "2 - regular time",
+        "tipo": "1x2",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 5.25,
+      "stake": 100.0,
+      "betway_event_id": "16874756",
+      "betway_url": "https://betway.es/es/es/sports/event/16874756",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50668",
+      "msg_id": 50668,
+      "registered_at": "2026-06-19T16:44:37+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Berlin.\n🥇 Partido: Elina Svitolina - Alexandra Eala\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875168",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Berlin.",
+      "event": "Elina Svitolina - Alexandra Eala",
+      "home": "Elina Svitolina",
+      "away": "Alexandra Eala",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.6,
+      "stake": 100.0,
+      "betway_event_id": "16875168",
+      "betway_url": "https://betway.es/es/es/sports/event/16875168",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50669",
+      "msg_id": 50669,
+      "registered_at": "2026-06-19T16:51:05+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: International. Friendlies U20 Women.\n🥇 Partido: Turkey U20 Women - Lithuania U20 Women\n👉🏼 Pick: Asian Handicap1(4.5) - with OT\n👉🏼 Cuota: 1.909\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16876972",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "International. Friendlies U20 Women.",
+      "event": "Turkey U20 Women - Lithuania U20 Women",
+      "home": "Turkey U20 Women",
+      "away": "Lithuania U20 Women",
+      "pick": "Asian Handicap1(4.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap1(4.5) - with OT",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 4.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16876972",
+      "betway_url": "https://betway.es/es/es/sports/event/16876972",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50671",
+      "msg_id": 50671,
+      "registered_at": "2026-06-19T17:05:46+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Tiantsoa Sarah Rakotomanga Rajaonah - Mayar Sherif\n👉🏼 Pick: Asian Handicap1(8.5) - regular time\n👉🏼 Cuota: 1.38\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875166",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Tiantsoa Sarah Rakotomanga Rajaonah - Mayar Sherif",
+      "home": "Tiantsoa Sarah Rakotomanga Rajaonah",
+      "away": "Mayar Sherif",
+      "pick": "Asian Handicap1(8.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(8.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 8.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.38,
+      "stake": 100.0,
+      "betway_event_id": "16875166",
+      "betway_url": "https://betway.es/es/es/sports/event/16875166",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50672",
+      "msg_id": 50672,
+      "registered_at": "2026-06-19T17:11:21+00:00",
+      "event_time": "2026-06-19T18:00:00",
+      "raw": "✅ EV: 5.3%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: World. Friendly Clubs\n🥇 Partido: NK Race - Aluminij\n👉🏼 Pick: Total Under(3.5)\n👉🏼 Cuota: 1.182\n⏰ Fecha: 19/06/2026, 18:00:00\n👌🏼Liq Betfair: 956$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16876498",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "World. Friendly Clubs",
+      "event": "NK Race - Aluminij",
+      "home": "NK Race",
+      "away": "Aluminij",
+      "pick": "Total Under(3.5)",
+      "pick_struct": {
+        "raw": "Total Under(3.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 3.5,
+        "periodo": "full"
+      },
+      "ev": "5.3%",
+      "odds": 1.182,
+      "stake": 100.0,
+      "betway_event_id": "16876498",
+      "betway_url": "https://betway.es/es/es/sports/event/16876498",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
