@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50604
+    "last_message_id": 50607
   },
   "bets": [
     {
@@ -9796,12 +9796,12 @@
       "stake": 100.0,
       "betway_event_id": "16867022",
       "betway_url": "https://betway.es/es/es/sports/event/16867022",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -9862,12 +9862,12 @@
       "stake": 100.0,
       "betway_event_id": "16867014",
       "betway_url": "https://betway.es/es/es/sports/event/16867014",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -9895,12 +9895,12 @@
       "stake": 100.0,
       "betway_event_id": "16868408",
       "betway_url": "https://betway.es/es/es/sports/event/16868408",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -9928,12 +9928,12 @@
       "stake": 100.0,
       "betway_event_id": "16868409",
       "betway_url": "https://betway.es/es/es/sports/event/16868409",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -9961,12 +9961,12 @@
       "stake": 100.0,
       "betway_event_id": "16868407",
       "betway_url": "https://betway.es/es/es/sports/event/16868407",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -9994,12 +9994,12 @@
       "stake": 100.0,
       "betway_event_id": "16868718",
       "betway_url": "https://betway.es/es/es/sports/event/16868718",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -10065,7 +10065,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10098,7 +10098,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10131,7 +10131,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10197,7 +10197,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10230,7 +10230,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10263,7 +10263,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10291,6 +10291,105 @@
       "stake": 100.0,
       "betway_event_id": "16874644",
       "betway_url": "https://betway.es/es/es/sports/event/16874644",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 1,
+      "last_error": null
+    },
+    {
+      "id": "b50605",
+      "msg_id": 50605,
+      "registered_at": "2026-06-19T06:44:04+00:00",
+      "event_time": "2026-06-19T07:00:00",
+      "raw": "✅ EV: 5.3%\nℹ️ Stake: 0.75 (0.75% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Fiji. FA Cup\n🥇 Partido: Rewa - Navua\n👉🏼 Pick: Total Over(3.5)\n👉🏼 Cuota: 1.8\n⏰ Fecha: 19/06/2026, 07:00:00\n👌🏼Liq Asia: 1000$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875668",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Fiji. FA Cup",
+      "event": "Rewa - Navua",
+      "home": "Rewa",
+      "away": "Navua",
+      "pick": "Total Over(3.5)",
+      "pick_struct": {
+        "raw": "Total Over(3.5)",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 3.5,
+        "periodo": "full"
+      },
+      "ev": "5.3%",
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16875668",
+      "betway_url": "https://betway.es/es/es/sports/event/16875668",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50606",
+      "msg_id": 50606,
+      "registered_at": "2026-06-19T07:49:17+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: New Zealand. NBL.\n🥇 Partido: Canterbury Rams - Whai\n👉🏼 Pick: Team1 Win - 1st half\n👉🏼 Cuota: 1.222\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16873104",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "New Zealand. NBL.",
+      "event": "Canterbury Rams - Whai",
+      "home": "Canterbury Rams",
+      "away": "Whai",
+      "pick": "Team1 Win - 1st half",
+      "pick_struct": {
+        "raw": "Team1 Win - 1st half",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "full"
+      },
+      "ev": null,
+      "odds": 1.222,
+      "stake": 100.0,
+      "betway_event_id": "16873104",
+      "betway_url": "https://betway.es/es/es/sports/event/16873104",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50607",
+      "msg_id": 50607,
+      "registered_at": "2026-06-19T08:02:41+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: China. Cup.\n🥇 Partido: Shanghai Segenda - Shanghai Port\n👉🏼 Pick: Total Over(0.5) - 1st\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16869232",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "China. Cup.",
+      "event": "Shanghai Segenda - Shanghai Port",
+      "home": "Shanghai Segenda",
+      "away": "Shanghai Port",
+      "pick": "Total Over(0.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Over(0.5) - 1st",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 0.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16869232",
+      "betway_url": "https://betway.es/es/es/sports/event/16869232",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
