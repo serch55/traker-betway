@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50595
+    "last_message_id": 50597
   },
   "bets": [
     {
@@ -9400,12 +9400,12 @@
       "stake": 100.0,
       "betway_event_id": "16871091",
       "betway_url": "https://betway.es/es/es/sports/event/16871091",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 11,
+      "needs_review": true,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -9433,12 +9433,12 @@
       "stake": 100.0,
       "betway_event_id": "16870781",
       "betway_url": "https://betway.es/es/es/sports/event/16870781",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -9466,12 +9466,12 @@
       "stake": 100.0,
       "betway_event_id": "16868783",
       "betway_url": "https://betway.es/es/es/sports/event/16868783",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -9499,12 +9499,12 @@
       "stake": 100.0,
       "betway_event_id": "16866749",
       "betway_url": "https://betway.es/es/es/sports/event/16866749",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -9537,7 +9537,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -9570,7 +9570,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -9603,7 +9603,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -9669,7 +9669,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -9702,7 +9702,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -9735,7 +9735,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -9768,7 +9768,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -9801,7 +9801,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -9834,7 +9834,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -9867,7 +9867,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -9900,7 +9900,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -9933,7 +9933,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -9966,7 +9966,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -9999,7 +9999,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10027,12 +10027,12 @@
       "stake": 100.0,
       "betway_event_id": "16847492",
       "betway_url": "https://betway.es/es/es/sports/event/16847492",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "perdida",
+      "resolved_at": "2026-06-19T02:41:10.373011+00:00",
+      "result_source": "espn",
+      "event_result": "6-0",
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -10065,7 +10065,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10098,7 +10098,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10159,6 +10159,39 @@
       "stake": 100.0,
       "betway_event_id": "16868250",
       "betway_url": "https://betway.es/es/es/sports/event/16868250",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50597",
+      "msg_id": 50597,
+      "registered_at": "2026-06-19T02:40:53+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: USA, League Two.\n🥇 Partido: Ballard FC - Bigfoot\n👉🏼 Pick: Total Over(5.5) - 1st\n👉🏼 Cuota: 2.1\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871579",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "USA, League Two.",
+      "event": "Ballard FC - Bigfoot",
+      "home": "Ballard FC",
+      "away": "Bigfoot",
+      "pick": "Total Over(5.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Over(5.5) - 1st",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 5.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16871579",
+      "betway_url": "https://betway.es/es/es/sports/event/16871579",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
