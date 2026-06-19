@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50645
+    "last_message_id": 50659
   },
   "bets": [
     {
@@ -10126,12 +10126,12 @@
       "stake": 100.0,
       "betway_event_id": "16868733",
       "betway_url": "https://betway.es/es/es/sports/event/16868733",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 6,
+      "needs_review": true,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -10197,7 +10197,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -10230,7 +10230,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -10263,7 +10263,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -10296,7 +10296,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -10329,7 +10329,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10362,7 +10362,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -10395,7 +10395,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10428,7 +10428,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10461,7 +10461,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -10494,7 +10494,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10527,7 +10527,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10560,7 +10560,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10593,7 +10593,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10626,7 +10626,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10659,7 +10659,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10692,7 +10692,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10725,7 +10725,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10758,7 +10758,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -10791,7 +10791,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -10824,7 +10824,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -10857,7 +10857,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -10890,7 +10890,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -10923,7 +10923,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -10956,7 +10956,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -10989,7 +10989,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11022,7 +11022,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11055,7 +11055,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -11149,6 +11149,336 @@
       "stake": 100.0,
       "betway_event_id": "16869314",
       "betway_url": "https://betway.es/es/es/sports/event/16869314",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50646",
+      "msg_id": 50646,
+      "registered_at": "2026-06-19T12:57:14+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Australia. NBL1.\n🥇 Partido: Perry Lakes Hawks - Willetton Tigers\n👉🏼 Pick: Asian Handicap1(1.5) - 1st half\n👉🏼 Cuota: 1.87\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875878",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Australia. NBL1.",
+      "event": "Perry Lakes Hawks - Willetton Tigers",
+      "home": "Perry Lakes Hawks",
+      "away": "Willetton Tigers",
+      "pick": "Asian Handicap1(1.5) - 1st half",
+      "pick_struct": {
+        "raw": "Asian Handicap1(1.5) - 1st half",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 1.5,
+        "periodo": "full"
+      },
+      "ev": null,
+      "odds": 1.87,
+      "stake": 100.0,
+      "betway_event_id": "16875878",
+      "betway_url": "https://betway.es/es/es/sports/event/16875878",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50647",
+      "msg_id": 50647,
+      "registered_at": "2026-06-19T12:58:12+00:00",
+      "event_time": "2026-06-19T14:30:00",
+      "raw": "✅ EV: 5.6%\nℹ️ Stake: 0.75 (0.75% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Australia. NBL1\n🥇 Partido: Stirling Senators - Kalamunda Eastern Suns\n👉🏼 Pick: Asian Handicap1(7.5) - 1st half\n👉🏼 Cuota: 1.87\n⏰ Fecha: 19/06/2026, 14:30:00\n👌🏼Liq Asia: 1125$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875906",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Australia. NBL1",
+      "event": "Stirling Senators - Kalamunda Eastern Suns",
+      "home": "Stirling Senators",
+      "away": "Kalamunda Eastern Suns",
+      "pick": "Asian Handicap1(7.5) - 1st half",
+      "pick_struct": {
+        "raw": "Asian Handicap1(7.5) - 1st half",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 7.5,
+        "periodo": "full"
+      },
+      "ev": "5.6%",
+      "odds": 1.87,
+      "stake": 100.0,
+      "betway_event_id": "16875906",
+      "betway_url": "https://betway.es/es/es/sports/event/16875906",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50648",
+      "msg_id": 50648,
+      "registered_at": "2026-06-19T12:58:50+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Figueira da Foz.\n🥇 Partido: Susan Bandecchi - Alina Charaeva\n👉🏼 Pick: Total Over(20.5) - regular time\n👉🏼 Cuota: 2.4\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16873337",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Figueira da Foz.",
+      "event": "Susan Bandecchi - Alina Charaeva",
+      "home": "Susan Bandecchi",
+      "away": "Alina Charaeva",
+      "pick": "Total Over(20.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(20.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 20.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.4,
+      "stake": 100.0,
+      "betway_event_id": "16873337",
+      "betway_url": "https://betway.es/es/es/sports/event/16873337",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50649",
+      "msg_id": 50649,
+      "registered_at": "2026-06-19T13:07:21+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Poznan - Poland.\n🥇 Partido: Dalibor Svrcina - Gustavo Heide\n👉🏼 Pick: Asian Handicap1(-4.5) - regular time\n👉🏼 Cuota: 1.5\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875162",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Poznan - Poland.",
+      "event": "Dalibor Svrcina - Gustavo Heide",
+      "home": "Dalibor Svrcina",
+      "away": "Gustavo Heide",
+      "pick": "Asian Handicap1(-4.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-4.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -4.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.5,
+      "stake": 100.0,
+      "betway_event_id": "16875162",
+      "betway_url": "https://betway.es/es/es/sports/event/16875162",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50650",
+      "msg_id": 50650,
+      "registered_at": "2026-06-19T13:09:09+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Indonesia. IBL.\n🥇 Partido: Pelita Jaya Bakrie Basketball - Bumi Borneo Basketball Pontianak\n👉🏼 Pick: Asian Handicap1(1.5) - with OT\n👉🏼 Cuota: 1.85\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16876970",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Indonesia. IBL.",
+      "event": "Pelita Jaya Bakrie Basketball - Bumi Borneo Basketball Pontianak",
+      "home": "Pelita Jaya Bakrie Basketball",
+      "away": "Bumi Borneo Basketball Pontianak",
+      "pick": "Asian Handicap1(1.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap1(1.5) - with OT",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 1.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 1.85,
+      "stake": 100.0,
+      "betway_event_id": "16876970",
+      "betway_url": "https://betway.es/es/es/sports/event/16876970",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50651",
+      "msg_id": 50651,
+      "registered_at": "2026-06-19T13:14:03+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: No Stake / Manual Review\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: China. Cup.\n🥇 Partido: Hangzhou Linping Wuyue - Dalian Yingbo\n👉🏼 Pick: 2 - regular time\n👉🏼 Cuota: 4.75\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16869315",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "China. Cup.",
+      "event": "Hangzhou Linping Wuyue - Dalian Yingbo",
+      "home": "Hangzhou Linping Wuyue",
+      "away": "Dalian Yingbo",
+      "pick": "2 - regular time",
+      "pick_struct": {
+        "raw": "2 - regular time",
+        "tipo": "1x2",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 4.75,
+      "stake": 100.0,
+      "betway_event_id": "16869315",
+      "betway_url": "https://betway.es/es/es/sports/event/16869315",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50652",
+      "msg_id": 50652,
+      "registered_at": "2026-06-19T13:21:15+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Nottingham.\n🥇 Partido: Karolina Pliskova - Talia Gibson\n👉🏼 Pick: Asian Handicap1(-2.5) - regular time\n👉🏼 Cuota: 1.38\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16874248",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Nottingham.",
+      "event": "Karolina Pliskova - Talia Gibson",
+      "home": "Karolina Pliskova",
+      "away": "Talia Gibson",
+      "pick": "Asian Handicap1(-2.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-2.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -2.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.38,
+      "stake": 100.0,
+      "betway_event_id": "16874248",
+      "betway_url": "https://betway.es/es/es/sports/event/16874248",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50657",
+      "msg_id": 50657,
+      "registered_at": "2026-06-19T13:48:20+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Dublin - Ireland.\n🥇 Partido: Kyrian Jacquet - Henry Searle\n👉🏼 Pick: Total Under(24.5) - regular time\n👉🏼 Cuota: 2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16874541",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Dublin - Ireland.",
+      "event": "Kyrian Jacquet - Henry Searle",
+      "home": "Kyrian Jacquet",
+      "away": "Henry Searle",
+      "pick": "Total Under(24.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(24.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 24.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.0,
+      "stake": 100.0,
+      "betway_event_id": "16874541",
+      "betway_url": "https://betway.es/es/es/sports/event/16874541",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50658",
+      "msg_id": 50658,
+      "registered_at": "2026-06-19T13:49:14+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: South Africa. Super League Women.\n🥇 Partido: Richmond United Women - Diepkloof Women\n👉🏼 Pick: 2 - regular time\n👉🏼 Cuota: 2.4\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875680",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "South Africa. Super League Women.",
+      "event": "Richmond United Women - Diepkloof Women",
+      "home": "Richmond United Women",
+      "away": "Diepkloof Women",
+      "pick": "2 - regular time",
+      "pick_struct": {
+        "raw": "2 - regular time",
+        "tipo": "1x2",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.4,
+      "stake": 100.0,
+      "betway_event_id": "16875680",
+      "betway_url": "https://betway.es/es/es/sports/event/16875680",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50659",
+      "msg_id": 50659,
+      "registered_at": "2026-06-19T13:50:57+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Berlin.\n🥇 Partido: Aryna Sabalenka - Nikola Bartunkova\n👉🏼 Pick: Team2 Win - 1st\n👉🏼 Cuota: 2.1\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16873327",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Berlin.",
+      "event": "Aryna Sabalenka - Nikola Bartunkova",
+      "home": "Aryna Sabalenka",
+      "away": "Nikola Bartunkova",
+      "pick": "Team2 Win - 1st",
+      "pick_struct": {
+        "raw": "Team2 Win - 1st",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16873327",
+      "betway_url": "https://betway.es/es/es/sports/event/16873327",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
