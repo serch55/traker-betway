@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50835
+    "last_message_id": 50842
   },
   "bets": [
     {
@@ -12672,7 +12672,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -12738,7 +12738,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -12766,12 +12766,12 @@
       "stake": 100.0,
       "betway_event_id": "16879151",
       "betway_url": "https://betway.es/es/es/sports/event/16879151",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -12804,7 +12804,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -12837,7 +12837,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -12870,7 +12870,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -12903,7 +12903,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -12936,7 +12936,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -12969,7 +12969,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -13002,7 +13002,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -13035,7 +13035,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -13068,7 +13068,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -13101,7 +13101,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -13134,7 +13134,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -13167,7 +13167,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -13200,7 +13200,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -13233,7 +13233,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -13266,7 +13266,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -13299,7 +13299,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -13332,7 +13332,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -13365,7 +13365,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -13398,7 +13398,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -13431,7 +13431,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -13464,7 +13464,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -13497,7 +13497,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -13530,7 +13530,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -13563,7 +13563,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -13596,7 +13596,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -13629,7 +13629,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -13662,7 +13662,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -13695,7 +13695,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -13728,7 +13728,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -13761,7 +13761,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -13794,7 +13794,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -13827,7 +13827,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -13860,7 +13860,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -13893,7 +13893,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -13926,7 +13926,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -13959,7 +13959,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -13992,7 +13992,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -14025,7 +14025,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -14058,7 +14058,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -14091,7 +14091,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -14124,7 +14124,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -14157,7 +14157,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -14190,7 +14190,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -14223,7 +14223,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -14256,7 +14256,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -14289,7 +14289,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -14322,7 +14322,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -14355,7 +14355,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -14388,7 +14388,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -14421,7 +14421,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -14454,7 +14454,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -14487,7 +14487,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -14520,7 +14520,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -14586,7 +14586,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -14619,7 +14619,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -14713,6 +14713,138 @@
       "stake": 100.0,
       "betway_event_id": "16878926",
       "betway_url": "https://betway.es/es/es/sports/event/16878926",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50836",
+      "msg_id": 50836,
+      "registered_at": "2026-06-20T18:09:19+00:00",
+      "event_time": "2026-06-20T19:00:00",
+      "raw": "✅ EV: 5.2%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: World. World Cup\n🥇 Partido: Netherlands - Sweden\n👉🏼 Pick: Total Over(3.5)\n👉🏼 Cuota: 1.615\n⏰ Fecha: 20/06/2026, 19:00:00\n👌🏼Liq Asia: 24000$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16847506",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "World. World Cup",
+      "event": "Netherlands - Sweden",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "pick": "Total Over(3.5)",
+      "pick_struct": {
+        "raw": "Total Over(3.5)",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 3.5,
+        "periodo": "full"
+      },
+      "ev": "5.2%",
+      "odds": 1.615,
+      "stake": 100.0,
+      "betway_event_id": "16847506",
+      "betway_url": "https://betway.es/es/es/sports/event/16847506",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50838",
+      "msg_id": 50838,
+      "registered_at": "2026-06-20T18:19:30+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Tulsa.\n🥇 Partido: Andres Martin - Jeffrey John Wolf\n👉🏼 Pick: Total Over(27.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16880517",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Tulsa.",
+      "event": "Andres Martin - Jeffrey John Wolf",
+      "home": "Andres Martin",
+      "away": "Jeffrey John Wolf",
+      "pick": "Total Over(27.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(27.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 27.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16880517",
+      "betway_url": "https://betway.es/es/es/sports/event/16880517",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50840",
+      "msg_id": 50840,
+      "registered_at": "2026-06-20T18:32:46+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Eastbourne.\n🥇 Partido: Jan Choinski - Yibing Wu\n👉🏼 Pick: Asian Handicap2(-3.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16880478",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Eastbourne.",
+      "event": "Jan Choinski - Yibing Wu",
+      "home": "Jan Choinski",
+      "away": "Yibing Wu",
+      "pick": "Asian Handicap2(-3.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap2(-3.5) - regular time",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": -3.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16880478",
+      "betway_url": "https://betway.es/es/es/sports/event/16880478",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50842",
+      "msg_id": 50842,
+      "registered_at": "2026-06-20T18:41:51+00:00",
+      "event_time": "2026-06-20T20:00:00",
+      "raw": "✅ EV: 4.6%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Argentina. Primera Nacional\n🥇 Partido: Ciudad de Bolivar - CA Estudiantes Caseros\n👉🏼 Pick: Total Under(1.5) - 1st\n👉🏼 Cuota: 1.133\n⏰ Fecha: 20/06/2026, 20:00:00\n👌🏼Liq Betfair: 3682$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16863171",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Argentina. Primera Nacional",
+      "event": "Ciudad de Bolivar - CA Estudiantes Caseros",
+      "home": "Ciudad de Bolivar",
+      "away": "CA Estudiantes Caseros",
+      "pick": "Total Under(1.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Under(1.5) - 1st",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 1.5,
+        "periodo": "1st"
+      },
+      "ev": "4.6%",
+      "odds": 1.133,
+      "stake": 100.0,
+      "betway_event_id": "16863171",
+      "betway_url": "https://betway.es/es/es/sports/event/16863171",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
