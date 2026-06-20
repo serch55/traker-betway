@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50869
+    "last_message_id": 50870
   },
   "bets": [
     {
@@ -13134,7 +13134,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 14,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -13530,7 +13530,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -13591,12 +13591,12 @@
       "stake": 100.0,
       "betway_event_id": "16880427",
       "betway_url": "https://betway.es/es/es/sports/event/16880427",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 15,
+      "needs_review": true,
+      "auto_attempts": 16,
       "last_error": null
     },
     {
@@ -13624,12 +13624,12 @@
       "stake": 100.0,
       "betway_event_id": "16879164",
       "betway_url": "https://betway.es/es/es/sports/event/16879164",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 15,
+      "needs_review": true,
+      "auto_attempts": 16,
       "last_error": null
     },
     {
@@ -13657,12 +13657,12 @@
       "stake": 100.0,
       "betway_event_id": "16880458",
       "betway_url": "https://betway.es/es/es/sports/event/16880458",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 15,
+      "needs_review": true,
+      "auto_attempts": 16,
       "last_error": null
     },
     {
@@ -13690,12 +13690,12 @@
       "stake": 100.0,
       "betway_event_id": "16879612",
       "betway_url": "https://betway.es/es/es/sports/event/16879612",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 15,
+      "needs_review": true,
+      "auto_attempts": 16,
       "last_error": null
     },
     {
@@ -13723,12 +13723,12 @@
       "stake": 100.0,
       "betway_event_id": "16879277",
       "betway_url": "https://betway.es/es/es/sports/event/16879277",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 15,
+      "needs_review": true,
+      "auto_attempts": 16,
       "last_error": null
     },
     {
@@ -13761,7 +13761,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 15,
+      "auto_attempts": 16,
       "last_error": null
     },
     {
@@ -13794,7 +13794,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 14,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -13827,7 +13827,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 14,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -13860,7 +13860,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 14,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -13893,7 +13893,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -13926,7 +13926,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -13959,7 +13959,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -13992,7 +13992,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -14025,7 +14025,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -14058,7 +14058,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -14091,7 +14091,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -14124,7 +14124,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -14157,7 +14157,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -14190,7 +14190,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -14223,7 +14223,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -14256,7 +14256,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -14289,7 +14289,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -14322,7 +14322,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -14355,7 +14355,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -14388,7 +14388,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -14421,7 +14421,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -14454,7 +14454,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -14487,7 +14487,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -14520,7 +14520,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -14553,7 +14553,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -14586,7 +14586,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -14619,7 +14619,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -14652,7 +14652,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -14685,7 +14685,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -14784,7 +14784,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -14817,7 +14817,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -14850,7 +14850,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -14883,7 +14883,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -14982,7 +14982,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15048,7 +15048,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15081,7 +15081,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15114,7 +15114,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15147,7 +15147,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15241,6 +15241,39 @@
       "stake": 100.0,
       "betway_event_id": "16877714",
       "betway_url": "https://betway.es/es/es/sports/event/16877714",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50870",
+      "msg_id": 50870,
+      "registered_at": "2026-06-20T22:45:59+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Brazil, Serie D.\n🥇 Partido: mixto mt - Gama DF\n👉🏼 Pick: Total Under(3.5) - regular time\n👉🏼 Cuota: 1.375\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16875528",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Brazil, Serie D.",
+      "event": "mixto mt - Gama DF",
+      "home": "mixto mt",
+      "away": "Gama DF",
+      "pick": "Total Under(3.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(3.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 3.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.375,
+      "stake": 100.0,
+      "betway_event_id": "16875528",
+      "betway_url": "https://betway.es/es/es/sports/event/16875528",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
