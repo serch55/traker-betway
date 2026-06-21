@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50987
+    "last_message_id": 50992
   },
   "bets": [
     {
@@ -15868,12 +15868,12 @@
       "stake": 100.0,
       "betway_event_id": "16876832",
       "betway_url": "https://betway.es/es/es/sports/event/16876832",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -15967,12 +15967,12 @@
       "stake": 100.0,
       "betway_event_id": "16878943",
       "betway_url": "https://betway.es/es/es/sports/event/16878943",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -16000,12 +16000,12 @@
       "stake": 100.0,
       "betway_event_id": "16882575",
       "betway_url": "https://betway.es/es/es/sports/event/16882575",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -16038,7 +16038,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -16071,7 +16071,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -16104,7 +16104,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -16137,7 +16137,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -16170,7 +16170,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -16203,7 +16203,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -16236,7 +16236,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -16269,7 +16269,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -16302,7 +16302,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -16335,7 +16335,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -16368,7 +16368,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -16401,7 +16401,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -16434,7 +16434,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -16467,7 +16467,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -16500,7 +16500,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -16533,7 +16533,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -16566,7 +16566,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -16599,7 +16599,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -16632,7 +16632,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -16665,7 +16665,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -16698,7 +16698,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -16731,7 +16731,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -16764,7 +16764,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -16797,7 +16797,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -16830,7 +16830,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -16863,7 +16863,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -16896,7 +16896,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -16929,7 +16929,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -16962,7 +16962,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -17028,7 +17028,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -17061,7 +17061,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -17094,7 +17094,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -17127,7 +17127,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -17160,7 +17160,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -17226,7 +17226,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -17325,7 +17325,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -17452,6 +17452,39 @@
       "stake": 100.0,
       "betway_event_id": "16879292",
       "betway_url": "https://betway.es/es/es/sports/event/16879292",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50990",
+      "msg_id": 50990,
+      "registered_at": "2026-06-21T21:16:14+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: USA. Premier Soccer League Women.\n🥇 Partido: Side FC 92 Women - Kansas City Current II Women\n👉🏼 Pick: Total Over(3.5) - 1st\n👉🏼 Cuota: 2.4\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882609",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "USA. Premier Soccer League Women.",
+      "event": "Side FC 92 Women - Kansas City Current II Women",
+      "home": "Side FC 92 Women",
+      "away": "Kansas City Current II Women",
+      "pick": "Total Over(3.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Over(3.5) - 1st",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 3.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.4,
+      "stake": 100.0,
+      "betway_event_id": "16882609",
+      "betway_url": "https://betway.es/es/es/sports/event/16882609",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
