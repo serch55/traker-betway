@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50899
+    "last_message_id": 50907
   },
   "bets": [
     {
@@ -14944,12 +14944,12 @@
       "stake": 100.0,
       "betway_event_id": "16863482",
       "betway_url": "https://betway.es/es/es/sports/event/16863482",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15010,12 +15010,12 @@
       "stake": 100.0,
       "betway_event_id": "16878734",
       "betway_url": "https://betway.es/es/es/sports/event/16878734",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15076,12 +15076,12 @@
       "stake": 100.0,
       "betway_event_id": "16875210",
       "betway_url": "https://betway.es/es/es/sports/event/16875210",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -15109,12 +15109,12 @@
       "stake": 100.0,
       "betway_event_id": "16879032",
       "betway_url": "https://betway.es/es/es/sports/event/16879032",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -15142,12 +15142,12 @@
       "stake": 100.0,
       "betway_event_id": "16875296",
       "betway_url": "https://betway.es/es/es/sports/event/16875296",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -15180,7 +15180,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15208,12 +15208,12 @@
       "stake": 100.0,
       "betway_event_id": "16880403",
       "betway_url": "https://betway.es/es/es/sports/event/16880403",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15246,7 +15246,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15279,7 +15279,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15312,7 +15312,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15345,7 +15345,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15411,7 +15411,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15444,7 +15444,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15477,7 +15477,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15510,7 +15510,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15543,7 +15543,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15576,7 +15576,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15609,7 +15609,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15642,7 +15642,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15675,7 +15675,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15708,7 +15708,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15741,7 +15741,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15774,7 +15774,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15807,7 +15807,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15840,7 +15840,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15901,6 +15901,138 @@
       "stake": 100.0,
       "betway_event_id": "16882895",
       "betway_url": "https://betway.es/es/es/sports/event/16882895",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50901",
+      "msg_id": 50901,
+      "registered_at": "2026-06-21T08:48:42+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Targu Mures - Romania.\n🥇 Partido: Cezar Stefan Bentzel - Alan Fernando Rubio Fierros\n👉🏼 Pick: Asian Handicap2(-5.5) - regular time\n👉🏼 Cuota: 2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16884228",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Targu Mures - Romania.",
+      "event": "Cezar Stefan Bentzel - Alan Fernando Rubio Fierros",
+      "home": "Cezar Stefan Bentzel",
+      "away": "Alan Fernando Rubio Fierros",
+      "pick": "Asian Handicap2(-5.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap2(-5.5) - regular time",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": -5.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.0,
+      "stake": 100.0,
+      "betway_event_id": "16884228",
+      "betway_url": "https://betway.es/es/es/sports/event/16884228",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50902",
+      "msg_id": 50902,
+      "registered_at": "2026-06-21T09:01:55+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Myanmar. U20 Matches.\n🥇 Partido: Hantharwady United U20 - Myawady FC U20\n👉🏼 Pick: 1 - regular time\n👉🏼 Cuota: 2.15\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16878943",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Myanmar. U20 Matches.",
+      "event": "Hantharwady United U20 - Myawady FC U20",
+      "home": "Hantharwady United U20",
+      "away": "Myawady FC U20",
+      "pick": "1 - regular time",
+      "pick_struct": {
+        "raw": "1 - regular time",
+        "tipo": "1x2",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.15,
+      "stake": 100.0,
+      "betway_event_id": "16878943",
+      "betway_url": "https://betway.es/es/es/sports/event/16878943",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50904",
+      "msg_id": 50904,
+      "registered_at": "2026-06-21T09:11:30+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Bad Homburg.\n🥇 Partido: Solana Sierra - Anna Blinkova\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 2.4\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882575",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Bad Homburg.",
+      "event": "Solana Sierra - Anna Blinkova",
+      "home": "Solana Sierra",
+      "away": "Anna Blinkova",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.4,
+      "stake": 100.0,
+      "betway_event_id": "16882575",
+      "betway_url": "https://betway.es/es/es/sports/event/16882575",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50907",
+      "msg_id": 50907,
+      "registered_at": "2026-06-21T09:37:29+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Bad Homburg.\n🥇 Partido: Diane Parry - Irina-Camelia Begu\n👉🏼 Pick: Team2 Win - 1 set, 08 game\n👉🏼 Cuota: 1.364\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882574",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Bad Homburg.",
+      "event": "Diane Parry - Irina-Camelia Begu",
+      "home": "Diane Parry",
+      "away": "Irina-Camelia Begu",
+      "pick": "Team2 Win - 1 set, 08 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 08 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 08 game"
+      },
+      "ev": null,
+      "odds": 1.364,
+      "stake": 100.0,
+      "betway_event_id": "16882574",
+      "betway_url": "https://betway.es/es/es/sports/event/16882574",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
