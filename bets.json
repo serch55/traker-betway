@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50887
+    "last_message_id": 50895
   },
   "bets": [
     {
@@ -14548,12 +14548,12 @@
       "stake": 100.0,
       "betway_event_id": "16879155",
       "betway_url": "https://betway.es/es/es/sports/event/16879155",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -14647,12 +14647,12 @@
       "stake": 100.0,
       "betway_event_id": "16874622",
       "betway_url": "https://betway.es/es/es/sports/event/16874622",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -14680,12 +14680,12 @@
       "stake": 100.0,
       "betway_event_id": "16880479",
       "betway_url": "https://betway.es/es/es/sports/event/16880479",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -14779,12 +14779,12 @@
       "stake": 100.0,
       "betway_event_id": "16880517",
       "betway_url": "https://betway.es/es/es/sports/event/16880517",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 11,
+      "needs_review": true,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -14812,12 +14812,12 @@
       "stake": 100.0,
       "betway_event_id": "16880478",
       "betway_url": "https://betway.es/es/es/sports/event/16880478",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 11,
+      "needs_review": true,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -14850,7 +14850,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -14883,7 +14883,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -14949,7 +14949,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -14982,7 +14982,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -15015,7 +15015,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15048,7 +15048,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15081,7 +15081,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15114,7 +15114,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15147,7 +15147,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15180,7 +15180,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15213,7 +15213,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15246,7 +15246,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15279,7 +15279,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15312,7 +15312,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15345,7 +15345,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15411,7 +15411,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15444,7 +15444,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15477,7 +15477,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15543,7 +15543,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15571,6 +15571,237 @@
       "stake": 100.0,
       "betway_event_id": "16880875",
       "betway_url": "https://betway.es/es/es/sports/event/16880875",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 1,
+      "last_error": null
+    },
+    {
+      "id": "b50888",
+      "msg_id": 50888,
+      "registered_at": "2026-06-21T05:10:03+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Japan. Nadeshiko League 2.\n🥇 Partido: Diavorosso Hiroshima Women - Nankatsu SC Women\n👉🏼 Pick: X - 1st\n👉🏼 Cuota: 1.333\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16876338",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Japan. Nadeshiko League 2.",
+      "event": "Diavorosso Hiroshima Women - Nankatsu SC Women",
+      "home": "Diavorosso Hiroshima Women",
+      "away": "Nankatsu SC Women",
+      "pick": "X - 1st",
+      "pick_struct": {
+        "raw": "X - 1st",
+        "tipo": "1x2",
+        "equipo": "x",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.333,
+      "stake": 100.0,
+      "betway_event_id": "16876338",
+      "betway_url": "https://betway.es/es/es/sports/event/16876338",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50889",
+      "msg_id": 50889,
+      "registered_at": "2026-06-21T05:35:54+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Maanshan.\n🥇 Partido: Matthew Dellavedova - Hoyoung Roh\n👉🏼 Pick: Team2 Win - 1st\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882877",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Maanshan.",
+      "event": "Matthew Dellavedova - Hoyoung Roh",
+      "home": "Matthew Dellavedova",
+      "away": "Hoyoung Roh",
+      "pick": "Team2 Win - 1st",
+      "pick_struct": {
+        "raw": "Team2 Win - 1st",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16882877",
+      "betway_url": "https://betway.es/es/es/sports/event/16882877",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50890",
+      "msg_id": 50890,
+      "registered_at": "2026-06-21T05:38:33+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Australia. NBL1.\n🥇 Partido: Eltham Wildcats - Bendigo Braves\n👉🏼 Pick: Asian Handicap1(-4.5) - with OT\n👉🏼 Cuota: 1.909\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882618",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Australia. NBL1.",
+      "event": "Eltham Wildcats - Bendigo Braves",
+      "home": "Eltham Wildcats",
+      "away": "Bendigo Braves",
+      "pick": "Asian Handicap1(-4.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-4.5) - with OT",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -4.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16882618",
+      "betway_url": "https://betway.es/es/es/sports/event/16882618",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50892",
+      "msg_id": 50892,
+      "registered_at": "2026-06-21T05:43:31+00:00",
+      "event_time": "2026-06-21T07:00:00",
+      "raw": "✅ EV: 5.0%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Australia. NPL NSW Women\n🥇 Partido: Illawarra Stingrays Women - UNSW University of New South Wales Women\n👉🏼 Pick: Total Over(3.5)\n👉🏼 Cuota: 1.571\n⏰ Fecha: 21/06/2026, 07:00:00\n👌🏼Liq Asia: 1500$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16876439",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Australia. NPL NSW Women",
+      "event": "Illawarra Stingrays Women - UNSW University of New South Wales Women",
+      "home": "Illawarra Stingrays Women",
+      "away": "UNSW University of New South Wales Women",
+      "pick": "Total Over(3.5)",
+      "pick_struct": {
+        "raw": "Total Over(3.5)",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 3.5,
+        "periodo": "full"
+      },
+      "ev": "5.0%",
+      "odds": 1.571,
+      "stake": 100.0,
+      "betway_event_id": "16876439",
+      "betway_url": "https://betway.es/es/es/sports/event/16876439",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50893",
+      "msg_id": 50893,
+      "registered_at": "2026-06-21T05:44:16+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Australia. NBL1.\n🥇 Partido: Waverley Falcons - Keilor Thunder\n👉🏼 Pick: Asian Handicap1(12.5) - 1st half\n👉🏼 Cuota: 1.87\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882693",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Australia. NBL1.",
+      "event": "Waverley Falcons - Keilor Thunder",
+      "home": "Waverley Falcons",
+      "away": "Keilor Thunder",
+      "pick": "Asian Handicap1(12.5) - 1st half",
+      "pick_struct": {
+        "raw": "Asian Handicap1(12.5) - 1st half",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 12.5,
+        "periodo": "full"
+      },
+      "ev": null,
+      "odds": 1.87,
+      "stake": 100.0,
+      "betway_event_id": "16882693",
+      "betway_url": "https://betway.es/es/es/sports/event/16882693",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50894",
+      "msg_id": 50894,
+      "registered_at": "2026-06-21T06:04:23+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Australia. NBL1.\n🥇 Partido: Norwood Flames - South Adelaide Panthers\n👉🏼 Pick: Asian Handicap1(11.5) - with OT\n👉🏼 Cuota: 1.909\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882655",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Australia. NBL1.",
+      "event": "Norwood Flames - South Adelaide Panthers",
+      "home": "Norwood Flames",
+      "away": "South Adelaide Panthers",
+      "pick": "Asian Handicap1(11.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap1(11.5) - with OT",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 11.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16882655",
+      "betway_url": "https://betway.es/es/es/sports/event/16882655",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50895",
+      "msg_id": 50895,
+      "registered_at": "2026-06-21T06:29:01+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Australia. New South Wales Premier League.\n🥇 Partido: Marconi Stallions - University of New South Wales\n👉🏼 Pick: 1 - regular time\n👉🏼 Cuota: 1.182\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16872686",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Australia. New South Wales Premier League.",
+      "event": "Marconi Stallions - University of New South Wales",
+      "home": "Marconi Stallions",
+      "away": "University of New South Wales",
+      "pick": "1 - regular time",
+      "pick_struct": {
+        "raw": "1 - regular time",
+        "tipo": "1x2",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.182,
+      "stake": 100.0,
+      "betway_event_id": "16872686",
+      "betway_url": "https://betway.es/es/es/sports/event/16872686",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
