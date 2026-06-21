@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50895
+    "last_message_id": 50899
   },
   "bets": [
     {
@@ -14845,12 +14845,12 @@
       "stake": 100.0,
       "betway_event_id": "16863171",
       "betway_url": "https://betway.es/es/es/sports/event/16863171",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -14878,12 +14878,12 @@
       "stake": 100.0,
       "betway_event_id": "16877615",
       "betway_url": "https://betway.es/es/es/sports/event/16877615",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 11,
+      "needs_review": true,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -14949,7 +14949,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -14977,12 +14977,12 @@
       "stake": 100.0,
       "betway_event_id": "16875123",
       "betway_url": "https://betway.es/es/es/sports/event/16875123",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -15015,7 +15015,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15043,12 +15043,12 @@
       "stake": 100.0,
       "betway_event_id": "16880115",
       "betway_url": "https://betway.es/es/es/sports/event/16880115",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -15081,7 +15081,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -15114,7 +15114,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15147,7 +15147,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15180,7 +15180,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15213,7 +15213,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15246,7 +15246,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15279,7 +15279,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15312,7 +15312,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15345,7 +15345,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15411,7 +15411,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15444,7 +15444,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15477,7 +15477,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15510,7 +15510,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15543,7 +15543,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15576,7 +15576,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15609,7 +15609,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15642,7 +15642,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15675,7 +15675,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15741,7 +15741,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15774,7 +15774,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15802,6 +15802,105 @@
       "stake": 100.0,
       "betway_event_id": "16872686",
       "betway_url": "https://betway.es/es/es/sports/event/16872686",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50896",
+      "msg_id": 50896,
+      "registered_at": "2026-06-21T07:16:57+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Australia. NorZone Premier League.\n🥇 Partido: Casuarina FC - Darwin Hearts\n👉🏼 Pick: 2 - regular time\n👉🏼 Cuota: 1.667\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16869581",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Australia. NorZone Premier League.",
+      "event": "Casuarina FC - Darwin Hearts",
+      "home": "Casuarina FC",
+      "away": "Darwin Hearts",
+      "pick": "2 - regular time",
+      "pick_struct": {
+        "raw": "2 - regular time",
+        "tipo": "1x2",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.667,
+      "stake": 100.0,
+      "betway_event_id": "16869581",
+      "betway_url": "https://betway.es/es/es/sports/event/16869581",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50897",
+      "msg_id": 50897,
+      "registered_at": "2026-06-21T07:29:26+00:00",
+      "event_time": "2026-06-21T09:00:00",
+      "raw": "✅ EV: 5.0%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Korea Republic. K League 4\n🥇 Partido: Geumsan Insam FC - Jincheon HR\n👉🏼 Pick: Total Under(3.5)\n👉🏼 Cuota: 1.7\n⏰ Fecha: 21/06/2026, 09:00:00\n👌🏼Liq Asia: 1000$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16876832",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Korea Republic. K League 4",
+      "event": "Geumsan Insam FC - Jincheon HR",
+      "home": "Geumsan Insam FC",
+      "away": "Jincheon HR",
+      "pick": "Total Under(3.5)",
+      "pick_struct": {
+        "raw": "Total Under(3.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 3.5,
+        "periodo": "full"
+      },
+      "ev": "5.0%",
+      "odds": 1.7,
+      "stake": 100.0,
+      "betway_event_id": "16876832",
+      "betway_url": "https://betway.es/es/es/sports/event/16876832",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50898",
+      "msg_id": 50898,
+      "registered_at": "2026-06-21T08:09:47+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Haskovo.\n🥇 Partido: Selena Janicijevic - Martha Matoula\n👉🏼 Pick: Team2 Win - 1 set, 02 game\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882895",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Haskovo.",
+      "event": "Selena Janicijevic - Martha Matoula",
+      "home": "Selena Janicijevic",
+      "away": "Martha Matoula",
+      "pick": "Team2 Win - 1 set, 02 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 02 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 02 game"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16882895",
+      "betway_url": "https://betway.es/es/es/sports/event/16882895",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
