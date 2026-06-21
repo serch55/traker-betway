@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50882
+    "last_message_id": 50887
   },
   "bets": [
     {
@@ -14553,7 +14553,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -14581,12 +14581,12 @@
       "stake": 100.0,
       "betway_event_id": "16880476",
       "betway_url": "https://betway.es/es/es/sports/event/16880476",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -14614,12 +14614,12 @@
       "stake": 100.0,
       "betway_event_id": "16879838",
       "betway_url": "https://betway.es/es/es/sports/event/16879838",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -14652,7 +14652,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -14685,7 +14685,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -14784,7 +14784,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -14817,7 +14817,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -14850,7 +14850,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -14883,7 +14883,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -14949,7 +14949,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -14982,7 +14982,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15015,7 +15015,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15048,7 +15048,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15081,7 +15081,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15114,7 +15114,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15147,7 +15147,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15180,7 +15180,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15213,7 +15213,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15246,7 +15246,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15279,7 +15279,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15312,7 +15312,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15345,7 +15345,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15373,12 +15373,12 @@
       "stake": 100.0,
       "betway_event_id": "16879923",
       "betway_url": "https://betway.es/es/es/sports/event/16879923",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "ganada",
+      "resolved_at": "2026-06-21T04:52:54.860120+00:00",
+      "result_source": "espn",
+      "event_result": "93-92",
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15411,7 +15411,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15444,7 +15444,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -15472,6 +15472,105 @@
       "stake": 100.0,
       "betway_event_id": "16881217",
       "betway_url": "https://betway.es/es/es/sports/event/16881217",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 1,
+      "last_error": null
+    },
+    {
+      "id": "b50883",
+      "msg_id": 50883,
+      "registered_at": "2026-06-21T03:21:47+00:00",
+      "event_time": "2026-06-21T05:00:00",
+      "raw": "✅ EV: 4.8%\nℹ️ Stake: 0.75 (0.75% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: USA. USL Championship\n🥇 Partido: Sacramento Republic - New Mexico United\n👉🏼 Pick: Total Under(2.5)\n👉🏼 Cuota: 1.909\n⏰ Fecha: 21/06/2026, 05:00:00\n👌🏼Liq Asia: 2500$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16872314",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "USA. USL Championship",
+      "event": "Sacramento Republic - New Mexico United",
+      "home": "Sacramento Republic",
+      "away": "New Mexico United",
+      "pick": "Total Under(2.5)",
+      "pick_struct": {
+        "raw": "Total Under(2.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 2.5,
+        "periodo": "full"
+      },
+      "ev": "4.8%",
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16872314",
+      "betway_url": "https://betway.es/es/es/sports/event/16872314",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50885",
+      "msg_id": 50885,
+      "registered_at": "2026-06-21T04:04:33+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Australia. NBL1 Women.\n🥇 Partido: Waverley Falcons Women - Keilor Thunder Women\n👉🏼 Pick: Asian Handicap2(1.5) - with OT\n👉🏼 Cuota: 1.87\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882308",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Australia. NBL1 Women.",
+      "event": "Waverley Falcons Women - Keilor Thunder Women",
+      "home": "Waverley Falcons Women",
+      "away": "Keilor Thunder Women",
+      "pick": "Asian Handicap2(1.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap2(1.5) - with OT",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": 1.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 1.87,
+      "stake": 100.0,
+      "betway_event_id": "16882308",
+      "betway_url": "https://betway.es/es/es/sports/event/16882308",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50886",
+      "msg_id": 50886,
+      "registered_at": "2026-06-21T04:26:51+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: New Zealand. NBL.\n🥇 Partido: Franklin Bulls - Wellington Saints\n👉🏼 Pick: Asian Handicap1(14.5) - with OT\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16880875",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "New Zealand. NBL.",
+      "event": "Franklin Bulls - Wellington Saints",
+      "home": "Franklin Bulls",
+      "away": "Wellington Saints",
+      "pick": "Asian Handicap1(14.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap1(14.5) - with OT",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 14.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16880875",
+      "betway_url": "https://betway.es/es/es/sports/event/16880875",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
