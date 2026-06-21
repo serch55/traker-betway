@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50913
+    "last_message_id": 50916
   },
   "bets": [
     {
@@ -15307,12 +15307,12 @@
       "stake": 100.0,
       "betway_event_id": "16881022",
       "betway_url": "https://betway.es/es/es/sports/event/16881022",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15340,12 +15340,12 @@
       "stake": 100.0,
       "betway_event_id": "16871876",
       "betway_url": "https://betway.es/es/es/sports/event/16871876",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 7,
+      "needs_review": true,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15411,7 +15411,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15444,7 +15444,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15477,7 +15477,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15510,7 +15510,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15543,7 +15543,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15576,7 +15576,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15609,7 +15609,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15642,7 +15642,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15675,7 +15675,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15708,7 +15708,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15741,7 +15741,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15774,7 +15774,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -15807,7 +15807,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15840,7 +15840,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -15873,7 +15873,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15906,7 +15906,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15939,7 +15939,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -15972,7 +15972,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -16005,7 +16005,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -16038,7 +16038,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -16071,7 +16071,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -16165,6 +16165,72 @@
       "stake": 100.0,
       "betway_event_id": "16882883",
       "betway_url": "https://betway.es/es/es/sports/event/16882883",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50914",
+      "msg_id": 50914,
+      "registered_at": "2026-06-21T11:21:17+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Mallorca.\n🥇 Partido: Adam Walton - Antoine Ghibaudo\n👉🏼 Pick: Total Under(9.5) - 2nd\n👉🏼 Cuota: 2.5\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882094",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Mallorca.",
+      "event": "Adam Walton - Antoine Ghibaudo",
+      "home": "Adam Walton",
+      "away": "Antoine Ghibaudo",
+      "pick": "Total Under(9.5) - 2nd",
+      "pick_struct": {
+        "raw": "Total Under(9.5) - 2nd",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 9.5,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 2.5,
+      "stake": 100.0,
+      "betway_event_id": "16882094",
+      "betway_url": "https://betway.es/es/es/sports/event/16882094",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50915",
+      "msg_id": 50915,
+      "registered_at": "2026-06-21T11:27:13+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Mallorca.\n🥇 Partido: Alex Molcan - Murphy Cassone\n👉🏼 Pick: Total Over(23.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882095",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Mallorca.",
+      "event": "Alex Molcan - Murphy Cassone",
+      "home": "Alex Molcan",
+      "away": "Murphy Cassone",
+      "pick": "Total Over(23.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(23.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 23.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16882095",
+      "betway_url": "https://betway.es/es/es/sports/event/16882095",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
