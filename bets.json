@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50927
+    "last_message_id": 50940
   },
   "bets": [
     {
@@ -15439,12 +15439,12 @@
       "stake": 100.0,
       "betway_event_id": "16847508",
       "betway_url": "https://betway.es/es/es/sports/event/16847508",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15472,12 +15472,12 @@
       "stake": 100.0,
       "betway_event_id": "16881217",
       "betway_url": "https://betway.es/es/es/sports/event/16881217",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15510,7 +15510,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15543,7 +15543,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15576,7 +15576,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15609,7 +15609,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15642,7 +15642,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15675,7 +15675,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15708,7 +15708,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15741,7 +15741,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15774,7 +15774,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15807,7 +15807,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15840,7 +15840,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -15873,7 +15873,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15906,7 +15906,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15939,7 +15939,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -15972,7 +15972,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -16005,7 +16005,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -16038,7 +16038,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -16071,7 +16071,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -16104,7 +16104,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -16137,7 +16137,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -16170,7 +16170,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -16203,7 +16203,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -16236,7 +16236,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -16269,7 +16269,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -16302,7 +16302,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -16462,6 +16462,204 @@
       "stake": 100.0,
       "betway_event_id": "16882487",
       "betway_url": "https://betway.es/es/es/sports/event/16882487",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50928",
+      "msg_id": 50928,
+      "registered_at": "2026-06-21T13:44:10+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Eastbourne.\n🥇 Partido: Giles Hussey - Marco Trungelliti\n👉🏼 Pick: Asian Handicap1(-3.5) - regular time\n👉🏼 Cuota: 2.1\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16883260",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Eastbourne.",
+      "event": "Giles Hussey - Marco Trungelliti",
+      "home": "Giles Hussey",
+      "away": "Marco Trungelliti",
+      "pick": "Asian Handicap1(-3.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-3.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -3.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16883260",
+      "betway_url": "https://betway.es/es/es/sports/event/16883260",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50930",
+      "msg_id": 50930,
+      "registered_at": "2026-06-21T13:50:49+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Bad Homburg.\n🥇 Partido: Elena Gabriela Ruse - Taylor Townsend\n👉🏼 Pick: Team2 Win - 3 set, 11 game\n👉🏼 Cuota: 1.4\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882836",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Bad Homburg.",
+      "event": "Elena Gabriela Ruse - Taylor Townsend",
+      "home": "Elena Gabriela Ruse",
+      "away": "Taylor Townsend",
+      "pick": "Team2 Win - 3 set, 11 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 3 set, 11 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "3 set, 11 game"
+      },
+      "ev": null,
+      "odds": 1.4,
+      "stake": 100.0,
+      "betway_event_id": "16882836",
+      "betway_url": "https://betway.es/es/es/sports/event/16882836",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50931",
+      "msg_id": 50931,
+      "registered_at": "2026-06-21T13:53:33+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Piracicaba - Brazil.\n🥇 Partido: Wilson Leite - Enzo Camargo Lima\n👉🏼 Pick: Asian Handicap1(-5.5) - regular time\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16884248",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Piracicaba - Brazil.",
+      "event": "Wilson Leite - Enzo Camargo Lima",
+      "home": "Wilson Leite",
+      "away": "Enzo Camargo Lima",
+      "pick": "Asian Handicap1(-5.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-5.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -5.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16884248",
+      "betway_url": "https://betway.es/es/es/sports/event/16884248",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50932",
+      "msg_id": 50932,
+      "registered_at": "2026-06-21T14:00:30+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Eastbourne.\n🥇 Partido: Oksana Selekhmeteva - Anastasia Zakharova\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16883284",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Eastbourne.",
+      "event": "Oksana Selekhmeteva - Anastasia Zakharova",
+      "home": "Oksana Selekhmeteva",
+      "away": "Anastasia Zakharova",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16883284",
+      "betway_url": "https://betway.es/es/es/sports/event/16883284",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50936",
+      "msg_id": 50936,
+      "registered_at": "2026-06-21T14:14:59+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Brazil. LBF Women.\n🥇 Partido: Sodie Mesquita Women - Vera Cruz Campinas Women\n👉🏼 Pick: Asian Handicap2(-7.5) - 1st half\n👉🏼 Cuota: 1.909\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16884378",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Brazil. LBF Women.",
+      "event": "Sodie Mesquita Women - Vera Cruz Campinas Women",
+      "home": "Sodie Mesquita Women",
+      "away": "Vera Cruz Campinas Women",
+      "pick": "Asian Handicap2(-7.5) - 1st half",
+      "pick_struct": {
+        "raw": "Asian Handicap2(-7.5) - 1st half",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": -7.5,
+        "periodo": "full"
+      },
+      "ev": null,
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16884378",
+      "betway_url": "https://betway.es/es/es/sports/event/16884378",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50940",
+      "msg_id": 50940,
+      "registered_at": "2026-06-21T14:27:22+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Eastbourne.\n🥇 Partido: Marcos Giron - Jan Choinski\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.65\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16883259",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Eastbourne.",
+      "event": "Marcos Giron - Jan Choinski",
+      "home": "Marcos Giron",
+      "away": "Jan Choinski",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.65,
+      "stake": 100.0,
+      "betway_event_id": "16883259",
+      "betway_url": "https://betway.es/es/es/sports/event/16883259",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
