@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 50942
+    "last_message_id": 50946
   },
   "bets": [
     {
@@ -15510,7 +15510,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15538,12 +15538,12 @@
       "stake": 100.0,
       "betway_event_id": "16882308",
       "betway_url": "https://betway.es/es/es/sports/event/16882308",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -15576,7 +15576,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -15609,7 +15609,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15642,7 +15642,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15675,7 +15675,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15708,7 +15708,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15741,7 +15741,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15774,7 +15774,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -15807,7 +15807,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15840,7 +15840,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -15873,7 +15873,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15906,7 +15906,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15939,7 +15939,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -15972,7 +15972,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -16005,7 +16005,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -16038,7 +16038,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -16071,7 +16071,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -16104,7 +16104,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -16137,7 +16137,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -16170,7 +16170,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -16203,7 +16203,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -16236,7 +16236,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -16269,7 +16269,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -16302,7 +16302,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -16335,7 +16335,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -16368,7 +16368,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -16401,7 +16401,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -16434,7 +16434,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -16467,7 +16467,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -16500,7 +16500,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -16533,7 +16533,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -16566,7 +16566,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -16599,7 +16599,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -16726,6 +16726,105 @@
       "stake": 100.0,
       "betway_event_id": "16882174",
       "betway_url": "https://betway.es/es/es/sports/event/16882174",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50943",
+      "msg_id": 50943,
+      "registered_at": "2026-06-21T15:27:15+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Eastbourne.\n🥇 Partido: Petra Marcinko - Daria Snigur\n👉🏼 Pick: Team1 Win - 1st\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16883024",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Eastbourne.",
+      "event": "Petra Marcinko - Daria Snigur",
+      "home": "Petra Marcinko",
+      "away": "Daria Snigur",
+      "pick": "Team1 Win - 1st",
+      "pick_struct": {
+        "raw": "Team1 Win - 1st",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16883024",
+      "betway_url": "https://betway.es/es/es/sports/event/16883024",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50944",
+      "msg_id": 50944,
+      "registered_at": "2026-06-21T15:43:20+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Bad Homburg.\n🥇 Partido: Naomi Osaka - Magdalena Frech\n👉🏼 Pick: Total Over(19.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16881785",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Bad Homburg.",
+      "event": "Naomi Osaka - Magdalena Frech",
+      "home": "Naomi Osaka",
+      "away": "Magdalena Frech",
+      "pick": "Total Over(19.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(19.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 19.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16881785",
+      "betway_url": "https://betway.es/es/es/sports/event/16881785",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b50946",
+      "msg_id": 50946,
+      "registered_at": "2026-06-21T16:01:12+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Brescia.\n🥇 Partido: Xiyu Wang - Mayar Sherif\n👉🏼 Pick: Total Over(21.5) - regular time\n👉🏼 Cuota: 2.1\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882866",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Brescia.",
+      "event": "Xiyu Wang - Mayar Sherif",
+      "home": "Xiyu Wang",
+      "away": "Mayar Sherif",
+      "pick": "Total Over(21.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(21.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 21.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16882866",
+      "betway_url": "https://betway.es/es/es/sports/event/16882866",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
