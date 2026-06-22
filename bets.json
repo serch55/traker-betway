@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 51122
+    "last_message_id": 51129
   },
   "bets": [
     {
@@ -17815,12 +17815,12 @@
       "stake": 100.0,
       "betway_event_id": "16886556",
       "betway_url": "https://betway.es/es/es/sports/event/16886556",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 5,
+      "needs_review": true,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -17853,7 +17853,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -17886,7 +17886,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -17919,7 +17919,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -17952,7 +17952,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -17985,7 +17985,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -18018,7 +18018,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -18051,7 +18051,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -18084,7 +18084,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -18117,7 +18117,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -18150,7 +18150,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -18183,7 +18183,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18216,7 +18216,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18249,7 +18249,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18282,7 +18282,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18315,7 +18315,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18348,7 +18348,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18381,7 +18381,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18414,7 +18414,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18447,7 +18447,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18480,7 +18480,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18513,7 +18513,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18546,7 +18546,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18579,7 +18579,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18612,7 +18612,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18645,7 +18645,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18678,7 +18678,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18711,7 +18711,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18744,7 +18744,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18777,7 +18777,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18810,7 +18810,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18843,7 +18843,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18876,7 +18876,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18909,7 +18909,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18942,7 +18942,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18975,7 +18975,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -19008,7 +19008,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -19041,7 +19041,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -19074,7 +19074,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -19107,7 +19107,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -19140,7 +19140,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -19173,7 +19173,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19206,7 +19206,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19239,7 +19239,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19272,7 +19272,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19305,7 +19305,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19338,7 +19338,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19371,7 +19371,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19404,7 +19404,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19437,7 +19437,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19470,7 +19470,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19503,7 +19503,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19696,6 +19696,171 @@
       "stake": 100.0,
       "betway_event_id": "16885109",
       "betway_url": "https://betway.es/es/es/sports/event/16885109",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51123",
+      "msg_id": 51123,
+      "registered_at": "2026-06-22T18:28:22+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Piracicaba - Brazil.\n🥇 Partido: Juan Bautista Torres - Juan Alejandro Hernandez Serrano\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16885107",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Piracicaba - Brazil.",
+      "event": "Juan Bautista Torres - Juan Alejandro Hernandez Serrano",
+      "home": "Juan Bautista Torres",
+      "away": "Juan Alejandro Hernandez Serrano",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16885107",
+      "betway_url": "https://betway.es/es/es/sports/event/16885107",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51124",
+      "msg_id": 51124,
+      "registered_at": "2026-06-22T19:02:40+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Bad Homburg.\n🥇 Partido: Alexandra Eala - Elise Mertens\n👉🏼 Pick: Total Under(17.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882611",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Bad Homburg.",
+      "event": "Alexandra Eala - Elise Mertens",
+      "home": "Alexandra Eala",
+      "away": "Elise Mertens",
+      "pick": "Total Under(17.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(17.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 17.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16882611",
+      "betway_url": "https://betway.es/es/es/sports/event/16882611",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51126",
+      "msg_id": 51126,
+      "registered_at": "2026-06-22T19:14:33+00:00",
+      "event_time": "2026-06-22T19:30:00",
+      "raw": "✅ EV: 7.3%\nℹ️ Stake: 1 (1% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Sweden. Division 2\n🥇 Partido: Syrianska FC - Ragsveds IF\n👉🏼 Pick: Total Under(4.5)\n👉🏼 Cuota: 1.667\n⏰ Fecha: 22/06/2026, 19:30:00\n👌🏼Liq Betfair: 1169$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882798",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Sweden. Division 2",
+      "event": "Syrianska FC - Ragsveds IF",
+      "home": "Syrianska FC",
+      "away": "Ragsveds IF",
+      "pick": "Total Under(4.5)",
+      "pick_struct": {
+        "raw": "Total Under(4.5)",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 4.5,
+        "periodo": "full"
+      },
+      "ev": "7.3%",
+      "odds": 1.667,
+      "stake": 100.0,
+      "betway_event_id": "16882798",
+      "betway_url": "https://betway.es/es/es/sports/event/16882798",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51128",
+      "msg_id": 51128,
+      "registered_at": "2026-06-22T19:39:02+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Kuwait. Premier League.\n🥇 Partido: Al Arabi Kuwait ⇄ Al Kuwait SC\n👉🏼 Pick: X - regular time\n👉🏼 Cuota: 1.25\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16884025",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Kuwait. Premier League.",
+      "event": "Al Arabi Kuwait ⇄ Al Kuwait SC",
+      "home": null,
+      "away": null,
+      "pick": "X - regular time",
+      "pick_struct": {
+        "raw": "X - regular time",
+        "tipo": "1x2",
+        "equipo": "x",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.25,
+      "stake": 100.0,
+      "betway_event_id": "16884025",
+      "betway_url": "https://betway.es/es/es/sports/event/16884025",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51129",
+      "msg_id": 51129,
+      "registered_at": "2026-06-22T19:43:28+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Piracicaba - Brazil.\n🥇 Partido: Matias Soto - Ignacio Monzon\n👉🏼 Pick: Total Over(18.5) - regular time\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16885108",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Piracicaba - Brazil.",
+      "event": "Matias Soto - Ignacio Monzon",
+      "home": "Matias Soto",
+      "away": "Ignacio Monzon",
+      "pick": "Total Over(18.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(18.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 18.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16885108",
+      "betway_url": "https://betway.es/es/es/sports/event/16885108",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
