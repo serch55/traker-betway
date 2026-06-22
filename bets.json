@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 51111
+    "last_message_id": 51122
   },
   "bets": [
     {
@@ -17820,7 +17820,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -17853,7 +17853,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -17886,7 +17886,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -17919,7 +17919,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -17952,7 +17952,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -17985,7 +17985,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18018,7 +18018,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18051,7 +18051,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18084,7 +18084,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18117,7 +18117,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18150,7 +18150,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -18183,7 +18183,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18216,7 +18216,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18249,7 +18249,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18282,7 +18282,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18315,7 +18315,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18348,7 +18348,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18381,7 +18381,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18414,7 +18414,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18447,7 +18447,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18480,7 +18480,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18513,7 +18513,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18546,7 +18546,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18579,7 +18579,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18612,7 +18612,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18645,7 +18645,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18678,7 +18678,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -18711,7 +18711,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18744,7 +18744,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18777,7 +18777,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18810,7 +18810,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18843,7 +18843,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18876,7 +18876,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18909,7 +18909,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18942,7 +18942,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18975,7 +18975,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19008,7 +19008,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19041,7 +19041,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19074,7 +19074,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19107,7 +19107,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19140,7 +19140,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -19173,7 +19173,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19206,7 +19206,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19239,7 +19239,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19272,7 +19272,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19305,7 +19305,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19338,7 +19338,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19371,7 +19371,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19404,7 +19404,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -19465,6 +19465,237 @@
       "stake": 100.0,
       "betway_event_id": "16886177",
       "betway_url": "https://betway.es/es/es/sports/event/16886177",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51113",
+      "msg_id": 51113,
+      "registered_at": "2026-06-22T17:03:46+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Joel Josef Schwaerzler - Christopher O Connell\n👉🏼 Pick: Asian Handicap1(2.5) - regular time\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16886258",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Joel Josef Schwaerzler - Christopher O Connell",
+      "home": "Joel Josef Schwaerzler",
+      "away": "Christopher O Connell",
+      "pick": "Asian Handicap1(2.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(2.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 2.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16886258",
+      "betway_url": "https://betway.es/es/es/sports/event/16886258",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51114",
+      "msg_id": 51114,
+      "registered_at": "2026-06-22T17:41:44+00:00",
+      "event_time": "2026-06-22T19:00:00",
+      "raw": "✅ EV: 5.0%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Sweden. Cup\n🥇 Partido: Rappe GOIF - Hassleholms IF\n👉🏼 Pick: Total Under(1.5) - 1st\n👉🏼 Cuota: 1.25\n⏰ Fecha: 22/06/2026, 19:00:00\n👌🏼Liq Betfair: 1831$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16886787",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Sweden. Cup",
+      "event": "Rappe GOIF - Hassleholms IF",
+      "home": "Rappe GOIF",
+      "away": "Hassleholms IF",
+      "pick": "Total Under(1.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Under(1.5) - 1st",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 1.5,
+        "periodo": "1st"
+      },
+      "ev": "5.0%",
+      "odds": 1.25,
+      "stake": 100.0,
+      "betway_event_id": "16886787",
+      "betway_url": "https://betway.es/es/es/sports/event/16886787",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51116",
+      "msg_id": 51116,
+      "registered_at": "2026-06-22T17:42:23+00:00",
+      "event_time": "2026-06-22T19:00:00",
+      "raw": "✅ EV: 5.3%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Sweden. Cup\n🥇 Partido: Landvetter IS - Dalstorps IF\n👉🏼 Pick: Total Under(0.5) - 1st\n👉🏼 Cuota: 1.182\n⏰ Fecha: 22/06/2026, 19:00:00\n👌🏼Liq Betfair: 1059$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16886788",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Sweden. Cup",
+      "event": "Landvetter IS - Dalstorps IF",
+      "home": "Landvetter IS",
+      "away": "Dalstorps IF",
+      "pick": "Total Under(0.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Under(0.5) - 1st",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 0.5,
+        "periodo": "1st"
+      },
+      "ev": "5.3%",
+      "odds": 1.182,
+      "stake": 100.0,
+      "betway_event_id": "16886788",
+      "betway_url": "https://betway.es/es/es/sports/event/16886788",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51117",
+      "msg_id": 51117,
+      "registered_at": "2026-06-22T17:44:05+00:00",
+      "event_time": "2026-06-22T19:00:00",
+      "raw": "✅ EV: 4.6%\nℹ️ Stake: 1.5 (1.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Sweden. Superettan\n🥇 Partido: Oddevold - Ljungskile\n👉🏼 Pick: Total Under(0.5) - 1st\n👉🏼 Cuota: 1.133\n⏰ Fecha: 22/06/2026, 19:00:00\n👌🏼Liq Betfair: 3433$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16871143",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Sweden. Superettan",
+      "event": "Oddevold - Ljungskile",
+      "home": "Oddevold",
+      "away": "Ljungskile",
+      "pick": "Total Under(0.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Under(0.5) - 1st",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 0.5,
+        "periodo": "1st"
+      },
+      "ev": "4.6%",
+      "odds": 1.133,
+      "stake": 100.0,
+      "betway_event_id": "16871143",
+      "betway_url": "https://betway.es/es/es/sports/event/16871143",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51118",
+      "msg_id": 51118,
+      "registered_at": "2026-06-22T18:06:56+00:00",
+      "event_time": "2026-06-22T19:50:00",
+      "raw": "✅ EV: 4.6%\nℹ️ Stake: 0.75 (0.75% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Israel. Super League\n🥇 Partido: Maccabi Raanana - Ironi Nes Ziona\n👉🏼 Pick: Asian Handicap1(9.5)\n👉🏼 Cuota: 2.05\n⏰ Fecha: 22/06/2026, 19:50:00\n👌🏼Liq Asia: 1040$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16885270",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Israel. Super League",
+      "event": "Maccabi Raanana - Ironi Nes Ziona",
+      "home": "Maccabi Raanana",
+      "away": "Ironi Nes Ziona",
+      "pick": "Asian Handicap1(9.5)",
+      "pick_struct": {
+        "raw": "Asian Handicap1(9.5)",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 9.5,
+        "periodo": "full"
+      },
+      "ev": "4.6%",
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16885270",
+      "betway_url": "https://betway.es/es/es/sports/event/16885270",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51119",
+      "msg_id": 51119,
+      "registered_at": "2026-06-22T18:09:11+00:00",
+      "event_time": "2026-06-22T20:00:00",
+      "raw": "✅ EV: 5.6%\nℹ️ Stake: 0.5 (0.5% bank)\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Iceland. Premier League Women\n🥇 Partido: IBV Vestmannaeyja Women - Breidablik Women\n👉🏼 Pick: Total Over(4.5)\n👉🏼 Cuota: 2.8\n⏰ Fecha: 22/06/2026, 20:00:00\n👌🏼Liq Asia: 2228$\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882861",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Iceland. Premier League Women",
+      "event": "IBV Vestmannaeyja Women - Breidablik Women",
+      "home": "IBV Vestmannaeyja Women",
+      "away": "Breidablik Women",
+      "pick": "Total Over(4.5)",
+      "pick_struct": {
+        "raw": "Total Over(4.5)",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 4.5,
+        "periodo": "full"
+      },
+      "ev": "5.6%",
+      "odds": 2.8,
+      "stake": 100.0,
+      "betway_event_id": "16882861",
+      "betway_url": "https://betway.es/es/es/sports/event/16882861",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51120",
+      "msg_id": 51120,
+      "registered_at": "2026-06-22T18:20:28+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Targu Mures - Romania.\n🥇 Partido: Luca Castelnuovo - Franco Agamenone\n👉🏼 Pick: Total Over(17.5) - regular time\n👉🏼 Cuota: 2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16885109",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Targu Mures - Romania.",
+      "event": "Luca Castelnuovo - Franco Agamenone",
+      "home": "Luca Castelnuovo",
+      "away": "Franco Agamenone",
+      "pick": "Total Over(17.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(17.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 17.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.0,
+      "stake": 100.0,
+      "betway_event_id": "16885109",
+      "betway_url": "https://betway.es/es/es/sports/event/16885109",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
