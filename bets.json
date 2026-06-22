@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 51066
+    "last_message_id": 51086
   },
   "bets": [
     {
@@ -17650,12 +17650,12 @@
       "stake": 100.0,
       "betway_event_id": "16883594",
       "betway_url": "https://betway.es/es/es/sports/event/16883594",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 5,
+      "needs_review": true,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -17749,12 +17749,12 @@
       "stake": 100.0,
       "betway_event_id": "16880559",
       "betway_url": "https://betway.es/es/es/sports/event/16880559",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 5,
+      "needs_review": true,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -17782,12 +17782,12 @@
       "stake": 100.0,
       "betway_event_id": "16884388",
       "betway_url": "https://betway.es/es/es/sports/event/16884388",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 5,
+      "needs_review": true,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -17820,7 +17820,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -17853,7 +17853,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -17886,7 +17886,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -17919,7 +17919,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -17952,7 +17952,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -17985,7 +17985,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18018,7 +18018,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18051,7 +18051,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18084,7 +18084,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18117,7 +18117,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18150,7 +18150,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -18183,7 +18183,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18216,7 +18216,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18249,7 +18249,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18282,7 +18282,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18315,7 +18315,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18348,7 +18348,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18381,7 +18381,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18414,7 +18414,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18447,7 +18447,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18480,7 +18480,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18513,7 +18513,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18546,7 +18546,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18579,7 +18579,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18612,7 +18612,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18645,7 +18645,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -18673,6 +18673,468 @@
       "stake": 100.0,
       "betway_event_id": "16885347",
       "betway_url": "https://betway.es/es/es/sports/event/16885347",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 1,
+      "last_error": null
+    },
+    {
+      "id": "b51067",
+      "msg_id": 51067,
+      "registered_at": "2026-06-22T13:21:01+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Eastbourne.\n🥇 Partido: Raphael Collignon - Juan Manuel Cerundolo\n👉🏼 Pick: Total Over(21.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882644",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Eastbourne.",
+      "event": "Raphael Collignon - Juan Manuel Cerundolo",
+      "home": "Raphael Collignon",
+      "away": "Juan Manuel Cerundolo",
+      "pick": "Total Over(21.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(21.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 21.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16882644",
+      "betway_url": "https://betway.es/es/es/sports/event/16882644",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51073",
+      "msg_id": 51073,
+      "registered_at": "2026-06-22T13:50:38+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Piracicaba - Brazil.\n🥇 Partido: Thiago Cigarran - Lucas Andrade Da Silva\n👉🏼 Pick: Asian Handicap1(2.5) - regular time\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16888051",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Piracicaba - Brazil.",
+      "event": "Thiago Cigarran - Lucas Andrade Da Silva",
+      "home": "Thiago Cigarran",
+      "away": "Lucas Andrade Da Silva",
+      "pick": "Asian Handicap1(2.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(2.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 2.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16888051",
+      "betway_url": "https://betway.es/es/es/sports/event/16888051",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51074",
+      "msg_id": 51074,
+      "registered_at": "2026-06-22T13:51:33+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Piracicaba - Brazil.\n🥇 Partido: Wilson Leite - Rafael Tosetto\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.55\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16886798",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Piracicaba - Brazil.",
+      "event": "Wilson Leite - Rafael Tosetto",
+      "home": "Wilson Leite",
+      "away": "Rafael Tosetto",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.55,
+      "stake": 100.0,
+      "betway_event_id": "16886798",
+      "betway_url": "https://betway.es/es/es/sports/event/16886798",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51075",
+      "msg_id": 51075,
+      "registered_at": "2026-06-22T14:01:54+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Eastbourne.\n🥇 Partido: Ajla Tomljanovic - Elisabetta Cocciaretto\n👉🏼 Pick: Total Under(8.5) - 1st\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16886498",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Eastbourne.",
+      "event": "Ajla Tomljanovic - Elisabetta Cocciaretto",
+      "home": "Ajla Tomljanovic",
+      "away": "Elisabetta Cocciaretto",
+      "pick": "Total Under(8.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Under(8.5) - 1st",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 8.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16886498",
+      "betway_url": "https://betway.es/es/es/sports/event/16886498",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51076",
+      "msg_id": 51076,
+      "registered_at": "2026-06-22T14:06:10+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Guy Den Ouden - Yi Zhou\n👉🏼 Pick: Asian Handicap2(-3.5) - 2nd\n👉🏼 Cuota: 2.3\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16886221",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Guy Den Ouden - Yi Zhou",
+      "home": "Guy Den Ouden",
+      "away": "Yi Zhou",
+      "pick": "Asian Handicap2(-3.5) - 2nd",
+      "pick_struct": {
+        "raw": "Asian Handicap2(-3.5) - 2nd",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": -3.5,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 2.3,
+      "stake": 100.0,
+      "betway_event_id": "16886221",
+      "betway_url": "https://betway.es/es/es/sports/event/16886221",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51077",
+      "msg_id": 51077,
+      "registered_at": "2026-06-22T14:18:07+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Federico Coria - Oliver Bonding\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 1.364\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16886246",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Federico Coria - Oliver Bonding",
+      "home": "Federico Coria",
+      "away": "Oliver Bonding",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.364,
+      "stake": 100.0,
+      "betway_event_id": "16886246",
+      "betway_url": "https://betway.es/es/es/sports/event/16886246",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51078",
+      "msg_id": 51078,
+      "registered_at": "2026-06-22T14:23:13+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Plovdiv - Bulgaria.\n🥇 Partido: Tommaso Compagnucci - Maxim Mrva\n👉🏼 Pick: Team2 Win - 1 set, 10 game\n👉🏼 Cuota: 2.5\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16885133",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Plovdiv - Bulgaria.",
+      "event": "Tommaso Compagnucci - Maxim Mrva",
+      "home": "Tommaso Compagnucci",
+      "away": "Maxim Mrva",
+      "pick": "Team2 Win - 1 set, 10 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 10 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 10 game"
+      },
+      "ev": null,
+      "odds": 2.5,
+      "stake": 100.0,
+      "betway_event_id": "16885133",
+      "betway_url": "https://betway.es/es/es/sports/event/16885133",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51079",
+      "msg_id": 51079,
+      "registered_at": "2026-06-22T14:35:01+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Mallorca.\n🥇 Partido: Jan-Lennard Struff - Martin Landaluce\n👉🏼 Pick: Total Under(10.5) - 3rd\n👉🏼 Cuota: 2.1\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16882514",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Mallorca.",
+      "event": "Jan-Lennard Struff - Martin Landaluce",
+      "home": "Jan-Lennard Struff",
+      "away": "Martin Landaluce",
+      "pick": "Total Under(10.5) - 3rd",
+      "pick_struct": {
+        "raw": "Total Under(10.5) - 3rd",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 10.5,
+        "periodo": "full"
+      },
+      "ev": null,
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16882514",
+      "betway_url": "https://betway.es/es/es/sports/event/16882514",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51080",
+      "msg_id": 51080,
+      "registered_at": "2026-06-22T14:36:54+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Plovdiv - Bulgaria.\n🥇 Partido: Daniel Michalski - Gijs Brouwer\n👉🏼 Pick: Asian Handicap1(-4.5) - regular time\n👉🏼 Cuota: 1.727\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16885067",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Plovdiv - Bulgaria.",
+      "event": "Daniel Michalski - Gijs Brouwer",
+      "home": "Daniel Michalski",
+      "away": "Gijs Brouwer",
+      "pick": "Asian Handicap1(-4.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-4.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -4.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.727,
+      "stake": 100.0,
+      "betway_event_id": "16885067",
+      "betway_url": "https://betway.es/es/es/sports/event/16885067",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51081",
+      "msg_id": 51081,
+      "registered_at": "2026-06-22T14:41:09+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Tarvisio.\n🥇 Partido: Lucciana Perez Alarcon - Radka Zelnickova\n👉🏼 Pick: Team2 Win - 2nd\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16887732",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Tarvisio.",
+      "event": "Lucciana Perez Alarcon - Radka Zelnickova",
+      "home": "Lucciana Perez Alarcon",
+      "away": "Radka Zelnickova",
+      "pick": "Team2 Win - 2nd",
+      "pick_struct": {
+        "raw": "Team2 Win - 2nd",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16887732",
+      "betway_url": "https://betway.es/es/es/sports/event/16887732",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51082",
+      "msg_id": 51082,
+      "registered_at": "2026-06-22T14:47:24+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Rio Noguchi - Luca Nardi\n👉🏼 Pick: Asian Handicap1(3.5) - 1st\n👉🏼 Cuota: 1.55\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16886248",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Rio Noguchi - Luca Nardi",
+      "home": "Rio Noguchi",
+      "away": "Luca Nardi",
+      "pick": "Asian Handicap1(3.5) - 1st",
+      "pick_struct": {
+        "raw": "Asian Handicap1(3.5) - 1st",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 3.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.55,
+      "stake": 100.0,
+      "betway_event_id": "16886248",
+      "betway_url": "https://betway.es/es/es/sports/event/16886248",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51083",
+      "msg_id": 51083,
+      "registered_at": "2026-06-22T14:49:43+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Jay Clarke - Andrea Pellegrino\n👉🏼 Pick: Team2 Win - 2nd\n👉🏼 Cuota: 2.4\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16886222",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Jay Clarke - Andrea Pellegrino",
+      "home": "Jay Clarke",
+      "away": "Andrea Pellegrino",
+      "pick": "Team2 Win - 2nd",
+      "pick_struct": {
+        "raw": "Team2 Win - 2nd",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 2.4,
+      "stake": 100.0,
+      "betway_event_id": "16886222",
+      "betway_url": "https://betway.es/es/es/sports/event/16886222",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51084",
+      "msg_id": 51084,
+      "registered_at": "2026-06-22T14:51:04+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Bad Homburg.\n🥇 Partido: Venus Williams - Irina-Camelia Begu\n👉🏼 Pick: Team2 Win - 1 set, 02 game\n👉🏼 Cuota: 1.182\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16887741",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Bad Homburg.",
+      "event": "Venus Williams - Irina-Camelia Begu",
+      "home": "Venus Williams",
+      "away": "Irina-Camelia Begu",
+      "pick": "Team2 Win - 1 set, 02 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 02 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 02 game"
+      },
+      "ev": null,
+      "odds": 1.182,
+      "stake": 100.0,
+      "betway_event_id": "16887741",
+      "betway_url": "https://betway.es/es/es/sports/event/16887741",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51085",
+      "msg_id": 51085,
+      "registered_at": "2026-06-22T14:53:27+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Florent Bax - Chris Rodesch\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 1.154\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16886259",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Florent Bax - Chris Rodesch",
+      "home": "Florent Bax",
+      "away": "Chris Rodesch",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.154,
+      "stake": 100.0,
+      "betway_event_id": "16886259",
+      "betway_url": "https://betway.es/es/es/sports/event/16886259",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
