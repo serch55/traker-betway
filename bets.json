@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 51014
+    "last_message_id": 51017
   },
   "bets": [
     {
@@ -16561,12 +16561,12 @@
       "stake": 100.0,
       "betway_event_id": "16884248",
       "betway_url": "https://betway.es/es/es/sports/event/16884248",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 15,
+      "needs_review": true,
+      "auto_attempts": 16,
       "last_error": null
     },
     {
@@ -16594,12 +16594,12 @@
       "stake": 100.0,
       "betway_event_id": "16883284",
       "betway_url": "https://betway.es/es/es/sports/event/16883284",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 15,
+      "needs_review": true,
+      "auto_attempts": 16,
       "last_error": null
     },
     {
@@ -16627,12 +16627,12 @@
       "stake": 100.0,
       "betway_event_id": "16884378",
       "betway_url": "https://betway.es/es/es/sports/event/16884378",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -16660,12 +16660,12 @@
       "stake": 100.0,
       "betway_event_id": "16883259",
       "betway_url": "https://betway.es/es/es/sports/event/16883259",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -16693,12 +16693,12 @@
       "stake": 100.0,
       "betway_event_id": "16883023",
       "betway_url": "https://betway.es/es/es/sports/event/16883023",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -16731,7 +16731,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -16764,7 +16764,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -16797,7 +16797,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -16830,7 +16830,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -16863,7 +16863,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -16896,7 +16896,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -16929,7 +16929,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -16962,7 +16962,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -17028,7 +17028,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -17061,7 +17061,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -17094,7 +17094,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -17127,7 +17127,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -17160,7 +17160,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -17193,7 +17193,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -17226,7 +17226,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -17259,7 +17259,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -17292,7 +17292,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -17325,7 +17325,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -17391,7 +17391,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -17457,7 +17457,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -17490,7 +17490,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -17518,12 +17518,12 @@
       "stake": 100.0,
       "betway_event_id": "16883415",
       "betway_url": "https://betway.es/es/es/sports/event/16883415",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "perdida",
+      "resolved_at": "2026-06-22T03:10:12.678666+00:00",
+      "result_source": "espn",
+      "event_result": "79-84",
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -17556,7 +17556,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -17584,12 +17584,12 @@
       "stake": 100.0,
       "betway_event_id": "16847518",
       "betway_url": "https://betway.es/es/es/sports/event/16847518",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 0,
+      "result_source": "espn",
+      "event_result": "2-2",
+      "needs_review": true,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -17622,7 +17622,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -17683,12 +17683,12 @@
       "stake": 100.0,
       "betway_event_id": "16883655",
       "betway_url": "https://betway.es/es/es/sports/event/16883655",
-      "status": "pendiente",
-      "resolved_at": null,
-      "result_source": null,
-      "event_result": null,
+      "status": "perdida",
+      "resolved_at": "2026-06-22T03:10:12.678666+00:00",
+      "result_source": "espn",
+      "event_result": "98-97",
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -17749,6 +17749,39 @@
       "stake": 100.0,
       "betway_event_id": "16880559",
       "betway_url": "https://betway.es/es/es/sports/event/16880559",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51015",
+      "msg_id": 51015,
+      "registered_at": "2026-06-22T01:58:09+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Baloncesto\n📝 Competición: Puerto Rico. Superior Nacional.\n🥇 Partido: Leones De Ponce - Osos de Manati\n👉🏼 Pick: Asian Handicap1(9.5) - with OT\n👉🏼 Cuota: 1.85\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16884388",
+      "bookmaker": "Betway",
+      "sport": "baloncesto",
+      "competition": "Puerto Rico. Superior Nacional.",
+      "event": "Leones De Ponce - Osos de Manati",
+      "home": "Leones De Ponce",
+      "away": "Osos de Manati",
+      "pick": "Asian Handicap1(9.5) - with OT",
+      "pick_struct": {
+        "raw": "Asian Handicap1(9.5) - with OT",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 9.5,
+        "periodo": "with ot"
+      },
+      "ev": null,
+      "odds": 1.85,
+      "stake": 100.0,
+      "betway_event_id": "16884388",
+      "betway_url": "https://betway.es/es/es/sports/event/16884388",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
