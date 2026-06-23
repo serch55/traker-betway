@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 51177
+    "last_message_id": 51181
   },
   "bets": [
     {
@@ -19531,12 +19531,12 @@
       "stake": 100.0,
       "betway_event_id": "16886787",
       "betway_url": "https://betway.es/es/es/sports/event/16886787",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -19564,12 +19564,12 @@
       "stake": 100.0,
       "betway_event_id": "16886788",
       "betway_url": "https://betway.es/es/es/sports/event/16886788",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -19597,12 +19597,12 @@
       "stake": 100.0,
       "betway_event_id": "16871143",
       "betway_url": "https://betway.es/es/es/sports/event/16871143",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -19630,12 +19630,12 @@
       "stake": 100.0,
       "betway_event_id": "16885270",
       "betway_url": "https://betway.es/es/es/sports/event/16885270",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -19663,12 +19663,12 @@
       "stake": 100.0,
       "betway_event_id": "16882861",
       "betway_url": "https://betway.es/es/es/sports/event/16882861",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -19762,12 +19762,12 @@
       "stake": 100.0,
       "betway_event_id": "16882611",
       "betway_url": "https://betway.es/es/es/sports/event/16882611",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -19795,12 +19795,12 @@
       "stake": 100.0,
       "betway_event_id": "16882798",
       "betway_url": "https://betway.es/es/es/sports/event/16882798",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -19828,12 +19828,12 @@
       "stake": 100.0,
       "betway_event_id": "16884025",
       "betway_url": "https://betway.es/es/es/sports/event/16884025",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -19861,12 +19861,12 @@
       "stake": 100.0,
       "betway_event_id": "16885108",
       "betway_url": "https://betway.es/es/es/sports/event/16885108",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 9,
+      "needs_review": true,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -19899,7 +19899,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -19932,7 +19932,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -19965,7 +19965,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -19998,7 +19998,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -20031,7 +20031,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -20064,7 +20064,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -20130,7 +20130,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -20229,7 +20229,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -20262,7 +20262,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -20328,7 +20328,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -20361,7 +20361,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -20394,7 +20394,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -20422,6 +20422,105 @@
       "stake": 100.0,
       "betway_event_id": "16847533",
       "betway_url": "https://betway.es/es/es/sports/event/16847533",
+      "status": "ganada",
+      "resolved_at": "2026-06-23T08:12:46.688789+00:00",
+      "result_source": "espn",
+      "event_result": "1-2",
+      "needs_review": false,
+      "auto_attempts": 1,
+      "last_error": null
+    },
+    {
+      "id": "b51178",
+      "msg_id": 51178,
+      "registered_at": "2026-06-23T07:45:22+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Plovdiv - Bulgaria.\n🥇 Partido: Dinko Dinev - Dali Blanch\n👉🏼 Pick: Asian Handicap1(5.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16890033",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Plovdiv - Bulgaria.",
+      "event": "Dinko Dinev - Dali Blanch",
+      "home": "Dinko Dinev",
+      "away": "Dali Blanch",
+      "pick": "Asian Handicap1(5.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(5.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 5.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16890033",
+      "betway_url": "https://betway.es/es/es/sports/event/16890033",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51179",
+      "msg_id": 51179,
+      "registered_at": "2026-06-23T07:57:37+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Bakio.\n🥇 Partido: Joaquin Guilleme - Michael Zhu\n👉🏼 Pick: Team1 Win - 2nd\n👉🏼 Cuota: 1.286\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16890171",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Bakio.",
+      "event": "Joaquin Guilleme - Michael Zhu",
+      "home": "Joaquin Guilleme",
+      "away": "Michael Zhu",
+      "pick": "Team1 Win - 2nd",
+      "pick_struct": {
+        "raw": "Team1 Win - 2nd",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 1.286,
+      "stake": 100.0,
+      "betway_event_id": "16890171",
+      "betway_url": "https://betway.es/es/es/sports/event/16890171",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51180",
+      "msg_id": 51180,
+      "registered_at": "2026-06-23T08:00:06+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Tarvisio.\n🥇 Partido: Alessandra Mazzola - Maria Sara Popa\n👉🏼 Pick: Team2 Win - 1 set, 04 game\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16891861",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Tarvisio.",
+      "event": "Alessandra Mazzola - Maria Sara Popa",
+      "home": "Alessandra Mazzola",
+      "away": "Maria Sara Popa",
+      "pick": "Team2 Win - 1 set, 04 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 04 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 04 game"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16891861",
+      "betway_url": "https://betway.es/es/es/sports/event/16891861",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
