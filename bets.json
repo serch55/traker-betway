@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 51516
+    "last_message_id": 51535
   },
   "bets": [
     {
@@ -24585,7 +24585,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -24618,7 +24618,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -24651,7 +24651,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -24684,7 +24684,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24717,7 +24717,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24750,7 +24750,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -24783,7 +24783,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -24816,7 +24816,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -24849,7 +24849,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -24882,7 +24882,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -24915,7 +24915,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -24948,7 +24948,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -24981,7 +24981,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25014,7 +25014,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25047,7 +25047,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25080,7 +25080,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25113,7 +25113,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25146,7 +25146,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25179,7 +25179,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25212,7 +25212,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25245,7 +25245,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25278,7 +25278,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25311,7 +25311,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25344,7 +25344,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25377,7 +25377,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25410,7 +25410,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25443,7 +25443,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25476,7 +25476,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25509,7 +25509,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25542,7 +25542,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25575,7 +25575,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25608,7 +25608,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25641,7 +25641,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25674,7 +25674,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25707,7 +25707,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25740,7 +25740,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25773,7 +25773,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25806,7 +25806,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25839,7 +25839,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25872,7 +25872,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25905,7 +25905,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25938,7 +25938,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25971,7 +25971,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26004,7 +26004,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26037,7 +26037,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26070,7 +26070,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26103,7 +26103,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26136,7 +26136,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26169,7 +26169,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26202,7 +26202,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26428,6 +26428,402 @@
       "stake": 100.0,
       "betway_event_id": "16890064",
       "betway_url": "https://betway.es/es/es/sports/event/16890064",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51519",
+      "msg_id": 51519,
+      "registered_at": "2026-06-24T13:29:06+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Zagreb.\n🥇 Partido: Jan Facek - Kalin Ivanovski\n👉🏼 Pick: Team1 Win - 1 set, 03 game\n👉🏼 Cuota: 2.1\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16894198",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Zagreb.",
+      "event": "Jan Facek - Kalin Ivanovski",
+      "home": "Jan Facek",
+      "away": "Kalin Ivanovski",
+      "pick": "Team1 Win - 1 set, 03 game",
+      "pick_struct": {
+        "raw": "Team1 Win - 1 set, 03 game",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "1 set, 03 game"
+      },
+      "ev": null,
+      "odds": 2.1,
+      "stake": 100.0,
+      "betway_event_id": "16894198",
+      "betway_url": "https://betway.es/es/es/sports/event/16894198",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51520",
+      "msg_id": 51520,
+      "registered_at": "2026-06-24T13:44:01+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Eastbourne.\n🥇 Partido: Felix Gill - Jan Choinski\n👉🏼 Pick: Total Over(9.5) - 1st\n👉🏼 Cuota: 1.727\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16896898",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Eastbourne.",
+      "event": "Felix Gill - Jan Choinski",
+      "home": "Felix Gill",
+      "away": "Jan Choinski",
+      "pick": "Total Over(9.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Over(9.5) - 1st",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 9.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.727,
+      "stake": 100.0,
+      "betway_event_id": "16896898",
+      "betway_url": "https://betway.es/es/es/sports/event/16896898",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51521",
+      "msg_id": 51521,
+      "registered_at": "2026-06-24T13:45:33+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Paul Jubb - Marcelo Tomas Barrios Vera\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 2.3\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16890279",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Paul Jubb - Marcelo Tomas Barrios Vera",
+      "home": "Paul Jubb",
+      "away": "Marcelo Tomas Barrios Vera",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.3,
+      "stake": 100.0,
+      "betway_event_id": "16890279",
+      "betway_url": "https://betway.es/es/es/sports/event/16890279",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51523",
+      "msg_id": 51523,
+      "registered_at": "2026-06-24T13:47:40+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Mallorca.\n🥇 Partido: Adam Walton - Alejandro Davidovich Fokina\n👉🏼 Pick: Total Under(22.5) - regular time\n👉🏼 Cuota: 2.05\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16889997",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Mallorca.",
+      "event": "Adam Walton - Alejandro Davidovich Fokina",
+      "home": "Adam Walton",
+      "away": "Alejandro Davidovich Fokina",
+      "pick": "Total Under(22.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(22.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 22.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16889997",
+      "betway_url": "https://betway.es/es/es/sports/event/16889997",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51524",
+      "msg_id": 51524,
+      "registered_at": "2026-06-24T13:51:27+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Women's - Singles.\n🥇 Partido: Katarzyna Kawa - Lucrezia Stefanini\n👉🏼 Pick: Team2 Win - 1 set, 02 game\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16893188",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Women's - Singles.",
+      "event": "Katarzyna Kawa - Lucrezia Stefanini",
+      "home": "Katarzyna Kawa",
+      "away": "Lucrezia Stefanini",
+      "pick": "Team2 Win - 1 set, 02 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 1 set, 02 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1 set, 02 game"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16893188",
+      "betway_url": "https://betway.es/es/es/sports/event/16893188",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51525",
+      "msg_id": 51525,
+      "registered_at": "2026-06-24T13:52:43+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Eastbourne.\n🥇 Partido: Daniel Altmaier - Zizou Bergs\n👉🏼 Pick: Team1 Win - 2nd\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16893959",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Eastbourne.",
+      "event": "Daniel Altmaier - Zizou Bergs",
+      "home": "Daniel Altmaier",
+      "away": "Zizou Bergs",
+      "pick": "Team1 Win - 2nd",
+      "pick_struct": {
+        "raw": "Team1 Win - 2nd",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16893959",
+      "betway_url": "https://betway.es/es/es/sports/event/16893959",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51526",
+      "msg_id": 51526,
+      "registered_at": "2026-06-24T13:54:47+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Bad Homburg.\n🥇 Partido: Iga Swiatek - Emma Navarro\n👉🏼 Pick: Total Under(8.5) - 1st\n👉🏼 Cuota: 2.5\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16892678",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Bad Homburg.",
+      "event": "Iga Swiatek - Emma Navarro",
+      "home": "Iga Swiatek",
+      "away": "Emma Navarro",
+      "pick": "Total Under(8.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Under(8.5) - 1st",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 8.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.5,
+      "stake": 100.0,
+      "betway_event_id": "16892678",
+      "betway_url": "https://betway.es/es/es/sports/event/16892678",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51528",
+      "msg_id": 51528,
+      "registered_at": "2026-06-24T13:55:52+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Tarvisio.\n🥇 Partido: Sofia Rocchetti - Lea Boskovic\n👉🏼 Pick: Team1 Win - 1 set, 07 game\n👉🏼 Cuota: 2.3\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16891888",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Tarvisio.",
+      "event": "Sofia Rocchetti - Lea Boskovic",
+      "home": "Sofia Rocchetti",
+      "away": "Lea Boskovic",
+      "pick": "Team1 Win - 1 set, 07 game",
+      "pick_struct": {
+        "raw": "Team1 Win - 1 set, 07 game",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "1 set, 07 game"
+      },
+      "ev": null,
+      "odds": 2.3,
+      "stake": 100.0,
+      "betway_event_id": "16891888",
+      "betway_url": "https://betway.es/es/es/sports/event/16891888",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51532",
+      "msg_id": 51532,
+      "registered_at": "2026-06-24T14:11:25+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Women's - Singles.\n🥇 Partido: Julia Riera - Fiona Crawley\n👉🏼 Pick: Total Over(20.5) - regular time\n👉🏼 Cuota: 1.85\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16892969",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Women's - Singles.",
+      "event": "Julia Riera - Fiona Crawley",
+      "home": "Julia Riera",
+      "away": "Fiona Crawley",
+      "pick": "Total Over(20.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(20.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 20.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.85,
+      "stake": 100.0,
+      "betway_event_id": "16892969",
+      "betway_url": "https://betway.es/es/es/sports/event/16892969",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51533",
+      "msg_id": 51533,
+      "registered_at": "2026-06-24T14:12:04+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Women's - Singles.\n🥇 Partido: Alina Korneeva - Andrea Lazaro Garcia\n👉🏼 Pick: Asian Handicap1(-3.5) - regular time\n👉🏼 Cuota: 1.7\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16892754",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Women's - Singles.",
+      "event": "Alina Korneeva - Andrea Lazaro Garcia",
+      "home": "Alina Korneeva",
+      "away": "Andrea Lazaro Garcia",
+      "pick": "Asian Handicap1(-3.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-3.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -3.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.7,
+      "stake": 100.0,
+      "betway_event_id": "16892754",
+      "betway_url": "https://betway.es/es/es/sports/event/16892754",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51534",
+      "msg_id": 51534,
+      "registered_at": "2026-06-24T14:12:23+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Tanger.\n🥇 Partido: Nathan Walters - Yassine Smiej\n👉🏼 Pick: Total Under(21.5) - regular time\n👉🏼 Cuota: 1.952\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16895475",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Tanger.",
+      "event": "Nathan Walters - Yassine Smiej",
+      "home": "Nathan Walters",
+      "away": "Yassine Smiej",
+      "pick": "Total Under(21.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(21.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 21.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.952,
+      "stake": 100.0,
+      "betway_event_id": "16895475",
+      "betway_url": "https://betway.es/es/es/sports/event/16895475",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51535",
+      "msg_id": 51535,
+      "registered_at": "2026-06-24T14:15:01+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Dane Sweeny - Darwin Blanch\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 1.222\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16890073",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Dane Sweeny - Darwin Blanch",
+      "home": "Dane Sweeny",
+      "away": "Darwin Blanch",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.222,
+      "stake": 100.0,
+      "betway_event_id": "16890073",
+      "betway_url": "https://betway.es/es/es/sports/event/16890073",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
