@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 51432
+    "last_message_id": 51439
   },
   "bets": [
     {
@@ -24151,12 +24151,12 @@
       "stake": 100.0,
       "betway_event_id": "16891911",
       "betway_url": "https://betway.es/es/es/sports/event/16891911",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -24222,7 +24222,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -24255,7 +24255,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -24288,7 +24288,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -24321,7 +24321,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -24354,7 +24354,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -24387,7 +24387,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24420,7 +24420,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24453,7 +24453,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -24486,7 +24486,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24585,7 +24585,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -24618,7 +24618,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -24651,7 +24651,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -24684,7 +24684,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -24717,7 +24717,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -24778,6 +24778,204 @@
       "stake": 100.0,
       "betway_event_id": "16891557",
       "betway_url": "https://betway.es/es/es/sports/event/16891557",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51434",
+      "msg_id": 51434,
+      "registered_at": "2026-06-24T08:10:58+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Zagreb.\n🥇 Partido: Matic Dimic - Drazen Petrovic\n👉🏼 Pick: Team1 Win - 1st\n👉🏼 Cuota: 1.952\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16894192",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Zagreb.",
+      "event": "Matic Dimic - Drazen Petrovic",
+      "home": "Matic Dimic",
+      "away": "Drazen Petrovic",
+      "pick": "Team1 Win - 1st",
+      "pick_struct": {
+        "raw": "Team1 Win - 1st",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.952,
+      "stake": 100.0,
+      "betway_event_id": "16894192",
+      "betway_url": "https://betway.es/es/es/sports/event/16894192",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51435",
+      "msg_id": 51435,
+      "registered_at": "2026-06-24T08:13:47+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Targu Mures - Romania.\n🥇 Partido: Alvaro Guillen Meza - Cezar Cretu\n👉🏼 Pick: Asian Handicap1(-2.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16893558",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Targu Mures - Romania.",
+      "event": "Alvaro Guillen Meza - Cezar Cretu",
+      "home": "Alvaro Guillen Meza",
+      "away": "Cezar Cretu",
+      "pick": "Asian Handicap1(-2.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-2.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -2.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16893558",
+      "betway_url": "https://betway.es/es/es/sports/event/16893558",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51436",
+      "msg_id": 51436,
+      "registered_at": "2026-06-24T08:14:01+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Challenger. Targu Mures - Romania.\n🥇 Partido: Niels Mcdonald - Francesco Passaro\n👉🏼 Pick: Team1 Win - 2nd\n👉🏼 Cuota: 2.4\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16893479",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Challenger. Targu Mures - Romania.",
+      "event": "Niels Mcdonald - Francesco Passaro",
+      "home": "Niels Mcdonald",
+      "away": "Francesco Passaro",
+      "pick": "Team1 Win - 2nd",
+      "pick_struct": {
+        "raw": "Team1 Win - 2nd",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 2.4,
+      "stake": 100.0,
+      "betway_event_id": "16893479",
+      "betway_url": "https://betway.es/es/es/sports/event/16893479",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51437",
+      "msg_id": 51437,
+      "registered_at": "2026-06-24T08:50:09+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Zagreb.\n🥇 Partido: Sebastian Sorger - Vito Tonejc\n👉🏼 Pick: Asian Handicap1(-5.5) - regular time\n👉🏼 Cuota: 1.65\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16894193",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Zagreb.",
+      "event": "Sebastian Sorger - Vito Tonejc",
+      "home": "Sebastian Sorger",
+      "away": "Vito Tonejc",
+      "pick": "Asian Handicap1(-5.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(-5.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": -5.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.65,
+      "stake": 100.0,
+      "betway_event_id": "16894193",
+      "betway_url": "https://betway.es/es/es/sports/event/16894193",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51438",
+      "msg_id": 51438,
+      "registered_at": "2026-06-24T09:05:34+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Tanger.\n🥇 Partido: Andrea M CHich - Yassine Dlimi\n👉🏼 Pick: Total Under(19.5) - regular time\n👉🏼 Cuota: 1.8\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16895452",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Tanger.",
+      "event": "Andrea M CHich - Yassine Dlimi",
+      "home": "Andrea M CHich",
+      "away": "Yassine Dlimi",
+      "pick": "Total Under(19.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(19.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 19.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.8,
+      "stake": 100.0,
+      "betway_event_id": "16895452",
+      "betway_url": "https://betway.es/es/es/sports/event/16895452",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51439",
+      "msg_id": 51439,
+      "registered_at": "2026-06-24T09:11:56+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Tanger.\n🥇 Partido: Florian Broska - Parth Aggarwal\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.154\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16895453",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Tanger.",
+      "event": "Florian Broska - Parth Aggarwal",
+      "home": "Florian Broska",
+      "away": "Parth Aggarwal",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.154,
+      "stake": 100.0,
+      "betway_event_id": "16895453",
+      "betway_url": "https://betway.es/es/es/sports/event/16895453",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
