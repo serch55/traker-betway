@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 51489
+    "last_message_id": 51502
   },
   "bets": [
     {
@@ -24453,7 +24453,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -24481,12 +24481,12 @@
       "stake": 100.0,
       "betway_event_id": "16892065",
       "betway_url": "https://betway.es/es/es/sports/event/16892065",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 8,
+      "needs_review": true,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -24585,7 +24585,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24618,7 +24618,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24651,7 +24651,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -24684,7 +24684,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -24717,7 +24717,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -24750,7 +24750,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -24783,7 +24783,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -24816,7 +24816,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -24849,7 +24849,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -24882,7 +24882,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -24915,7 +24915,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -24948,7 +24948,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -24981,7 +24981,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25014,7 +25014,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25047,7 +25047,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25080,7 +25080,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25113,7 +25113,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25146,7 +25146,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25179,7 +25179,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25212,7 +25212,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25245,7 +25245,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25278,7 +25278,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25311,7 +25311,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25344,7 +25344,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25377,7 +25377,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25410,7 +25410,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25443,7 +25443,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -25999,6 +25999,204 @@
       "stake": 100.0,
       "betway_event_id": "16894056",
       "betway_url": "https://betway.es/es/es/sports/event/16894056",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51491",
+      "msg_id": 51491,
+      "registered_at": "2026-06-24T11:41:21+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Bad Homburg.\n🥇 Partido: Qinwen Zheng - Clara Tauson\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.65\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16889491",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Bad Homburg.",
+      "event": "Qinwen Zheng - Clara Tauson",
+      "home": "Qinwen Zheng",
+      "away": "Clara Tauson",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.65,
+      "stake": 100.0,
+      "betway_event_id": "16889491",
+      "betway_url": "https://betway.es/es/es/sports/event/16889491",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51492",
+      "msg_id": 51492,
+      "registered_at": "2026-06-24T11:45:31+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Brussels.\n🥇 Partido: Dorian Verrue - Harold Huens\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 1.5\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16893947",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Brussels.",
+      "event": "Dorian Verrue - Harold Huens",
+      "home": "Dorian Verrue",
+      "away": "Harold Huens",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.5,
+      "stake": 100.0,
+      "betway_event_id": "16893947",
+      "betway_url": "https://betway.es/es/es/sports/event/16893947",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51494",
+      "msg_id": 51494,
+      "registered_at": "2026-06-24T11:52:30+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Bad Homburg.\n🥇 Partido: Anna Kalinskaya - Elena Gabriela Ruse\n👉🏼 Pick: Team1 Win - 2 set, 01 game\n👉🏼 Cuota: 1.444\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16892679",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Bad Homburg.",
+      "event": "Anna Kalinskaya - Elena Gabriela Ruse",
+      "home": "Anna Kalinskaya",
+      "away": "Elena Gabriela Ruse",
+      "pick": "Team1 Win - 2 set, 01 game",
+      "pick_struct": {
+        "raw": "Team1 Win - 2 set, 01 game",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "2 set, 01 game"
+      },
+      "ev": null,
+      "odds": 1.444,
+      "stake": 100.0,
+      "betway_event_id": "16892679",
+      "betway_url": "https://betway.es/es/es/sports/event/16892679",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51495",
+      "msg_id": 51495,
+      "registered_at": "2026-06-24T11:54:39+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Mallorca.\n🥇 Partido: Murphy Cassone - Ethan Quinn\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 1.444\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16889872",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Mallorca.",
+      "event": "Murphy Cassone - Ethan Quinn",
+      "home": "Murphy Cassone",
+      "away": "Ethan Quinn",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.444,
+      "stake": 100.0,
+      "betway_event_id": "16889872",
+      "betway_url": "https://betway.es/es/es/sports/event/16889872",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51496",
+      "msg_id": 51496,
+      "registered_at": "2026-06-24T12:02:58+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Porto.\n🥇 Partido: Francisco Faria - Rodrigo Fernandes\n👉🏼 Pick: Total Over(18.5) - regular time\n👉🏼 Cuota: 1.85\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16895440",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Porto.",
+      "event": "Francisco Faria - Rodrigo Fernandes",
+      "home": "Francisco Faria",
+      "away": "Rodrigo Fernandes",
+      "pick": "Total Over(18.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(18.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 18.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.85,
+      "stake": 100.0,
+      "betway_event_id": "16895440",
+      "betway_url": "https://betway.es/es/es/sports/event/16895440",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51498",
+      "msg_id": 51498,
+      "registered_at": "2026-06-24T12:03:18+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.5 (0.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Eastbourne.\n🥇 Partido: Tereza Valentova - Ajla Tomljanovic\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 2.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16889970",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Eastbourne.",
+      "event": "Tereza Valentova - Ajla Tomljanovic",
+      "home": "Tereza Valentova",
+      "away": "Ajla Tomljanovic",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.6,
+      "stake": 100.0,
+      "betway_event_id": "16889970",
+      "betway_url": "https://betway.es/es/es/sports/event/16889970",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
