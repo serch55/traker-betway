@@ -1,6 +1,6 @@
 {
   "state": {
-    "last_message_id": 51535
+    "last_message_id": 51572
   },
   "bets": [
     {
@@ -24585,7 +24585,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -24618,7 +24618,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -24651,7 +24651,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -24684,7 +24684,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -24717,7 +24717,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 6,
+      "auto_attempts": 7,
       "last_error": null
     },
     {
@@ -24750,7 +24750,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24783,7 +24783,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24816,7 +24816,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24849,7 +24849,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24882,7 +24882,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 5,
+      "auto_attempts": 6,
       "last_error": null
     },
     {
@@ -24915,7 +24915,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -24948,7 +24948,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -24981,7 +24981,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -25014,7 +25014,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -25047,7 +25047,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 4,
+      "auto_attempts": 5,
       "last_error": null
     },
     {
@@ -25080,7 +25080,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25113,7 +25113,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25146,7 +25146,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25179,7 +25179,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25212,7 +25212,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25245,7 +25245,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25278,7 +25278,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25311,7 +25311,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25344,7 +25344,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25377,7 +25377,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25410,7 +25410,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25443,7 +25443,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 3,
+      "auto_attempts": 4,
       "last_error": null
     },
     {
@@ -25476,7 +25476,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25509,7 +25509,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25542,7 +25542,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25575,7 +25575,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25608,7 +25608,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25641,7 +25641,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25674,7 +25674,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25707,7 +25707,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25740,7 +25740,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25773,7 +25773,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25806,7 +25806,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25839,7 +25839,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25872,7 +25872,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 2,
+      "auto_attempts": 3,
       "last_error": null
     },
     {
@@ -25905,7 +25905,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25938,7 +25938,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -25971,7 +25971,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -26004,7 +26004,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -26037,7 +26037,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -26070,7 +26070,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -26103,7 +26103,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -26136,7 +26136,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -26169,7 +26169,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -26202,7 +26202,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 1,
+      "auto_attempts": 2,
       "last_error": null
     },
     {
@@ -26235,7 +26235,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26268,7 +26268,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26301,7 +26301,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26334,7 +26334,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26367,7 +26367,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26400,7 +26400,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26433,7 +26433,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 0,
+      "auto_attempts": 1,
       "last_error": null
     },
     {
@@ -26824,6 +26824,600 @@
       "stake": 100.0,
       "betway_event_id": "16890073",
       "betway_url": "https://betway.es/es/es/sports/event/16890073",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51539",
+      "msg_id": 51539,
+      "registered_at": "2026-06-24T14:24:02+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Fútbol\n📝 Competición: Brazil. Serie A U20.\n🥇 Partido: Avai U20 - Atletico Paranaense U20\n👉🏼 Pick: Total Over(0.5) - 1st\n👉🏼 Cuota: 1.909\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16893068",
+      "bookmaker": "Betway",
+      "sport": "fútbol",
+      "competition": "Brazil. Serie A U20.",
+      "event": "Avai U20 - Atletico Paranaense U20",
+      "home": "Avai U20",
+      "away": "Atletico Paranaense U20",
+      "pick": "Total Over(0.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Over(0.5) - 1st",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 0.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.909,
+      "stake": 100.0,
+      "betway_event_id": "16893068",
+      "betway_url": "https://betway.es/es/es/sports/event/16893068",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51541",
+      "msg_id": 51541,
+      "registered_at": "2026-06-24T14:26:21+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Tanger.\n🥇 Partido: Ali Missoum - Federico Valle\n👉🏼 Pick: Total Under(22.5) - regular time\n👉🏼 Cuota: 1.952\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16895473",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Tanger.",
+      "event": "Ali Missoum - Federico Valle",
+      "home": "Ali Missoum",
+      "away": "Federico Valle",
+      "pick": "Total Under(22.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(22.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 22.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.952,
+      "stake": 100.0,
+      "betway_event_id": "16895473",
+      "betway_url": "https://betway.es/es/es/sports/event/16895473",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51544",
+      "msg_id": 51544,
+      "registered_at": "2026-06-24T14:31:46+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Rome.\n🥇 Partido: Anna Frey - Capucine Jauffret\n👉🏼 Pick: Team1 Win - regular time\n👉🏼 Cuota: 1.85\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16895499",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Rome.",
+      "event": "Anna Frey - Capucine Jauffret",
+      "home": "Anna Frey",
+      "away": "Capucine Jauffret",
+      "pick": "Team1 Win - regular time",
+      "pick_struct": {
+        "raw": "Team1 Win - regular time",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.85,
+      "stake": 100.0,
+      "betway_event_id": "16895499",
+      "betway_url": "https://betway.es/es/es/sports/event/16895499",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51545",
+      "msg_id": 51545,
+      "registered_at": "2026-06-24T14:31:56+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Eastbourne.\n🥇 Partido: Catherine Mcnally - Emiliana Arango\n👉🏼 Pick: Total Over(17.5) - regular time\n👉🏼 Cuota: 2.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16893580",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Eastbourne.",
+      "event": "Catherine Mcnally - Emiliana Arango",
+      "home": "Catherine Mcnally",
+      "away": "Emiliana Arango",
+      "pick": "Total Over(17.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(17.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 17.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.2,
+      "stake": 100.0,
+      "betway_event_id": "16893580",
+      "betway_url": "https://betway.es/es/es/sports/event/16893580",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51546",
+      "msg_id": 51546,
+      "registered_at": "2026-06-24T14:32:13+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Roman Safiullin - Kimmer Coppejans\n👉🏼 Pick: Total Over(21.5) - regular time\n👉🏼 Cuota: 1.952\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16888903",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Roman Safiullin - Kimmer Coppejans",
+      "home": "Roman Safiullin",
+      "away": "Kimmer Coppejans",
+      "pick": "Total Over(21.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Over(21.5) - regular time",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 21.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.952,
+      "stake": 100.0,
+      "betway_event_id": "16888903",
+      "betway_url": "https://betway.es/es/es/sports/event/16888903",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51548",
+      "msg_id": 51548,
+      "registered_at": "2026-06-24T14:32:41+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Tarvisio.\n🥇 Partido: Selena Janicijevic - Deborah Chiesa\n👉🏼 Pick: Asian Handicap2(-5.5) - regular time\n👉🏼 Cuota: 1.25\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16891885",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Tarvisio.",
+      "event": "Selena Janicijevic - Deborah Chiesa",
+      "home": "Selena Janicijevic",
+      "away": "Deborah Chiesa",
+      "pick": "Asian Handicap2(-5.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap2(-5.5) - regular time",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": -5.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.25,
+      "stake": 100.0,
+      "betway_event_id": "16891885",
+      "betway_url": "https://betway.es/es/es/sports/event/16891885",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51551",
+      "msg_id": 51551,
+      "registered_at": "2026-06-24T14:44:15+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Women's - Singles.\n🥇 Partido: Anastasia Gasanova - Emerson Jones\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 1.364\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16893459",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Women's - Singles.",
+      "event": "Anastasia Gasanova - Emerson Jones",
+      "home": "Anastasia Gasanova",
+      "away": "Emerson Jones",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.364,
+      "stake": 100.0,
+      "betway_event_id": "16893459",
+      "betway_url": "https://betway.es/es/es/sports/event/16893459",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51553",
+      "msg_id": 51553,
+      "registered_at": "2026-06-24T14:48:14+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Luca Nardi - Otto Virtanen\n👉🏼 Pick: Asian Handicap1(4.5) - regular time\n👉🏼 Cuota: 1.75\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16890068",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Luca Nardi - Otto Virtanen",
+      "home": "Luca Nardi",
+      "away": "Otto Virtanen",
+      "pick": "Asian Handicap1(4.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap1(4.5) - regular time",
+        "tipo": "ah",
+        "equipo": "1",
+        "linea": 4.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.75,
+      "stake": 100.0,
+      "betway_event_id": "16890068",
+      "betway_url": "https://betway.es/es/es/sports/event/16890068",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51556",
+      "msg_id": 51556,
+      "registered_at": "2026-06-24T14:55:47+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Women's - Singles.\n🥇 Partido: Elena Pridankina - Suzan Lamens\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 2.05\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16893063",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Women's - Singles.",
+      "event": "Elena Pridankina - Suzan Lamens",
+      "home": "Elena Pridankina",
+      "away": "Suzan Lamens",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 2.05,
+      "stake": 100.0,
+      "betway_event_id": "16893063",
+      "betway_url": "https://betway.es/es/es/sports/event/16893063",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51557",
+      "msg_id": 51557,
+      "registered_at": "2026-06-24T14:55:52+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Tanger.\n🥇 Partido: Karim Bennani - Noah Perfetti\n👉🏼 Pick: Team2 Win - 2 set, 05 game\n👉🏼 Cuota: 1.952\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16895468",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Tanger.",
+      "event": "Karim Bennani - Noah Perfetti",
+      "home": "Karim Bennani",
+      "away": "Noah Perfetti",
+      "pick": "Team2 Win - 2 set, 05 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 2 set, 05 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "2 set, 05 game"
+      },
+      "ev": null,
+      "odds": 1.952,
+      "stake": 100.0,
+      "betway_event_id": "16895468",
+      "betway_url": "https://betway.es/es/es/sports/event/16895468",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51558",
+      "msg_id": 51558,
+      "registered_at": "2026-06-24T14:57:45+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Women. Gdansk.\n🥇 Partido: Martina Okalova - Barbora Palicova\n👉🏼 Pick: Total Under(17.5) - regular time\n👉🏼 Cuota: 1.952\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16893980",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Women. Gdansk.",
+      "event": "Martina Okalova - Barbora Palicova",
+      "home": "Martina Okalova",
+      "away": "Barbora Palicova",
+      "pick": "Total Under(17.5) - regular time",
+      "pick_struct": {
+        "raw": "Total Under(17.5) - regular time",
+        "tipo": "total",
+        "equipo": "under",
+        "linea": 17.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.952,
+      "stake": 100.0,
+      "betway_event_id": "16893980",
+      "betway_url": "https://betway.es/es/es/sports/event/16893980",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51559",
+      "msg_id": 51559,
+      "registered_at": "2026-06-24T14:59:26+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: World Tennis Tour - Men. Tanger.\n🥇 Partido: Massimo Giunta - Othman Bezzaz\n👉🏼 Pick: Team1 Win - 1 set, 02 game\n👉🏼 Cuota: 1.182\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16895474",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "World Tennis Tour - Men. Tanger.",
+      "event": "Massimo Giunta - Othman Bezzaz",
+      "home": "Massimo Giunta",
+      "away": "Othman Bezzaz",
+      "pick": "Team1 Win - 1 set, 02 game",
+      "pick_struct": {
+        "raw": "Team1 Win - 1 set, 02 game",
+        "tipo": "winner",
+        "equipo": "1",
+        "linea": null,
+        "periodo": "1 set, 02 game"
+      },
+      "ev": null,
+      "odds": 1.182,
+      "stake": 100.0,
+      "betway_event_id": "16895474",
+      "betway_url": "https://betway.es/es/es/sports/event/16895474",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51562",
+      "msg_id": 51562,
+      "registered_at": "2026-06-24T15:08:14+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: WTA. Eastbourne.\n🥇 Partido: Petra Marcinko - Kimberly Birrell\n👉🏼 Pick: Team2 Win - regular time\n👉🏼 Cuota: 1.65\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16894360",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "WTA. Eastbourne.",
+      "event": "Petra Marcinko - Kimberly Birrell",
+      "home": "Petra Marcinko",
+      "away": "Kimberly Birrell",
+      "pick": "Team2 Win - regular time",
+      "pick_struct": {
+        "raw": "Team2 Win - regular time",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.65,
+      "stake": 100.0,
+      "betway_event_id": "16894360",
+      "betway_url": "https://betway.es/es/es/sports/event/16894360",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51566",
+      "msg_id": 51566,
+      "registered_at": "2026-06-24T15:13:08+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 0.75 (0.75% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Pablo Llamas Ruiz - Pol Martin Tiffon\n👉🏼 Pick: Team2 Win - 1st\n👉🏼 Cuota: 2.3\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16890070",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Pablo Llamas Ruiz - Pol Martin Tiffon",
+      "home": "Pablo Llamas Ruiz",
+      "away": "Pol Martin Tiffon",
+      "pick": "Team2 Win - 1st",
+      "pick_struct": {
+        "raw": "Team2 Win - 1st",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 2.3,
+      "stake": 100.0,
+      "betway_event_id": "16890070",
+      "betway_url": "https://betway.es/es/es/sports/event/16890070",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51567",
+      "msg_id": 51567,
+      "registered_at": "2026-06-24T15:13:55+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Laslo Djere - Michael Zheng\n👉🏼 Pick: Team2 Win - 2nd\n👉🏼 Cuota: 1.286\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16888905",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Laslo Djere - Michael Zheng",
+      "home": "Laslo Djere",
+      "away": "Michael Zheng",
+      "pick": "Team2 Win - 2nd",
+      "pick_struct": {
+        "raw": "Team2 Win - 2nd",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "2nd"
+      },
+      "ev": null,
+      "odds": 1.286,
+      "stake": 100.0,
+      "betway_event_id": "16888905",
+      "betway_url": "https://betway.es/es/es/sports/event/16888905",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51569",
+      "msg_id": 51569,
+      "registered_at": "2026-06-24T15:17:23+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: ATP. Eastbourne.\n🥇 Partido: Gabriel Diallo - Tomas Martin Etcheverry\n👉🏼 Pick: Total Over(9.5) - 1st\n👉🏼 Cuota: 1.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16889243",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "ATP. Eastbourne.",
+      "event": "Gabriel Diallo - Tomas Martin Etcheverry",
+      "home": "Gabriel Diallo",
+      "away": "Tomas Martin Etcheverry",
+      "pick": "Total Over(9.5) - 1st",
+      "pick_struct": {
+        "raw": "Total Over(9.5) - 1st",
+        "tipo": "total",
+        "equipo": "over",
+        "linea": 9.5,
+        "periodo": "1st"
+      },
+      "ev": null,
+      "odds": 1.6,
+      "stake": 100.0,
+      "betway_event_id": "16889243",
+      "betway_url": "https://betway.es/es/es/sports/event/16889243",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51571",
+      "msg_id": 51571,
+      "registered_at": "2026-06-24T15:21:38+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1 (1% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Women's - Singles.\n🥇 Partido: Tiantsoa Rakotomanga Rajaonah - Lin Zhu\n👉🏼 Pick: Asian Handicap2(-2.5) - regular time\n👉🏼 Cuota: 1.6\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16894280",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Women's - Singles.",
+      "event": "Tiantsoa Rakotomanga Rajaonah - Lin Zhu",
+      "home": "Tiantsoa Rakotomanga Rajaonah",
+      "away": "Lin Zhu",
+      "pick": "Asian Handicap2(-2.5) - regular time",
+      "pick_struct": {
+        "raw": "Asian Handicap2(-2.5) - regular time",
+        "tipo": "ah",
+        "equipo": "2",
+        "linea": -2.5,
+        "periodo": "regular time"
+      },
+      "ev": null,
+      "odds": 1.6,
+      "stake": 100.0,
+      "betway_event_id": "16894280",
+      "betway_url": "https://betway.es/es/es/sports/event/16894280",
+      "status": "pendiente",
+      "resolved_at": null,
+      "result_source": null,
+      "event_result": null,
+      "needs_review": false,
+      "auto_attempts": 0,
+      "last_error": null
+    },
+    {
+      "id": "b51572",
+      "msg_id": 51572,
+      "registered_at": "2026-06-24T15:24:25+00:00",
+      "event_time": null,
+      "raw": "ℹ️ Stake: : 1.5 (1.5% bank)\n\n🏡 Casa de Apuestas: Betway\n🏆 Deporte: Tenis\n📝 Competición: Wimbledon. Men's - Singles.\n🥇 Partido: Keegan Smith - Moez Echargui\n👉🏼 Pick: Team2 Win - 2 set, 08 game\n👉🏼 Cuota: 1.2\n⏰ Fecha: 01/01/1970, 1:00:01 AM\n🔗 Enlace del partido: https://betway.es/es/es/sports/event/16889528",
+      "bookmaker": "Betway",
+      "sport": "tenis",
+      "competition": "Wimbledon. Men's - Singles.",
+      "event": "Keegan Smith - Moez Echargui",
+      "home": "Keegan Smith",
+      "away": "Moez Echargui",
+      "pick": "Team2 Win - 2 set, 08 game",
+      "pick_struct": {
+        "raw": "Team2 Win - 2 set, 08 game",
+        "tipo": "winner",
+        "equipo": "2",
+        "linea": null,
+        "periodo": "2 set, 08 game"
+      },
+      "ev": null,
+      "odds": 1.2,
+      "stake": 100.0,
+      "betway_event_id": "16889528",
+      "betway_url": "https://betway.es/es/es/sports/event/16889528",
       "status": "pendiente",
       "resolved_at": null,
       "result_source": null,
