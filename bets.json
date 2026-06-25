@@ -26857,12 +26857,12 @@
       "stake": 100.0,
       "betway_event_id": "16893068",
       "betway_url": "https://betway.es/es/es/sports/event/16893068",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -26890,12 +26890,12 @@
       "stake": 100.0,
       "betway_event_id": "16895473",
       "betway_url": "https://betway.es/es/es/sports/event/16895473",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -26923,12 +26923,12 @@
       "stake": 100.0,
       "betway_event_id": "16895499",
       "betway_url": "https://betway.es/es/es/sports/event/16895499",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -26956,12 +26956,12 @@
       "stake": 100.0,
       "betway_event_id": "16893580",
       "betway_url": "https://betway.es/es/es/sports/event/16893580",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -26989,12 +26989,12 @@
       "stake": 100.0,
       "betway_event_id": "16888903",
       "betway_url": "https://betway.es/es/es/sports/event/16888903",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -27022,12 +27022,12 @@
       "stake": 100.0,
       "betway_event_id": "16891885",
       "betway_url": "https://betway.es/es/es/sports/event/16891885",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -27055,12 +27055,12 @@
       "stake": 100.0,
       "betway_event_id": "16893459",
       "betway_url": "https://betway.es/es/es/sports/event/16893459",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -27088,12 +27088,12 @@
       "stake": 100.0,
       "betway_event_id": "16890068",
       "betway_url": "https://betway.es/es/es/sports/event/16890068",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -27121,12 +27121,12 @@
       "stake": 100.0,
       "betway_event_id": "16893063",
       "betway_url": "https://betway.es/es/es/sports/event/16893063",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -27154,12 +27154,12 @@
       "stake": 100.0,
       "betway_event_id": "16895468",
       "betway_url": "https://betway.es/es/es/sports/event/16895468",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -27187,12 +27187,12 @@
       "stake": 100.0,
       "betway_event_id": "16893980",
       "betway_url": "https://betway.es/es/es/sports/event/16893980",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -27220,12 +27220,12 @@
       "stake": 100.0,
       "betway_event_id": "16895474",
       "betway_url": "https://betway.es/es/es/sports/event/16895474",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -27253,12 +27253,12 @@
       "stake": 100.0,
       "betway_event_id": "16894360",
       "betway_url": "https://betway.es/es/es/sports/event/16894360",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -27286,12 +27286,12 @@
       "stake": 100.0,
       "betway_event_id": "16890070",
       "betway_url": "https://betway.es/es/es/sports/event/16890070",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 14,
+      "needs_review": true,
+      "auto_attempts": 15,
       "last_error": null
     },
     {
@@ -27319,12 +27319,12 @@
       "stake": 100.0,
       "betway_event_id": "16888905",
       "betway_url": "https://betway.es/es/es/sports/event/16888905",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -27352,12 +27352,12 @@
       "stake": 100.0,
       "betway_event_id": "16889243",
       "betway_url": "https://betway.es/es/es/sports/event/16889243",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -27385,12 +27385,12 @@
       "stake": 100.0,
       "betway_event_id": "16894280",
       "betway_url": "https://betway.es/es/es/sports/event/16894280",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -27418,12 +27418,12 @@
       "stake": 100.0,
       "betway_event_id": "16889528",
       "betway_url": "https://betway.es/es/es/sports/event/16889528",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -27451,12 +27451,12 @@
       "stake": 100.0,
       "betway_event_id": "16891489",
       "betway_url": "https://betway.es/es/es/sports/event/16891489",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -27484,12 +27484,12 @@
       "stake": 100.0,
       "betway_event_id": "16889525",
       "betway_url": "https://betway.es/es/es/sports/event/16889525",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -27517,12 +27517,12 @@
       "stake": 100.0,
       "betway_event_id": "16892946",
       "betway_url": "https://betway.es/es/es/sports/event/16892946",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -27550,12 +27550,12 @@
       "stake": 100.0,
       "betway_event_id": "16893215",
       "betway_url": "https://betway.es/es/es/sports/event/16893215",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -27583,12 +27583,12 @@
       "stake": 100.0,
       "betway_event_id": "16889524",
       "betway_url": "https://betway.es/es/es/sports/event/16889524",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 13,
+      "needs_review": true,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -27621,7 +27621,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 13,
+      "auto_attempts": 14,
       "last_error": null
     },
     {
@@ -27654,7 +27654,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -27687,7 +27687,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -27720,7 +27720,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -27753,7 +27753,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -27786,7 +27786,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -27819,7 +27819,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -27852,7 +27852,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -27885,7 +27885,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -27918,7 +27918,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -27951,7 +27951,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -27984,7 +27984,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -28017,7 +28017,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -28050,7 +28050,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -28083,7 +28083,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 12,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -28116,7 +28116,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -28149,7 +28149,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -28182,7 +28182,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -28215,7 +28215,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -28248,7 +28248,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -28281,7 +28281,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -28314,7 +28314,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -28347,7 +28347,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 11,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -28380,7 +28380,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -28413,7 +28413,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -28446,7 +28446,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -28479,7 +28479,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -28512,7 +28512,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -28545,7 +28545,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -28578,7 +28578,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -28611,7 +28611,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -28644,7 +28644,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 10,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -28677,7 +28677,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -28710,7 +28710,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -28743,7 +28743,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -28776,7 +28776,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -28809,7 +28809,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -28842,7 +28842,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -28875,7 +28875,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 9,
+      "auto_attempts": 10,
       "last_error": null
     },
     {
@@ -28908,7 +28908,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     },
     {
@@ -28941,7 +28941,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 7,
+      "auto_attempts": 8,
       "last_error": null
     },
     {
@@ -28974,7 +28974,7 @@
       "result_source": null,
       "event_result": null,
       "needs_review": false,
-      "auto_attempts": 8,
+      "auto_attempts": 9,
       "last_error": null
     }
   ]
