@@ -28705,12 +28705,12 @@
       "stake": 100.0,
       "betway_event_id": "16889916",
       "betway_url": "https://betway.es/es/es/sports/event/16889916",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 11,
+      "needs_review": true,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -28870,12 +28870,12 @@
       "stake": 100.0,
       "betway_event_id": "16893548",
       "betway_url": "https://betway.es/es/es/sports/event/16893548",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 12,
+      "needs_review": true,
+      "auto_attempts": 13,
       "last_error": null
     },
     {
@@ -28903,12 +28903,12 @@
       "stake": 100.0,
       "betway_event_id": "16892583",
       "betway_url": "https://betway.es/es/es/sports/event/16892583",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 11,
+      "needs_review": true,
+      "auto_attempts": 12,
       "last_error": null
     },
     {
@@ -28936,12 +28936,12 @@
       "stake": 100.0,
       "betway_event_id": "16889991",
       "betway_url": "https://betway.es/es/es/sports/event/16889991",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 10,
+      "needs_review": true,
+      "auto_attempts": 11,
       "last_error": null
     },
     {
@@ -28969,12 +28969,12 @@
       "stake": 100.0,
       "betway_event_id": "16895509",
       "betway_url": "https://betway.es/es/es/sports/event/16895509",
-      "status": "pendiente",
+      "status": "sin_resolver",
       "resolved_at": null,
       "result_source": null,
       "event_result": null,
-      "needs_review": false,
-      "auto_attempts": 11,
+      "needs_review": true,
+      "auto_attempts": 12,
       "last_error": null
     }
   ]
